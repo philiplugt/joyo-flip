@@ -35,22 +35,19 @@ img, picture, svg, video {
 	align-items: center;
 	gap: 12px;
 	border: 1px solid red;
+	perspective: 500px;
 }
 
 .card {
 	aspect-ratio: 1 / 1;
 	width: 10%;
-
-	background-color: skyblue;
-	border-radius: 24px;
-
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	border: 1px solid green;
+	
 	position: relative;
 
-	transition: transform 250ms;
+	transition: transform 1s;
 	transform-style: preserve-3d;
+
 	cursor: pointer;
 	
 
@@ -61,26 +58,40 @@ img, picture, svg, video {
 
 .card-flip {
 	transform: rotateY(180deg);
+
 }
 
 .card-face {
+		border-radius: 6px;
+	height: 100%;
+	width: 100%;
+	display: block;
 	position: absolute;
 	backface-visibility: hidden;
 	transform-style: preserve-3d;
+		display: flex;
+	justify-content: center;
+	align-items: center;
+
 }
 
 .card-front {
-	
-	font-size: 48px;
-	font-weight: bolder;
-	color: black;
-	z-index: 2;
+	background-color: skyblue;
 }
 
 .card-back {
+	background-color: lightcoral;
+	transform: rotateY(180deg);
+}
+
+.content-front {
+	font-size: 48px;
+	font-weight: bolder;
+	color: black;
+}
+
+.content-back {
 	font-size: 18px;
 	font-weight: bold;
 	color: black;
-	z-index: 1;
-	transform: rotateY(-180deg);
 }
