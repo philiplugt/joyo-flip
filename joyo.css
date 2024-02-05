@@ -20,7 +20,7 @@ html {
 
 body {
 	min-height: 100vh;
-	border: 1px solid blue;
+/*	border: 1px solid blue;*/
 }
 
 img, picture, svg, video {
@@ -28,23 +28,28 @@ img, picture, svg, video {
 	max-width: 100%;
 }
 
+.go {
+	height: 100px;
+	width: 100px;
+}
+
 .container {
 	min-height: inherit;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	gap: 12px;
-	border: 1px solid red;
-	perspective: 500px;
+	flex-wrap: wrap;
+	padding: 24px;
+	gap: 24px;
+/*	border: 1px solid red;*/
 }
 
 .card {
 	aspect-ratio: 1 / 1;
 	width: 10%;
-	border: 1px solid green;
+/*	border: 1px solid green;*/
 	
 	position: relative;
-
 	transition: transform 1s;
 	transform-style: preserve-3d;
 
@@ -57,19 +62,19 @@ img, picture, svg, video {
 }
 
 .card-flip {
-	transform: rotateY(180deg);
+	transform: perspective(200px) rotateY(180deg);
 
 }
 
 .card-face {
-		border-radius: 6px;
+	border-radius: 6px;
 	height: 100%;
 	width: 100%;
 	display: block;
 	position: absolute;
 	backface-visibility: hidden;
 	transform-style: preserve-3d;
-		display: flex;
+	display: flex;
 	justify-content: center;
 	align-items: center;
 
