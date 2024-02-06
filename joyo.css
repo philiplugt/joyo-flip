@@ -8,15 +8,15 @@
 	font: inherit;
 }
 
-html {
-	color-scheme: dark light;
-}
+/*html {
+	color-scheme: light dark;
+}*/
 
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
     body { color: #c9d1d9; background: #0d1117; } 
     a:link { color:#58a6ff; } 
     a:visited { color:#8e96f0 }
-}
+}*/
 
 body {
 	min-height: 100vh;
@@ -41,12 +41,12 @@ img, picture, svg, video {
 	align-items: center;
 	flex-wrap: wrap;
 	padding: 24px;
-	gap: 36px;
+	gap: 3px;
 /*	border: 1px solid red;*/
 }
 
 .card {
-	aspect-ratio: 1 / 1;
+	aspect-ratio: 1 / 1.44;
 	width: 10%;
 /*	border: 1px solid green;*/
 	
@@ -67,7 +67,7 @@ img, picture, svg, video {
 }
 
 .card-face {
-	border-radius: 6px;
+/*	border-radius: px;*/
 	height: 100%;
 	width: 100%;
 	display: block;
@@ -81,12 +81,21 @@ img, picture, svg, video {
 }
 
 .card-front {
-	background-color: skyblue;
+	background-color: rgb(196, 237, 255);
 }
 
 .card-back {
-	background-color: lightcoral;
+	background-color: rgba(129, 212, 250, 1);
+/*	background-color: rgba(129, 212, 250, 1);*/
 	transform: rotateY(180deg);
+}
+
+.content-number {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	color: slategray;
+	font-size: 9px;
 }
 
 .content-front {
@@ -99,4 +108,8 @@ img, picture, svg, video {
 	font-size: 18px;
 	font-weight: bold;
 	color: black;
+}
+
+.slidercontainer {
+	padding: 10px 30px;
 }
