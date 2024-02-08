@@ -10,6 +10,9 @@ Current version has been successfully tested and run on Firefox and Safari (2024
 
 Download all files to a folder of your choosing, and run `joyo.html` in your browser.
 
+> [!NOTE]
+> This tool is still underdevelopment. Some issues remain, for example, currently the font selection is limited to Mac OSX computers that have the Japanese fonts this app relies on preinstalled. This affect user of Windows or Linux. 
+
 ### Details
 
 For many foreigners the first step to learning kanji is learning the meaning of the characters, after which phonetics and vocabulary are learnt. Joyo flip is a tool that focusses on the former. 
