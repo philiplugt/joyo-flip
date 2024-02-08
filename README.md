@@ -1,17 +1,27 @@
 # A tool to help learn kanji
 
-Joyo flip was made to help non-Japanese speakers learn kanji. 
+Joyo flip was made to help non-Japanese speakers learn kanji.
+
+<div align="center">
+    <img width="400" alt="hitori" src="https://github.com/philiplugt/joyo-flip/assets/22942635/1699fff0-cb91-4636-b73f-877ec2bdc350">    
+    <p><sup>Joyo Flip running on Firefox</sup></p>
+    <br>
+</div>
 
 ### Versioning
 
 Current version has been successfully tested and run on Firefox and Safari (2024-02-08)
+
+| Version | Date | Notes |
+| ------- | ---- | ----- |
+| current | 2024-02-08 | Initial version (pre-release) |
 
 ### How to use
 
 Download all files to a folder of your choosing, and run `joyo.html` in your browser.
 
 > [!NOTE]
-> This tool is still underdevelopment. Some issues remain, for example, currently the font selection is limited to Mac OSX computers that have the Japanese fonts this app relies on preinstalled. This affect user of Windows or Linux. 
+> This tool is still under development. Some issues remain, for example, currently the font selection is limited to Mac OSX computers that have the Japanese fonts this app relies on pre-installed. This may affect users of Windows or Linux. 
 
 ### Details
 
