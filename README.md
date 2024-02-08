@@ -8,7 +8,7 @@ Current version has been successfully tested and run on Firefox and Safari (2024
 
 ### How to use
 
-Download all files to a folder of your choosing, and run `joyoflip.html` in your browser.
+Download all files to a folder of your choosing, and run `joyo.html` in your browser.
 
 ### Details
 
