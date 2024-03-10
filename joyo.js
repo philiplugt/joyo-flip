@@ -69,6 +69,7 @@ document.addEventListener('DOMContentLoaded', setGrades("1"));
 
 
 function setGrades(grade) {
+    console.log('')
     const grade1 = kanjis.filter(k => k['grade'] === grade)
     var count = 0;
     const gradechars = grade1.sort().map((char) => {
@@ -77,7 +78,7 @@ function setGrades(grade) {
         return `
         <div class="card">
             <div class="card-face card-front">
-                <div class="content-number">${count}</div>
+                <div class="content-number">${grade !== 'S' ? 'G' : ''}${grade} • #${count}</div>
                 <div class="content-front">${char.new_shinjitai}</div>
             </div>
             <div class="card-face card-back">
