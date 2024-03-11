@@ -35,18 +35,17 @@ function changeFont() {
     body.style.fontWeight = null;
     switch (parseInt(this.value)) {
     case 1:
-        //BiauKaiTC
-        body.style.fontFamily = "BiauKaiTC";
+        body.style.fontFamily = "Toppan Bunkyu Mincho";
         break;
     case 2:
+        body.style.fontFamily = "Klee";
+        break;
+    case 3:
         body.style.fontFamily = "verdana,'ヒラギノ丸ゴ ProN W4','Hiragino Maru Gothic ProN','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',Sans-Serif";//"Yuanti TC";
         body.style.fontWeight = "lighter";
         break;
-    case 3:
-        body.style.fontFamily = "Libian TC";
-        break;
     case 4:
-        body.style.fontFamily = "Wawati TC";
+        body.style.fontFamily = "YuKyokasho Yoko";
         break;
     case 5:
         body.style.fontFamily = "ヒラギノ角ゴ Pro W3";
