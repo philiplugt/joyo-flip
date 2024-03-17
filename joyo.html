@@ -9,35 +9,44 @@
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
   </head>
   <body>
-    <main>
-        <h1>Welcome to Joyo Flip</h1>
-    </main>
-    <label>Choose a font</label>
-    <select class="go3">
+    <header>
+      <h1>Welcome to Joyo Flip</h1>
+      <label>Choose a font</label>
+      <select class="go3">
       <option value="1">1</option>
       <option value="2">2</option>
       <option value="3">3</option>
       <option value="4">4</option>
       <option value="5">5</option>
       <option value="6" selected>6</option>
-    </select>
+      </select>
 
-    <button class="go2">Flip all</button>
-    <button class="go">Reset</button>
-    <div class="slidercontainer">
-      <input type="range" min="1" max="100" value="50" class="slider">
-    </div>
-    <div class="grades">
-      <button data-type="1">Grade 1</button>
-      <button data-type="2">Grade 2</button>
-      <button data-type="3">Grade 3</button>
-      <button data-type="4">Grade 4</button>
-      <button data-type="5">Grade 5</button>
-      <button data-type="6">Grade 6</button>
-      <button data-type="S">Secondary</button>
-    </div>
-    <div class="container">
-    </div>
+      <button class="go2">Flip all</button>
+      <button class="go">Reset</button>
+      <button class="rnd">Shuffle</button>
+    
+      <select class="slider">
+      <option value="1" selected>Huge</option>
+      <option value="0.75">Large</option>
+      <option value="0.5">Normal</option>
+      <option value="0.25">Small</option>
+      </select>
+
+
+      <div class="grades">
+        <button data-type="1">Grade 1</button>
+        <button data-type="2">Grade 2</button>
+        <button data-type="3">Grade 3</button>
+        <button data-type="4">Grade 4</button>
+        <button data-type="5">Grade 5</button>
+        <button data-type="6">Grade 6</button>
+        <button data-type="S">Secondary</button>
+      </div>
+    </header>
+    <main>
+      <div class="container"></div>
+    </main>
+    <footer></footer>
   <script src="kanjis.js"></script>
 	<script src="joyo.js"></script>
   </body>
