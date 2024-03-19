@@ -19,15 +19,24 @@
     a:link { color:#58a6ff; } 
     a:visited { color:#8e96f0 }
 }*/
-
+:root {
+	--card-shadow: rgba(210, 210, 210, 1);
+	--card-red: #E3BBBB;
+	--card-red-shadow: #B09191;
+	--card-green: #BBE3CB;
+	--card-green-shadow: #91B09E;
+}
 
 body {
 	min-height: 100vh;
 	font-weight: 400;
-	background-color: #c7d0dd;
+	background-color: rgba(230, 230, 230, 1);
 /*	background-color: rgba(11, 41, 88, 1);*/
 /*	background-color: rgba(161, 189, 226, 1.0);*/
 	padding: 0px 40px;
+	font-family: "Urbanist";
+	font-weight: bold;
+	color: #333;
 }
 
 img, picture, svg, video {
@@ -41,15 +50,12 @@ img, picture, svg, video {
 	}
 }
 
+main {
 
-.go {
-	height: 30px;
-	width: 100px;
 }
 
-.container {
-	padding-top: 60px;
-	max-width: 1160px;
+.cards {
+	max-width: 1080px;
 	margin: 0 auto;
 	min-height: inherit;
 	display: flex;
@@ -60,12 +66,19 @@ img, picture, svg, video {
 /*	border: 1px solid red;*/
 }
 
+h1 {
+	font-size: 128px;
+	font-family: "Poppins";
+	font-weight: bold;
+}
 
-
-
-
-
-
+.bar {
+	height: 2px;
+	width: 100%;
+	background-color: rgba(210, 210, 210, 1);
+	margin: 40px 0px;
+	border-radius: 4px;
+}
 
 .card {
 	aspect-ratio: 1 / 1.333;
@@ -84,19 +97,55 @@ img, picture, svg, video {
   	-ms-user-select: none; /* IE 10 and IE 11 */
   	user-select: none; /* Standard syntax */
 
-/*  	box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.12);*/
   	background-color: white;
+  	box-shadow: 2px 2px 0px 0px var(--card-shadow);
 }
 
 .card-flip {
 	transform: perspective(800px) rotateY(180deg);
 }
 
-.card-color {
-	background-color: rgba(169, 223, 191, 1);
+.card-color-red {
+	background-color: var(--card-red);
+	box-shadow: 2px 2px 0px 0px var(--card-red-shadow);
+}
+
+.card-color-green {
+	background-color: var(--card-green);
+	box-shadow: 2px 2px 0px 0px var(--card-green-shadow);
 }
 
 
+input[type=radio] {
+	position: absolute;
+	z-index: -10;
+}
+
+input[type=radio]:checked + label {
+	border: 3px solid #333;
+}
+
+input[type=radio]:hover + label {
+	border: 3px solid #333;
+}
+
+.radio-group {
+	position: relative;
+	display: flex;
+	gap: 10px;
+	margin-top: 4px;
+}
+
+.radio-button {
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	width: 100px;
+	height: 40px;
+	background-color: #fdd200;
+	border-radius: 6px;
+	cursor: pointer;
+}
 
 h6 {
 	font-weight: "Urbanist";
@@ -118,14 +167,10 @@ h6 {
 }
 
 .card-front {
-/*	background-color: rgb(196, 237, 255);*/
 }
 
 .card-back {
-/*	background-color: rgba(129, 212, 250, 1);*/
-/*	background-color: rgba(129, 212, 250, 1);*/
 	transform: rotateY(180deg);
-
 }
 
 .content-number {
@@ -135,29 +180,30 @@ h6 {
 
 	position: absolute;
 	bottom: 6px;
-	left: calc(50% - 84/2px);
+	left: calc(50% - 20/2px);
 	color: white;
-	font-size: 12px;
+	font-size: 10px;
 	font-weight: bold;
-	background-color: rgba(11, 41, 88, 1);
-	border-radius: 20px;
-	width: 84px;
-	height: 24px;
+	background-color: rgba(210, 210, 210, 1);
+	border-radius: 6px;
+	width: 20px;
+	height: 20px;
 	font-family: "Urbanist", sans-serif;
 }
 
 .content-front {
 	font-size: 84px;
 	font-weight: bolder;
-	color: rgba(11, 41, 88, 1);
+	color: #333;
 }
 
 .content-back {
+	padding: 0px 20px;
 	text-align: center;
 	font-size: 36px;
 	font-family: "Urbanist";
 	font-weight: bold;
-	color: rgba(11, 41, 88, 1);
+	color: #333;
 }
 
 .slidercontainer {

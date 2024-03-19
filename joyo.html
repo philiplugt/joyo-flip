@@ -10,43 +10,94 @@
   </head>
   <body>
     <header>
-      <h1>Welcome to Joyo Flip</h1>
-      <label>Choose a font</label>
-      <select class="go3">
-      <option value="1">1</option>
-      <option value="2">2</option>
-      <option value="3">3</option>
-      <option value="4">4</option>
-      <option value="5">5</option>
-      <option value="6" selected>6</option>
-      </select>
+      <h1>Joyo Flip</h1>
 
-      <button class="go2">Flip all</button>
-      <button class="go">Reset</button>
-      <button class="rnd">Shuffle</button>
-    
-      <select class="slider">
-      <option value="1" selected>Huge</option>
-      <option value="0.75">Large</option>
-      <option value="0.5">Normal</option>
-      <option value="0.25">Small</option>
-      </select>
+      <h3>Choose a font:</h3>
+      <div class="radio-group">
+        <input type="radio" name="font-group" value="1" id="font-group-1" checked>
+        <label class="radio-button" for="font-group-1">Klee</label>
 
+        <input type="radio" name="font-group" value="2" id="font-group-2">
+        <label class="radio-button" for="font-group-2">Mincho</label>
 
-      <div class="grades">
-        <button data-type="1">Grade 1</button>
-        <button data-type="2">Grade 2</button>
-        <button data-type="3">Grade 3</button>
-        <button data-type="4">Grade 4</button>
-        <button data-type="5">Grade 5</button>
-        <button data-type="6">Grade 6</button>
-        <button data-type="S">Secondary</button>
+        <input type="radio" name="font-group" value="3" id="font-group-3">
+        <label class="radio-button" for="font-group-3">Kyokasho</label>
+
+        <input type="radio" name="font-group" value="4" id="font-group-4">
+        <label class="radio-button" for="font-group-4">4</label>
+
+        <input type="radio" name="font-group" value="5" id="font-group-5">
+        <label class="radio-button" for="font-group-5">5</label>
+
+        <input type="radio" name="font-group" value="6" id="font-group-6">
+        <label class="radio-button" for="font-group-6">6</label>
       </div>
+
+      <br>
+      <br>
+      <h3>Select a card size:</h3>
+      <div class="radio-group">
+        <input type="radio" name="size-group" value="1" id="size-group-1" checked>
+        <label class="radio-button" for="size-group-1">Large</label>
+
+        <input type="radio" name="size-group" value="0.75" id="size-group-2">
+        <label class="radio-button" for="size-group-2">Normal</label>
+
+        <input type="radio" name="size-group" value="0.50" id="size-group-3">
+        <label class="radio-button" for="size-group-3">Small</label>
+
+        <input type="radio" name="size-group" value="0.25" id="size-group-4">
+        <label class="radio-button" for="size-group-4">Tiny</label>
+      </div>
+
+      <br>
+      <br>
+      <h3>Select a joyo grade level:</h3>
+      <div class="radio-group">
+        <input type="radio" name="grade-group" value="1" id="grade-group-1" checked>
+        <label class="radio-button" for="grade-group-1">Grade 1</label>
+
+        <input type="radio" name="grade-group" value="2" id="grade-group-2">
+        <label class="radio-button" for="grade-group-2">Grade 2</label>
+
+        <input type="radio" name="grade-group" value="3" id="grade-group-3">
+        <label class="radio-button" for="grade-group-3">Grade 3</label>
+
+        <input type="radio" name="grade-group" value="4" id="grade-group-4">
+        <label class="radio-button" for="grade-group-4">Grade 4</label>
+
+        <input type="radio" name="grade-group" value="5" id="grade-group-5">
+        <label class="radio-button" for="grade-group-5">Grade 5</label>
+
+        <input type="radio" name="grade-group" value="6" id="grade-group-6">
+        <label class="radio-button" for="grade-group-6">Grade 6</label>
+
+        <input type="radio" name="grade-group" value="S" id="grade-group-secondary">
+        <label class="radio-button" for="grade-group-secondary">Secondary</label>
+
+        <input type="radio" name="grade-group" value="A" id="grade-group-all">
+        <label class="radio-button" for="grade-group-all">All</label>
+      </div>
+
+      <br>
+      <br>
+      <h3>Control:</h3>
+      <button class="radio-button go2">Flip all</button>
+      <button class="radio-button go">Reset</button>
+      <button class="radio-button rnd">Shuffle</button>
+
     </header>
     <main>
-      <div class="container"></div>
+      <div class="bar"></div>
+      <div class="cards"></div>
+      <div class="bar"></div>
     </main>
-    <footer></footer>
+    <footer>
+      <div>Like my work? Follow me on Twitter or Github --> </div>
+      <div>Website</div>
+      <div>Twitter</div>
+      <div>Github</div>
+    </footer>
   <script src="kanjis.js"></script>
 	<script src="joyo.js"></script>
   </body>

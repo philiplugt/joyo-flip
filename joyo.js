@@ -1,14 +1,14 @@
 
 // Implement card flip functionality
 var lastGrade = "1";
-const container = document.querySelector('.container');
+const container = document.querySelector('.cards');
 
-const buttons = document.querySelectorAll('.grades button');
-
+const buttons = document.querySelectorAll('input[name=grade-group]');
 buttons.forEach((button) => button.addEventListener('click', clicker));
 
 function clicker() {
-    setGrades(this.dataset.type);
+    console.log(this.value);
+    setGrades(this.value);
 }
 
 function clicker2() {
@@ -21,7 +21,14 @@ function flipCard() {
 
 function colorCard(e) {
     e.preventDefault();
-    this.classList.toggle('card-color');
+    if (this.classList.contains('card-color-green')) {
+        this.classList.remove('card-color-green');
+        this.classList.add('card-color-red');
+    } else if (this.classList.contains('card-color-red')) {
+        this.classList.remove('card-color-red');
+    } else {
+        this.classList.add('card-color-green');
+    }
 }
 
 function flipCardAll() {
@@ -42,37 +49,42 @@ function resetCardAll() {
 
 
 function changeFont() {
-    let body = document.querySelector('body');
-    body.style.fontWeight = null;
+    let main = document.querySelector('main');
+    main.style.fontWeight = null;
     switch (parseInt(this.value)) {
     case 1:
-        body.style.fontFamily = "Toppan Bunkyu Mincho";
+        main.style.fontFamily = "Klee";
         break;
     case 2:
-        body.style.fontFamily = "Klee";
+        main.style.fontFamily = "Toppan Bunkyu Mincho";
         break;
     case 3:
-        body.style.fontFamily = "verdana,'ヒラギノ丸ゴ ProN W4','Hiragino Maru Gothic ProN','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',Sans-Serif";//"Yuanti TC";
-        body.style.fontWeight = "lighter";
+        main.style.fontFamily = "YuKyokasho Yoko";
         break;
     case 4:
-        body.style.fontFamily = "YuKyokasho Yoko";
+        main.style.fontFamily = "verdana,'ヒラギノ丸ゴ ProN W4','Hiragino Maru Gothic ProN','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',Sans-Serif";//"Yuanti TC";
+        main.style.fontWeight = "lighter";
         break;
     case 5:
-        body.style.fontFamily = "ヒラギノ角ゴ Pro W3";
+        main.style.fontFamily = "ヒラギノ角ゴ Pro W3";
         break;
     case 6:
-        body.style.fontFamily = null;
+        main.style.fontFamily = "Urbanist";
         break;
     }
 }
 
 const go = document.querySelector('.go');
-const go2 = document.querySelector('.go2');
-const go3 = document.querySelector('.go3');
 go.addEventListener('click', resetCardAll);
+
+const go2 = document.querySelector('.go2');
 go2.addEventListener('click', flipCardAll);
-go3.addEventListener('change', changeFont);
+
+const go3 = document.querySelectorAll('input[name=font-group]');
+go3.forEach((radio) => radio.addEventListener('change', changeFont));
+
+
+
 const random = document.querySelector('.rnd');
 random.addEventListener('click', clicker2);
 
@@ -91,7 +103,7 @@ function shuffle(array) {
 
 function setGrades(grade, toShuffle=false) {
     lastGrade = grade;
-    const grade1 = kanjis.filter(k => k['grade'] === grade)
+    const grade1 = grade === 'A' ? kanjis : kanjis.filter(k => k['grade'] === grade);
     var count = 0;
     var grade1_n;
     if (toShuffle) {
@@ -106,7 +118,7 @@ function setGrades(grade, toShuffle=false) {
         return `
         <div class="card">
             <div class="card-face card-front">
-                
+                <div class="content-number">${count}</div>
                 <div class="content-front">${char.new_shinjitai}</div>
             </div>
             <div class="card-face card-back">
@@ -124,8 +136,9 @@ function setGrades(grade, toShuffle=false) {
     });
 }
 
-const slider = document.querySelector('.slider');
-slider.addEventListener('change', changeCardSize);
+const slider = document.querySelectorAll('input[name=size-group]');
+slider.forEach((radio) => radio.addEventListener('change', changeCardSize));
+
 // slider.addEventListener('mousemove', changeCardSize);
 
 function changeCardSize() {
