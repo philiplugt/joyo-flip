@@ -16,10 +16,12 @@ function clicker2() {
 }
 
 function flipCard() {
+    this.classList.remove('no-box-shadow-delay');
     this.classList.toggle('card-flip');
 }
 
 function colorCard(e) {
+    this.classList.add('no-box-shadow-delay');
     e.preventDefault();
     if (this.classList.contains('card-color-green')) {
         this.classList.remove('card-color-green');
@@ -34,6 +36,7 @@ function colorCard(e) {
 function flipCardAll() {
     const cards = document.querySelectorAll('.card');
     cards.forEach(card => {
+        this.classList.remove('no-box-shadow-delay');
         if (card.classList.contains('card-flip')) {
         } else {
             card.classList.add('card-flip');
@@ -43,8 +46,13 @@ function flipCardAll() {
 
 function resetCardAll() {
     const cards = document.querySelectorAll('.card');
-    cards.forEach(card => card.classList.remove('card-flip'));
-    cards.forEach(card => card.classList.remove('card-color'));
+    cards.forEach(card => {
+        card.classList.remove('card-color');
+        card.classList.remove('card-color-green');
+        card.classList.remove('card-color-red');
+        card.classList.remove('no-box-shadow-delay');
+        card.classList.remove('card-flip');
+    });
 }
 
 
@@ -62,8 +70,7 @@ function changeFont() {
         main.style.fontFamily = "YuKyokasho Yoko";
         break;
     case 4:
-        main.style.fontFamily = "verdana,'ヒラギノ丸ゴ ProN W4','Hiragino Maru Gothic ProN','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',Sans-Serif";//"Yuanti TC";
-        main.style.fontWeight = "lighter";
+        main.style.fontFamily = "verdana,'ヒラギノ丸ゴ ProN W4','Hiragino Maru Gothic ProN','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',Sans-Serif";
         break;
     case 5:
         main.style.fontFamily = "ヒラギノ角ゴ Pro W3";
@@ -118,8 +125,8 @@ function setGrades(grade, toShuffle=false) {
         return `
         <div class="card">
             <div class="card-face card-front">
-                <div class="content-number">${count}</div>
                 <div class="content-front">${char.new_shinjitai}</div>
+                <div class="content-number">${count}</div>
             </div>
             <div class="card-face card-back">
                 <div class="content-back">${char.english_meaning}</div>
