@@ -1,17 +1,33 @@
 
+
+const resetButton = document.querySelector('.button-reset');
+resetButton.addEventListener('click', resetCardAll);
+
+const flipAllButton = document.querySelector('.button-flip-all');
+flipAllButton.addEventListener('click', flipCardAll);
+
+const shuffleButton = document.querySelector('.button-shuffle');
+shuffleButton.addEventListener('click', gradeShuffleHandler);
+
+const fontRadioButtons = document.querySelectorAll('input[name=font-group]');
+fontRadioButtons.forEach((radio) => radio.addEventListener('change', changeCardFont));
+
+const gradeRadioButtons = document.querySelectorAll('input[name=grade-group]');
+gradeRadioButtons.forEach((radio) => radio.addEventListener('click', gradeHandler));
+
+const sizeRadioButtons = document.querySelectorAll('input[name=size-group]');
+sizeRadioButtons.forEach((radio) => radio.addEventListener('change', changeCardSize));
+
 // Implement card flip functionality
 var lastGrade = "1";
 const container = document.querySelector('.cards');
 
-const buttons = document.querySelectorAll('input[name=grade-group]');
-buttons.forEach((button) => button.addEventListener('click', clicker));
 
-function clicker() {
-    console.log(this.value);
+function gradeHandler() {
     setGrades(this.value);
 }
 
-function clicker2() {
+function gradeShuffleHandler() {
     setGrades(lastGrade, true);
 }
 
@@ -56,7 +72,7 @@ function resetCardAll() {
 }
 
 
-function changeFont() {
+function changeCardFont() {
     let main = document.querySelector('main');
     main.style.fontWeight = null;
     switch (parseInt(this.value)) {
@@ -81,31 +97,15 @@ function changeFont() {
     }
 }
 
-const go = document.querySelector('.go');
-go.addEventListener('click', resetCardAll);
-
-const go2 = document.querySelector('.go2');
-go2.addEventListener('click', flipCardAll);
-
-const go3 = document.querySelectorAll('input[name=font-group]');
-go3.forEach((radio) => radio.addEventListener('change', changeFont));
-
-
-
-const random = document.querySelector('.rnd');
-random.addEventListener('click', clicker2);
-
-document.addEventListener('DOMContentLoaded', setGrades(lastGrade));
 
 function shuffle(array) {
-  const result = [], itemsLeft = array.concat([]);
-  while (itemsLeft.length) {
-    const randomIndex = Math.floor(Math.random() * itemsLeft.length);
-    const [randomItem] = itemsLeft.splice(randomIndex, 1); // take out a random item from itemsLeft
-    result.push(randomItem); // ...and add it to the result
-  }
-
-  return result;
+    const result = [], itemsLeft = array.concat([]);
+    while (itemsLeft.length) {
+        const randomIndex = Math.floor(Math.random() * itemsLeft.length);
+        const [randomItem] = itemsLeft.splice(randomIndex, 1);
+        result.push(randomItem);
+    }
+    return result;
 }
 
 function setGrades(grade, toShuffle=false) {
@@ -143,10 +143,9 @@ function setGrades(grade, toShuffle=false) {
     });
 }
 
-const slider = document.querySelectorAll('input[name=size-group]');
-slider.forEach((radio) => radio.addEventListener('change', changeCardSize));
 
-// slider.addEventListener('mousemove', changeCardSize);
+document.addEventListener('DOMContentLoaded', setGrades(lastGrade));
+
 
 function changeCardSize() {
     var con = document.querySelectorAll('.container');

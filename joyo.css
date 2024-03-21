@@ -39,16 +39,16 @@ body {
 	color: #333;
 }
 
+button {
+	all: unset;
+}
+
 img, picture, svg, video {
 	display: block;
 	max-width: 100%;
 }
 
-@media (max-width: 720px) {
-	body {
-		padding: 0px 15px;
-	}
-}
+
 
 .options {
 	display: flex;
@@ -65,9 +65,68 @@ img, picture, svg, video {
 h2 {
 	font-size: 24px;
 }
-.header {
-	text-align: center;
+
+header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 30px;
 }
+
+.vert-bar {
+	width: 3px;
+	height: 160px;
+	background-color: rgba(210, 210, 210, 1);
+	border-radius: 4px;
+}
+
+.header {
+	text-align: right;
+	width: 400px;
+}
+
+.subtitle {
+	max-width: 400px;
+	text-align: left;
+}
+
+h1 {
+	font-size: 72px;
+	font-weight: 900;
+	letter-spacing: -2px;
+}
+
+@media (max-width: 720px) {
+	body {
+		padding: 0px 15px;
+	}
+
+	.vert-bar {
+		display: none;
+	}
+
+	header {
+		flex-direction: column;
+	}
+
+	.header {
+		text-align: center;
+		width: unset;
+	}
+	h1 {
+		font-size: 48px;
+	}
+	h2 {
+		font-size: 18px;
+	}
+
+	.subtitle {
+		text-align: center;
+		max-width: unset;
+
+	}
+}
+
 .section {
 	padding-top: 40px;
 
@@ -76,10 +135,6 @@ h2 {
 .container {
 	max-width: 1080px;
 	margin: 0 auto;
-}
-
-.subtitle {
-	margin-top: 40px;
 }
 
 .cards {
@@ -94,10 +149,31 @@ h2 {
 /*	border: 1px solid red;*/
 }
 
-h1 {
-	font-size: 72px;
-	font-weight: 900;
-	letter-spacing: -2px;
+.instructions {
+	margin-top: 10px;
+}
+
+.spacer {
+	padding: 0px 6px;
+	border-radius: 4px;
+}
+
+.flipper {
+	position: absolute;
+	padding: 0px 6px;
+	background-color: white;
+	border-radius: 4px;
+	transform-style: preserve-3d;
+	transition: transform 1s;	
+}
+
+.flipper2 {
+	padding: 0px 6px;
+	visibility: hidden;
+}
+
+.flipper:hover {
+	transform: perspective(800px) rotateY(180deg);
 }
 
 .bar {
@@ -189,6 +265,20 @@ input[type=radio]:hover + label {
   	user-select: none; /* Standard syntax */
 }
 
+.button {
+	box-sizing: border-box;
+}
+
+.button:hover {
+	background-color: #fdd200;
+	border: 3px solid #333;
+	padding: 0px 13px;
+}
+
+.button:active {
+	background-color: #ffe879;
+}
+
 h6 {
 	font-weight: "Urbanist";
 	font-weight: bold;
@@ -250,4 +340,21 @@ h6 {
 
 .slidercontainer {
 	padding: 10px 30px;
+}
+
+footer {
+	margin: 100px 0px;
+	text-align: center;
+}
+
+.footer-links {
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+}
+
+.link svg{
+	width: 24px;
+	height: 24px;
 }
