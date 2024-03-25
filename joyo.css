@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
 
 *, *::before, *::after {
 	box-sizing: border-box;
@@ -25,6 +25,12 @@
 	--card-red-shadow: rgb(242, 150, 150);
 	--card-green: rgb(171, 238, 198);
 	--card-green-shadow: rgb(145, 217, 174);
+
+	--size-default: 240px;
+	--size-large: 1;
+	--size-normal: 0.75;
+	--size-small: 0.5;
+	--size-tiny: 0.25;
 }
 
 body {
@@ -137,20 +143,48 @@ h1 {
 	margin: 0 auto;
 }
 
+
+.font-style-1 {
+	font-family: "Klee";
+}
+
+.font-style-2 {
+	font-family: "Toppan Bunkyu Mincho";
+}
+
+.font-style-3 {
+	font-family: "YuKyokasho Yoko";
+}
+
+.font-style-4 {
+	font-family: verdana,'ヒラギノ丸ゴ ProN W4','Hiragino Maru Gothic ProN','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',Sans-Serif;
+}
+
+.font-style-5 {
+	font-family: "ヒラギノ角ゴ Pro W3";
+}
+
+.font-style-6 {
+	font-family: "Urbanist";
+}
+
+
 .cards {
-	max-width: 1080px;
 	margin: 0 auto;
+	max-width: 1080px;
 	min-height: inherit;
+
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-	gap: 40px;
-/*	border: 1px solid red;*/
+/*	gap: 40px;*/
 }
 
 .instructions {
 	margin-top: 10px;
+	text-align: center;
+	max-width: 400px;
 }
 
 .spacer {
@@ -186,9 +220,7 @@ h1 {
 
 .card {
 	aspect-ratio: 1 / 1.333;
-	width: 240px; /* 10% */
-/*	border: 1px solid green;*/
-	
+
 	position: relative;
 	transform-style: preserve-3d;
 	transition-property: transform, box-shadow;
@@ -198,14 +230,120 @@ h1 {
 	cursor: pointer;
 	border-radius: 12px;
 
-	-webkit-user-select: none; /* Safari */
-  	-ms-user-select: none; /* IE 10 and IE 11 */
-  	user-select: none; /* Standard syntax */
-
   	background-color: white;
   	--box-shadow-color: var(--card-shadow);
   	box-shadow: 2px 2px 0px 0px var(--box-shadow-color);
+
+  	-webkit-user-select: none; /* Safari */
+  	-ms-user-select: none; /* IE 10 and IE 11 */
+  	user-select: none; /* Standard syntax */
 }
+
+.cards:has(.card-large) {
+	gap: 40px;
+}
+
+.cards:has(.card-normal) {
+	gap: 30px;
+}
+
+.cards:has(.card-small) {
+	gap: 20px;
+}
+
+.cards:has(.card-tiny) {
+	gap: 10px;
+}
+
+/* Large cards (default) */
+.card-large {
+	width: calc(var(--size-default) * var(--size-large));
+}
+
+.card-large .content-front {
+	font-size: calc(84px * var(--size-large));
+}
+
+.card-large .content-back {
+	font-size: calc(36px * var(--size-large));
+}
+
+.card-large .content-number {
+	font-size: 10px;
+	height: 18px;
+	min-width: 18px;
+	border-radius: 5px;
+	padding: 0px 6px;
+	bottom: calc(-33% + 6px);
+}
+
+/* Normal cards */
+.card-normal {
+	width: calc(var(--size-default) * var(--size-normal));
+}
+
+.card-normal .content-front {
+	font-size: calc(84px * var(--size-normal));
+}
+
+.card-normal .content-back {
+	font-size: calc(36px * var(--size-normal));
+}
+
+.card-normal .content-number {
+	font-size: 9px;
+	height: 16px;
+	min-width: 16px;
+	border-radius: 4px;
+	padding: 0px 5px;
+	bottom: calc(-33% + 5px);
+}
+
+/* Small cards */
+.card-small {
+	width: calc(var(--size-default) * var(--size-small));
+}
+
+.card-small .content-front {
+	font-size: calc(84px * var(--size-small));
+}
+
+.card-small .content-back {
+	font-size: calc(36px * var(--size-small));
+}
+
+.card-small .content-number {
+	font-size: 8px;
+	height: 14px;
+	min-width: 14px;
+	border-radius: 3px;
+	padding: 0px 4px;
+	bottom: calc(-33% + 4px);
+}
+
+
+/* Tiny cards */
+.card-tiny {
+	width: calc(var(--size-default) * var(--size-tiny));
+}
+
+.card-tiny .content-front {
+	font-size: calc(84px * var(--size-tiny));
+}
+
+.card-tiny .content-back {
+	font-size: calc(36px * var(--size-tiny));
+}
+
+.card-tiny .content-number {
+	font-size: 7px;
+	height: 12px;
+	min-width: 12px;
+	border-radius: 2px;
+	padding: 0px 3px;
+	bottom: calc(-33% + 3px);
+}
+
 
 .no-box-shadow-delay {
 	transition-delay: 0s, 0s;
@@ -221,9 +359,17 @@ h1 {
 	--box-shadow-color: var(--card-red-shadow);
 }
 
+.card-color-red .content-number { 
+	color: var(--card-red);
+}
+
 .card-color-green {
 	background-color: var(--card-green);
 	--box-shadow-color: var(--card-green-shadow);
+}
+
+.card-color-green .content-number { 
+	color: var(--card-green);
 }
 
 
@@ -310,30 +456,21 @@ h6 {
 	align-items: center;
 
 	position: absolute;
-	bottom: calc(-33% + 6px);
-	left: calc(50% - 20/2px);
 	
-	
-	font-size: 10px;
 	font-weight: bold;
-	background-color: rgba(0, 0, 0, 0.17);
+	color: white;
+	background-color: rgba(0, 0, 0, 0.15);
 
-	border-radius: 6px;
-	width: 20px;
-	height: 20px;
 	font-family: "Urbanist", sans-serif;
-	mix-blend-mode: soft-light;
 }
 
 .content-front {
-	font-size: 84px;
 	font-weight: bolder;
 }
 
 .content-back {
 	padding: 0px 20px;
 	text-align: center;
-	font-size: 36px;
 	font-family: "Urbanist";
 	font-weight: bold;
 }

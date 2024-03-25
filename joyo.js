@@ -1,26 +1,23 @@
-
-
+const main = document.querySelector('main');
+const cardsContainer = document.querySelector('.cards');
 const resetButton = document.querySelector('.button-reset');
-resetButton.addEventListener('click', resetCardAll);
-
 const flipAllButton = document.querySelector('.button-flip-all');
-flipAllButton.addEventListener('click', flipCardAll);
-
 const shuffleButton = document.querySelector('.button-shuffle');
-shuffleButton.addEventListener('click', gradeShuffleHandler);
-
 const fontRadioButtons = document.querySelectorAll('input[name=font-group]');
-fontRadioButtons.forEach((radio) => radio.addEventListener('change', changeCardFont));
-
 const gradeRadioButtons = document.querySelectorAll('input[name=grade-group]');
-gradeRadioButtons.forEach((radio) => radio.addEventListener('click', gradeHandler));
-
 const sizeRadioButtons = document.querySelectorAll('input[name=size-group]');
+
+resetButton.addEventListener('click', resetCardAll);
+flipAllButton.addEventListener('click', flipCardAll);
+shuffleButton.addEventListener('click', gradeShuffleHandler);
+fontRadioButtons.forEach((radio) => radio.addEventListener('change', changeCardFont));
+gradeRadioButtons.forEach((radio) => radio.addEventListener('click', gradeHandler));
 sizeRadioButtons.forEach((radio) => radio.addEventListener('change', changeCardSize));
 
-// Implement card flip functionality
-var lastGrade = "1";
-const container = document.querySelector('.cards');
+// Initial card settings
+let lastFont = document.querySelector('input[name=font-group]:checked').value;
+let lastGrade = document.querySelector('input[name=grade-group]:checked').value;
+let lastSize = document.querySelector('input[name=size-group]:checked').value;
 
 
 function gradeHandler() {
@@ -73,30 +70,10 @@ function resetCardAll() {
 
 
 function changeCardFont() {
-    let main = document.querySelector('main');
-    main.style.fontWeight = null;
-    switch (parseInt(this.value)) {
-    case 1:
-        main.style.fontFamily = "Klee";
-        break;
-    case 2:
-        main.style.fontFamily = "Toppan Bunkyu Mincho";
-        break;
-    case 3:
-        main.style.fontFamily = "YuKyokasho Yoko";
-        break;
-    case 4:
-        main.style.fontFamily = "verdana,'ヒラギノ丸ゴ ProN W4','Hiragino Maru Gothic ProN','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',Sans-Serif";
-        break;
-    case 5:
-        main.style.fontFamily = "ヒラギノ角ゴ Pro W3";
-        break;
-    case 6:
-        main.style.fontFamily = "Urbanist";
-        break;
-    }
+    lastFont = this.value;
+    main.classList.value = "";
+    main.classList.add(`font-style-${lastFont}`);
 }
-
 
 function shuffle(array) {
     const result = [], itemsLeft = array.concat([]);
@@ -108,33 +85,28 @@ function shuffle(array) {
     return result;
 }
 
-function setGrades(grade, toShuffle=false) {
-    lastGrade = grade;
-    const grade1 = grade === 'A' ? kanjis : kanjis.filter(k => k['grade'] === grade);
-    var count = 0;
-    var grade1_n;
-    if (toShuffle) {
-        grade1_n = shuffle(grade1);
-    } else {
-        grade1_n = grade1.sort();
-    }
+function setGrades(selectedGrade, toShuffle=false) {
+    lastGrade = selectedGrade;
+    let count = 0;
+    let kanjiByGrade = selectedGrade === 'A' ? kanjis : kanjis.filter(k => k['grade'] === selectedGrade);
+    kanjiByGrade = toShuffle ? shuffle(kanjiByGrade) : kanjiByGrade.sort();
+
     //<div class="content-number">${grade !== 'S' ? 'G' : ''}${grade} • #${count}</div>
-    const gradechars = grade1_n.map((char) => {
+    const kanjiCards = kanjiByGrade.map((kanji) => {
         count += 1;
-        // console.log(char)
         return `
-        <div class="card">
+        <div class="card ${lastSize}">
             <div class="card-face card-front">
-                <div class="content-front">${char.new_shinjitai}</div>
+                <div class="content-front">${kanji.new_shinjitai}</div>
                 <div class="content-number">${count}</div>
             </div>
             <div class="card-face card-back">
-                <div class="content-back">${char.english_meaning}</div>
+                <div class="content-back">${kanji.english_meaning}</div>
             </div>
         </div>
         `;
     }).join('');
-    container.innerHTML = gradechars;
+    cardsContainer.innerHTML = kanjiCards;
 
     const cards = document.querySelectorAll('.card');
     cards.forEach(card => {
@@ -143,23 +115,17 @@ function setGrades(grade, toShuffle=false) {
     });
 }
 
+function changeCardSize() {
+    lastSize = this.value;
+
+    const cards = document.querySelectorAll(".card");
+    cards.forEach((card) => {
+        card.classList.value = "";
+        card.classList.add("card", lastSize);
+    });
+}
 
 document.addEventListener('DOMContentLoaded', setGrades(lastGrade));
-
-
-function changeCardSize() {
-    var con = document.querySelectorAll('.container');
-    container.style.gap = `${this.value * 40}px`;
-    var cards = document.querySelectorAll('.card');
-    var card_front = document.querySelectorAll('.content-front');
-    var card_back = document.querySelectorAll('.content-back');
-    card_front.forEach(front => front.style.fontSize = `${this.value * 84}px`);
-    card_back.forEach(front => front.style.fontSize = `${this.value * 36}px`);
-
-    console.log(this.value);//((this.value - 50) / 10))
-    cards.forEach(card => {
-        card.style.width = `${this.value * 240}px`
-        // card.style.borderWidth = `${this.value * 6}px`
-
-    }); //10 + ((this.value - 50) / 10)}%`);
-}
+document.addEventListener('DOMContentLoaded', () => {
+    main.classList.add(`font-style-${lastFont}`);
+});
