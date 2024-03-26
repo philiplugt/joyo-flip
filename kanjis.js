@@ -8,7 +8,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sub-, Asia",
-    "readings": "アa\n"
+    "readings": "アa"
   },
   {
     "id": "2",
@@ -19,7 +19,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pathetic",
-    "readings": "アイ、あわ-れ、あわ-れむai, awa-re, awa-remu\n"
+    "readings": "アイ, あわ-れ, あわ-れむai, awa-re, awa-remu"
   },
   {
     "id": "3",
@@ -30,7 +30,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "push open",
-    "readings": "アイai\n"
+    "readings": "アイai"
   },
   {
     "id": "4",
@@ -41,7 +41,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "love",
-    "readings": "アイai\n"
+    "readings": "アイai"
   },
   {
     "id": "5",
@@ -52,7 +52,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "not clear",
-    "readings": "アイai\n"
+    "readings": "アイai"
   },
   {
     "id": "6",
@@ -63,7 +63,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "bad",
-    "readings": "アク、オ、わる-いaku, o, waru-i\n"
+    "readings": "アク, オ, わる-いaku, o, waru-i"
   },
   {
     "id": "7",
@@ -74,7 +74,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "grip",
-    "readings": "アク、にぎ-るaku, nigi-ru\n"
+    "readings": "アク, にぎ-るaku, nigi-ru"
   },
   {
     "id": "8",
@@ -85,7 +85,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "pressure",
-    "readings": "アツatsu\n"
+    "readings": "アツatsu"
   },
   {
     "id": "9",
@@ -96,7 +96,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "handle",
-    "readings": "あつか-うatsuka-u\n"
+    "readings": "あつか-うatsuka-u"
   },
   {
     "id": "10",
@@ -107,7 +107,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "allocate",
-    "readings": "あ-てるa-teru\n"
+    "readings": "あ-てるa-teru"
   },
   {
     "id": "11",
@@ -118,7 +118,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "storm",
-    "readings": "あらしarashi\n"
+    "readings": "あらしarashi"
   },
   {
     "id": "12",
@@ -129,7 +129,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "cheap",
-    "readings": "アン、やす-いan, yasu-i\n"
+    "readings": "アン, やす-いan, yasu-i"
   },
   {
     "id": "13",
@@ -140,7 +140,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "plan",
-    "readings": "アンan\n"
+    "readings": "アンan"
   },
   {
     "id": "14",
@@ -151,7 +151,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "dark",
-    "readings": "アン、くら-いan, kura-i\n"
+    "readings": "アン, くら-いan, kura-i"
   },
   {
     "id": "15",
@@ -162,7 +162,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "by means of",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "16",
@@ -173,7 +173,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "clothes",
-    "readings": "イ、ころもi, koromo\n"
+    "readings": "イ, ころもi, koromo"
   },
   {
     "id": "17",
@@ -184,7 +184,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "rank",
-    "readings": "イ、くらいi, kurai\n"
+    "readings": "イ, くらいi, kurai"
   },
   {
     "id": "18",
@@ -195,7 +195,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "surround",
-    "readings": "イ、かこ-む、かこ-うi, kako-mu, kako-u\n"
+    "readings": "イ, かこ-む, かこ-うi, kako-mu, kako-u"
   },
   {
     "id": "19",
@@ -206,7 +206,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "doctor",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "20",
@@ -217,7 +217,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "reliant",
-    "readings": "イ、（エ）i, (e)\n"
+    "readings": "イ, （エ）i, (e)"
   },
   {
     "id": "21",
@@ -228,7 +228,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "committee",
-    "readings": "イ、ゆだ-ねるi, yuda-neru\n"
+    "readings": "イ, ゆだ-ねるi, yuda-neru"
   },
   {
     "id": "22",
@@ -239,7 +239,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "intimidate",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "23",
@@ -250,7 +250,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "do",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "24",
@@ -261,7 +261,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "fear",
-    "readings": "イ、おそ-れるi, oso-reru\n"
+    "readings": "イ, おそ-れるi, oso-reru"
   },
   {
     "id": "25",
@@ -272,7 +272,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "stomach",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "26",
@@ -283,7 +283,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "military officer",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "27",
@@ -294,7 +294,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "uncommon",
-    "readings": "イ、ことi, koto\n"
+    "readings": "イ, ことi, koto"
   },
   {
     "id": "28",
@@ -305,7 +305,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "shift",
-    "readings": "イ、うつ-る、うつ-すi, utsu-ru, utsu-su\n"
+    "readings": "イ, うつ-る, うつ-すi, utsu-ru, utsu-su"
   },
   {
     "id": "29",
@@ -316,7 +316,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "wither",
-    "readings": "イ、な-えるi, na-eru\n"
+    "readings": "イ, な-えるi, na-eru"
   },
   {
     "id": "30",
@@ -327,7 +327,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "admirable",
-    "readings": "イ、えら-いi, era-i\n"
+    "readings": "イ, えら-いi, era-i"
   },
   {
     "id": "31",
@@ -338,7 +338,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "chair",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "32",
@@ -349,7 +349,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "same kind",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "33",
@@ -360,7 +360,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "idea",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "34",
@@ -371,7 +371,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "differ",
-    "readings": "イ、ちが-う、ちが-えるi, chiga-u, chiga-eru\n"
+    "readings": "イ, ちが-う, ちが-えるi, chiga-u, chiga-eru"
   },
   {
     "id": "35",
@@ -382,7 +382,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fiber",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "36",
@@ -393,7 +393,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "consolation",
-    "readings": "イ、なぐさ-める、なぐさ-むi, nagusa-meru, nagusa-mu\n"
+    "readings": "イ, なぐさ-める, なぐさ-むi, nagusa-meru, nagusa-mu"
   },
   {
     "id": "37",
@@ -404,7 +404,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "bequeath",
-    "readings": "イ、（ユイ）i, (yui)\n"
+    "readings": "イ, （ユイ）i, (yui)"
   },
   {
     "id": "38",
@@ -415,7 +415,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "horizontal",
-    "readings": "イi\n"
+    "readings": "イi"
   },
   {
     "id": "39",
@@ -426,7 +426,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "range",
-    "readings": "イキiki\n"
+    "readings": "イキiki"
   },
   {
     "id": "40",
@@ -437,7 +437,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "nurture",
-    "readings": "イク、そだ-つ、そだ-てる、はぐく-むiku, soda-tsu, soda-teru, haguku-mu\n"
+    "readings": "イク, そだ-つ, そだ-てる, はぐく-むiku, soda-tsu, soda-teru, haguku-mu"
   },
   {
     "id": "41",
@@ -448,7 +448,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "one",
-    "readings": "イチ、イツ、ひと、ひと-つichi, itsu, hito, hito-tsu\n"
+    "readings": "イチ, イツ, ひと, ひと-つichi, itsu, hito, hito-tsu"
   },
   {
     "id": "42",
@@ -459,29 +459,29 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "one (falsification prevention)",
-    "readings": "イチichi\n"
+    "readings": "イチichi"
   },
   {
     "id": "43",
     "new_shinjitai": "逸",
-    "old_kyujitai": "逸 [4]",
+    "old_kyujitai": "逸 [4]",
     "radical": "辵",
     "strokes": "11",
     "grade": "S",
     "year_added": "",
     "english_meaning": "deviate",
-    "readings": "イツitsu\n"
+    "readings": "イツitsu"
   },
   {
     "id": "44",
-    "new_shinjitai": "茨 [5]",
+    "new_shinjitai": "茨",
     "old_kyujitai": "",
     "radical": "艸",
     "strokes": "9",
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "thorn",
-    "readings": "（いばら）[6](ibara)\n"
+    "readings": "（いばら）[6](ibara)"
   },
   {
     "id": "45",
@@ -492,7 +492,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "potato",
-    "readings": "いもimo\n"
+    "readings": "いもimo"
   },
   {
     "id": "46",
@@ -503,7 +503,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "pull",
-    "readings": "イン、ひ-く、ひ-けるin, hi-ku, hi-keru\n"
+    "readings": "イン, ひ-く, ひ-けるin, hi-ku, hi-keru"
   },
   {
     "id": "47",
@@ -514,7 +514,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "mark",
-    "readings": "イン、しるしin, shirushi\n"
+    "readings": "イン, しるしin, shirushi"
   },
   {
     "id": "48",
@@ -525,7 +525,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "cause",
-    "readings": "イン、よ-るin, yo-ru\n"
+    "readings": "イン, よ-るin, yo-ru"
   },
   {
     "id": "49",
@@ -536,7 +536,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "throat",
-    "readings": "インin\n"
+    "readings": "インin"
   },
   {
     "id": "50",
@@ -547,7 +547,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "matrimony",
-    "readings": "インin\n"
+    "readings": "インin"
   },
   {
     "id": "51",
@@ -558,7 +558,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "member",
-    "readings": "インin\n"
+    "readings": "インin"
   },
   {
     "id": "52",
@@ -569,18 +569,18 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "institution",
-    "readings": "インin\n"
+    "readings": "インin"
   },
   {
     "id": "53",
-    "new_shinjitai": "淫 [7]",
+    "new_shinjitai": "淫",
     "old_kyujitai": "",
     "radical": "水",
     "strokes": "11",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "lewdness",
-    "readings": "イン、みだ-らin, mida-ra\n"
+    "readings": "イン, みだ-らin, mida-ra"
   },
   {
     "id": "54",
@@ -591,7 +591,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "shade",
-    "readings": "イン、かげ、かげ-るin, kage, kage-ru\n"
+    "readings": "イン, かげ, かげ-るin, kage, kage-ru"
   },
   {
     "id": "55",
@@ -602,7 +602,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "drink",
-    "readings": "イン、の-むin, no-mu\n"
+    "readings": "イン, の-むin, no-mu"
   },
   {
     "id": "56",
@@ -613,7 +613,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "conceal",
-    "readings": "イン、かく-す、かく-れるin, kaku-su, kaku-reru\n"
+    "readings": "イン, かく-す, かく-れるin, kaku-su, kaku-reru"
   },
   {
     "id": "57",
@@ -624,7 +624,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rhyme",
-    "readings": "インin\n"
+    "readings": "インin"
   },
   {
     "id": "58",
@@ -635,7 +635,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "right (direction)",
-    "readings": "ウ、ユウ、みぎu, yū, migi\n"
+    "readings": "ウ, ユウ, みぎu, yū, migi"
   },
   {
     "id": "59",
@@ -646,7 +646,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "eaves",
-    "readings": "ウu\n"
+    "readings": "ウu"
   },
   {
     "id": "60",
@@ -657,7 +657,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "feather",
-    "readings": "ウ、は、はねu, ha, hane\n"
+    "readings": "ウ, は, はねu, ha, hane"
   },
   {
     "id": "61",
@@ -668,7 +668,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "rain",
-    "readings": "ウ、あめ、（あま）u, ame, (ama)\n"
+    "readings": "ウ, あめ, （あま）u, ame, (ama)"
   },
   {
     "id": "62",
@@ -679,7 +679,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "songs with samisen",
-    "readings": "（うた）(uta)\n"
+    "readings": "（うた）(uta)"
   },
   {
     "id": "63",
@@ -690,7 +690,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "gloom",
-    "readings": "ウツutsu\n"
+    "readings": "ウツutsu"
   },
   {
     "id": "64",
@@ -701,7 +701,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "furrow",
-    "readings": "うねune\n"
+    "readings": "うねune"
   },
   {
     "id": "65",
@@ -712,7 +712,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bay",
-    "readings": "うらura\n"
+    "readings": "うらura"
   },
   {
     "id": "66",
@@ -723,7 +723,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "carry",
-    "readings": "ウン、はこ-ぶun, hako-bu\n"
+    "readings": "ウン, はこ-ぶun, hako-bu"
   },
   {
     "id": "67",
@@ -734,7 +734,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "cloud",
-    "readings": "ウン、くもun, kumo\n"
+    "readings": "ウン, くもun, kumo"
   },
   {
     "id": "68",
@@ -745,7 +745,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "eternity",
-    "readings": "エイ、なが-いei, naga-i\n"
+    "readings": "エイ, なが-いei, naga-i"
   },
   {
     "id": "69",
@@ -756,7 +756,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "swim",
-    "readings": "エイ、およ-ぐei, oyo-gu\n"
+    "readings": "エイ, およ-ぐei, oyo-gu"
   },
   {
     "id": "70",
@@ -767,7 +767,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "England",
-    "readings": "エイei\n"
+    "readings": "エイei"
   },
   {
     "id": "71",
@@ -778,7 +778,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "reflect",
-    "readings": "エイ、うつ-る、うつ-す、は-えるei, utsu-ru, utsu-su, ha-eru\n"
+    "readings": "エイ, うつ-る, うつ-す, は-えるei, utsu-ru, utsu-su, ha-eru"
   },
   {
     "id": "72",
@@ -789,7 +789,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "prosperity",
-    "readings": "エイ、さか-える、は-え、は-えるei, saka-eru, ha-e, ha-eru\n"
+    "readings": "エイ, さか-える, は-え, は-えるei, saka-eru, ha-e, ha-eru"
   },
   {
     "id": "73",
@@ -800,7 +800,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "manage",
-    "readings": "エイ、いとな-むei, itona-mu\n"
+    "readings": "エイ, いとな-むei, itona-mu"
   },
   {
     "id": "74",
@@ -811,7 +811,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "recitation",
-    "readings": "エイ、よ-むei, yo-mu\n"
+    "readings": "エイ, よ-むei, yo-mu"
   },
   {
     "id": "75",
@@ -822,7 +822,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "shadow",
-    "readings": "エイ、かげei, kage\n"
+    "readings": "エイ, かげei, kage"
   },
   {
     "id": "76",
@@ -833,7 +833,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pointed",
-    "readings": "エイ、するど-いei, surudo-i\n"
+    "readings": "エイ, するど-いei, surudo-i"
   },
   {
     "id": "77",
@@ -844,7 +844,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "defense",
-    "readings": "エイei\n"
+    "readings": "エイei"
   },
   {
     "id": "78",
@@ -855,7 +855,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "easy",
-    "readings": "エキ、イ、やさ-しいeki, i, yasa-shii\n"
+    "readings": "エキ, イ, やさ-しいeki, i, yasa-shii"
   },
   {
     "id": "79",
@@ -866,7 +866,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "epidemic",
-    "readings": "エキ、（ヤク）eki, (yaku)\n"
+    "readings": "エキ, （ヤク）eki, (yaku)"
   },
   {
     "id": "80",
@@ -877,7 +877,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "benefit",
-    "readings": "エキ、（ヤク）eki, (yaku)\n"
+    "readings": "エキ, （ヤク）eki, (yaku)"
   },
   {
     "id": "81",
@@ -888,7 +888,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "fluid",
-    "readings": "エキeki\n"
+    "readings": "エキeki"
   },
   {
     "id": "82",
@@ -899,7 +899,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "station",
-    "readings": "エキeki\n"
+    "readings": "エキeki"
   },
   {
     "id": "83",
@@ -910,7 +910,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ecstasy",
-    "readings": "エツetsu\n"
+    "readings": "エツetsu"
   },
   {
     "id": "84",
@@ -921,18 +921,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cross over",
-    "readings": "エツ、こ-す、こ-えるetsu, ko-su, ko-eru\n"
+    "readings": "エツ, こ-す, こ-えるetsu, ko-su, ko-eru"
   },
   {
     "id": "85",
     "new_shinjitai": "謁",
-    "old_kyujitai": "謁 [4]",
+    "old_kyujitai": "謁 [4]",
     "radical": "言",
     "strokes": "15",
     "grade": "S",
     "year_added": "",
     "english_meaning": "audience",
-    "readings": "エツetsu\n"
+    "readings": "エツetsu"
   },
   {
     "id": "86",
@@ -943,7 +943,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "review",
-    "readings": "エツetsu\n"
+    "readings": "エツetsu"
   },
   {
     "id": "87",
@@ -954,7 +954,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "round, yen",
-    "readings": "エン、まる-いen, maru-i\n"
+    "readings": "エン, まる-いen, maru-i"
   },
   {
     "id": "88",
@@ -965,7 +965,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "prolong",
-    "readings": "エン、の-びる、の-べる、の-ばすen, no-biru, no-beru, no-basu\n"
+    "readings": "エン, の-びる, の-べる, の-ばすen, no-biru, no-beru, no-basu"
   },
   {
     "id": "89",
@@ -976,7 +976,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "run alongside",
-    "readings": "エン、そ-うen, so-u\n"
+    "readings": "エン, そ-うen, so-u"
   },
   {
     "id": "90",
@@ -987,7 +987,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "inflammation",
-    "readings": "エン、ほのおen, honoo\n"
+    "readings": "エン, ほのおen, honoo"
   },
   {
     "id": "91",
@@ -998,7 +998,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "grudge",
-    "readings": "エン、オンen, on\n"
+    "readings": "エン, オンen, on"
   },
   {
     "id": "92",
@@ -1009,7 +1009,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "banquet",
-    "readings": "エンen\n"
+    "readings": "エンen"
   },
   {
     "id": "93",
@@ -1020,7 +1020,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "princess; beautiful woman",
-    "readings": "エンen\n"
+    "readings": "エンen"
   },
   {
     "id": "94",
@@ -1031,7 +1031,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "aid",
-    "readings": "エンen\n"
+    "readings": "エンen"
   },
   {
     "id": "95",
@@ -1042,7 +1042,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "garden",
-    "readings": "エン、そのen, sono\n"
+    "readings": "エン, そのen, sono"
   },
   {
     "id": "96",
@@ -1053,7 +1053,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "smoke",
-    "readings": "エン、けむ-る、けむり、けむ-いen, kemu-ru, kemuri, kemu-i\n"
+    "readings": "エン, けむ-る, けむり, けむ-いen, kemu-ru, kemuri, kemu-i"
   },
   {
     "id": "97",
@@ -1064,7 +1064,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "monkey",
-    "readings": "エン、さるen, saru\n"
+    "readings": "エン, さるen, saru"
   },
   {
     "id": "98",
@@ -1075,7 +1075,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "far",
-    "readings": "エン、（オン）、とお-いen, (on), too-i\n"
+    "readings": "エン, （オン）, とお-いen, (on), too-i"
   },
   {
     "id": "99",
@@ -1086,7 +1086,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lead",
-    "readings": "エン、なまりen, namari\n"
+    "readings": "エン, なまりen, namari"
   },
   {
     "id": "100",
@@ -1097,7 +1097,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "salt",
-    "readings": "エン、しおen, shio\n"
+    "readings": "エン, しおen, shio"
   },
   {
     "id": "101",
@@ -1108,7 +1108,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "perform",
-    "readings": "エンen\n"
+    "readings": "エンen"
   },
   {
     "id": "102",
@@ -1119,7 +1119,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "affinity",
-    "readings": "エン、ふちen, fuchi\n"
+    "readings": "エン, ふちen, fuchi"
   },
   {
     "id": "103",
@@ -1130,7 +1130,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "glossy",
-    "readings": "エン、つやen, tsuya\n"
+    "readings": "エン, つやen, tsuya"
   },
   {
     "id": "104",
@@ -1141,7 +1141,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dirty",
-    "readings": "オ、けが-す、けが-れる、けが-らわしい、よご-す、よご-れる、きたな-いo, kega-su, kega-reru, kega-rawashii, yogo-su, yogo-reru, kitana-i\n"
+    "readings": "オ, けが-す, けが-れる, けが-らわしい, よご-す, よご-れる, きたな-いo, kega-su, kega-reru, kega-rawashii, yogo-su, yogo-reru, kitana-i"
   },
   {
     "id": "105",
@@ -1152,7 +1152,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "king",
-    "readings": "オウō\n"
+    "readings": "オウō"
   },
   {
     "id": "106",
@@ -1163,7 +1163,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "concave",
-    "readings": "オウō\n"
+    "readings": "オウō"
   },
   {
     "id": "107",
@@ -1174,7 +1174,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "center",
-    "readings": "オウō\n"
+    "readings": "オウō"
   },
   {
     "id": "108",
@@ -1185,7 +1185,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "respond",
-    "readings": "オウ、こた-えるō, kota-eru\n"
+    "readings": "オウ, こた-えるō, kota-eru"
   },
   {
     "id": "109",
@@ -1196,7 +1196,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "outward journey",
-    "readings": "オウō\n"
+    "readings": "オウō"
   },
   {
     "id": "110",
@@ -1207,7 +1207,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pushed",
-    "readings": "オウ、お-す、お-さえるō, o-su, o-saeru\n"
+    "readings": "オウ, お-す, お-さえるō, o-su, o-saeru"
   },
   {
     "id": "111",
@@ -1218,7 +1218,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "flourishing",
-    "readings": "オウō\n"
+    "readings": "オウō"
   },
   {
     "id": "112",
@@ -1229,7 +1229,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "Europe",
-    "readings": "オウō\n"
+    "readings": "オウō"
   },
   {
     "id": "113",
@@ -1240,7 +1240,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "assault",
-    "readings": "オウ、なぐ-るō, nagu-ru\n"
+    "readings": "オウ, なぐ-るō, nagu-ru"
   },
   {
     "id": "114",
@@ -1251,7 +1251,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "cherry tree",
-    "readings": "オウ、さくらō, sakura\n"
+    "readings": "オウ, さくらō, sakura"
   },
   {
     "id": "115",
@@ -1262,7 +1262,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "venerable old man",
-    "readings": "オウō\n"
+    "readings": "オウō"
   },
   {
     "id": "116",
@@ -1273,7 +1273,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "heart",
-    "readings": "オウ、おくō, oku\n"
+    "readings": "オウ, おくō, oku"
   },
   {
     "id": "117",
@@ -1284,7 +1284,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "side",
-    "readings": "オウ、よこō, yoko\n"
+    "readings": "オウ, よこō, yoko"
   },
   {
     "id": "118",
@@ -1295,7 +1295,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "hill",
-    "readings": "（おか）[6](oka)\n"
+    "readings": "（おか）[6](oka)"
   },
   {
     "id": "119",
@@ -1306,7 +1306,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "roof",
-    "readings": "オク、やoku, ya\n"
+    "readings": "オク, やoku, ya"
   },
   {
     "id": "120",
@@ -1317,7 +1317,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "hundred million",
-    "readings": "オクoku\n"
+    "readings": "オクoku"
   },
   {
     "id": "121",
@@ -1328,7 +1328,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "recollection",
-    "readings": "オクoku\n"
+    "readings": "オクoku"
   },
   {
     "id": "122",
@@ -1339,7 +1339,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "timidity",
-    "readings": "オクoku\n"
+    "readings": "オクoku"
   },
   {
     "id": "123",
@@ -1350,7 +1350,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "uneasiness",
-    "readings": "おそれosore\n"
+    "readings": "おそれosore"
   },
   {
     "id": "124",
@@ -1361,7 +1361,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "the latter",
-    "readings": "オツotsu\n"
+    "readings": "オツotsu"
   },
   {
     "id": "125",
@@ -1372,7 +1372,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "I, we, myself",
-    "readings": "おれore\n"
+    "readings": "おれore"
   },
   {
     "id": "126",
@@ -1383,7 +1383,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wholesale",
-    "readings": "おろ-す、おろしoro-su, oroshi\n"
+    "readings": "おろ-す, おろしoro-su, oroshi"
   },
   {
     "id": "127",
@@ -1394,7 +1394,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "sound",
-    "readings": "オン、イン、おと、ねon, in, oto, ne\n"
+    "readings": "オン, イン, おと, ねon, in, oto, ne"
   },
   {
     "id": "128",
@@ -1405,7 +1405,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "grace",
-    "readings": "オンon\n"
+    "readings": "オンon"
   },
   {
     "id": "129",
@@ -1416,7 +1416,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "warm",
-    "readings": "オン、あたた-か、あたた-かい、あたた-まる、あたた-めるon, atata-ka, atata-kai, atata-maru, atata-meru\n"
+    "readings": "オン, あたた-か, あたた-かい, あたた-まる, あたた-めるon, atata-ka, atata-kai, atata-maru, atata-meru"
   },
   {
     "id": "130",
@@ -1427,7 +1427,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "calm",
-    "readings": "オン、おだ-やかon, oda-yaka\n"
+    "readings": "オン, おだ-やかon, oda-yaka"
   },
   {
     "id": "131",
@@ -1438,7 +1438,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "below",
-    "readings": "カ、ゲ、した、しも、もと、さ-げる、さ-がる、くだ-る、くだ-す、くだ-さる、お-ろす、お-りるka, ge, shita, shimo, moto, sa-geru, sa-garu, kuda-ru, kuda-su, kuda-saru, o-rosu, o-riru\n"
+    "readings": "カ, ゲ, した, しも, もと, さ-げる, さ-がる, くだ-る, くだ-す, くだ-さる, お-ろす, お-りるka, ge, shita, shimo, moto, sa-geru, sa-garu, kuda-ru, kuda-su, kuda-saru, o-rosu, o-riru"
   },
   {
     "id": "132",
@@ -1449,7 +1449,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "change",
-    "readings": "カ、ケ、ば-ける、ば-かすka, ke, ba-keru, ba-kasu\n"
+    "readings": "カ, ケ, ば-ける, ば-かすka, ke, ba-keru, ba-kasu"
   },
   {
     "id": "133",
@@ -1460,7 +1460,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "fire",
-    "readings": "カ、ひ、（ほ）ka, hi, (ho)\n"
+    "readings": "カ, ひ, （ほ）ka, hi, (ho)"
   },
   {
     "id": "134",
@@ -1471,7 +1471,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "add",
-    "readings": "カ、くわ-える、くわ-わるka, kuwa-eru, kuwa-waru\n"
+    "readings": "カ, くわ-える, くわ-わるka, kuwa-eru, kuwa-waru"
   },
   {
     "id": "135",
@@ -1482,7 +1482,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "possible",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "136",
@@ -1493,7 +1493,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "temporary",
-    "readings": "カ、（ケ）、かりka, (ke), kari\n"
+    "readings": "カ, （ケ）, かりka, (ke), kari"
   },
   {
     "id": "137",
@@ -1504,7 +1504,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "what",
-    "readings": "カ、なに、（なん）ka, nani, (nan)\n"
+    "readings": "カ, なに, （なん）ka, nani, (nan)"
   },
   {
     "id": "138",
@@ -1515,7 +1515,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "flower",
-    "readings": "カ、はなka, hana\n"
+    "readings": "カ, はなka, hana"
   },
   {
     "id": "139",
@@ -1526,7 +1526,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "excellent",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "140",
@@ -1537,7 +1537,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "value",
-    "readings": "カ、あたいka, atai\n"
+    "readings": "カ, あたいka, atai"
   },
   {
     "id": "141",
@@ -1548,7 +1548,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "fruit",
-    "readings": "カ、は-たす、は-てる、は-てka, ha-tasu, ha-teru, ha-te\n"
+    "readings": "カ, は-たす, は-てる, は-てka, ha-tasu, ha-teru, ha-te"
   },
   {
     "id": "142",
@@ -1559,7 +1559,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "river",
-    "readings": "カ、かわka, kawa\n"
+    "readings": "カ, かわka, kawa"
   },
   {
     "id": "143",
@@ -1570,7 +1570,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "torment",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "144",
@@ -1581,7 +1581,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "section",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "145",
@@ -1592,7 +1592,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rack",
-    "readings": "カ、か-ける、か-かるka, ka-keru, ka-karu\n"
+    "readings": "カ, か-ける, か-かるka, ka-keru, ka-karu"
   },
   {
     "id": "146",
@@ -1603,7 +1603,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "summer",
-    "readings": "カ、（ゲ）、なつka, (ge), natsu\n"
+    "readings": "カ, （ゲ）, なつka, (ge), natsu"
   },
   {
     "id": "147",
@@ -1614,7 +1614,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "house",
-    "readings": "カ、ケ、いえ、やka, ke, ie, ya\n"
+    "readings": "カ, ケ, いえ, やka, ke, ie, ya"
   },
   {
     "id": "148",
@@ -1625,7 +1625,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "luggage",
-    "readings": "カ、にka, ni\n"
+    "readings": "カ, にka, ni"
   },
   {
     "id": "149",
@@ -1636,7 +1636,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "splendor",
-    "readings": "カ、（ケ）、はなka, (ke), hana\n"
+    "readings": "カ, （ケ）, はなka, (ke), hana"
   },
   {
     "id": "150",
@@ -1647,7 +1647,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "confectionery",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "151",
@@ -1658,7 +1658,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "freight",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "152",
@@ -1669,7 +1669,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "whirlpool",
-    "readings": "カ、うずka, uzu\n"
+    "readings": "カ, うずka, uzu"
   },
   {
     "id": "153",
@@ -1680,7 +1680,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "go beyond",
-    "readings": "カ、す-ぎる、す-ごす、あやま-つ、あやま-ちka, su-giru, su-gosu, ayama-tsu, ayama-chi\n"
+    "readings": "カ, す-ぎる, す-ごす, あやま-つ, あやま-ちka, su-giru, su-gosu, ayama-tsu, ayama-chi"
   },
   {
     "id": "154",
@@ -1691,7 +1691,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "marry into",
-    "readings": "カ、よめ、とつ-ぐka, yome, totsu-gu\n"
+    "readings": "カ, よめ, とつ-ぐka, yome, totsu-gu"
   },
   {
     "id": "155",
@@ -1702,18 +1702,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "spare time",
-    "readings": "カ、ひまka, hima\n"
+    "readings": "カ, ひまka, hima"
   },
   {
     "id": "156",
     "new_shinjitai": "禍",
-    "old_kyujitai": "禍 [4]",
+    "old_kyujitai": "禍 [4]",
     "radical": "示",
     "strokes": "13",
     "grade": "S",
     "year_added": "",
     "english_meaning": "calamity",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "157",
@@ -1724,7 +1724,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "shoes",
-    "readings": "カ、くつka, kutsu\n"
+    "readings": "カ, くつka, kutsu"
   },
   {
     "id": "158",
@@ -1735,7 +1735,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "widow",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "159",
@@ -1746,7 +1746,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "song",
-    "readings": "カ、うた、うた-うka, uta, uta-u\n"
+    "readings": "カ, うた, うた-うka, uta, uta-u"
   },
   {
     "id": "160",
@@ -1757,7 +1757,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "counters for things",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "161",
@@ -1768,7 +1768,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "earnings",
-    "readings": "カ、かせ-ぐka, kase-gu\n"
+    "readings": "カ, かせ-ぐka, kase-gu"
   },
   {
     "id": "162",
@@ -1779,7 +1779,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "section",
-    "readings": "カka\n"
+    "readings": "カka"
   },
   {
     "id": "163",
@@ -1790,18 +1790,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mosquito",
-    "readings": "かka\n"
+    "readings": "かka"
   },
   {
     "id": "164",
-    "new_shinjitai": "牙 [5]",
+    "new_shinjitai": "牙",
     "old_kyujitai": "",
     "radical": "牙",
     "strokes": "4",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "tusk",
-    "readings": "ガ、（ゲ）、きばga, (ge), kiba\n"
+    "readings": "ガ, （ゲ）, きばga, (ge), kiba"
   },
   {
     "id": "165",
@@ -1812,7 +1812,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "tile",
-    "readings": "ガ、かわらga, kawara\n"
+    "readings": "ガ, かわらga, kawara"
   },
   {
     "id": "166",
@@ -1823,7 +1823,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "ego, I, we",
-    "readings": "ガ、われ、わga, ware, wa\n"
+    "readings": "ガ, われ, わga, ware, wa"
   },
   {
     "id": "167",
@@ -1834,7 +1834,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "tableau",
-    "readings": "ガ、カクga, kaku\n"
+    "readings": "ガ, カクga, kaku"
   },
   {
     "id": "168",
@@ -1845,7 +1845,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "bud",
-    "readings": "ガ、めga, me\n"
+    "readings": "ガ, めga, me"
   },
   {
     "id": "169",
@@ -1856,7 +1856,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "congratulations",
-    "readings": "ガga\n"
+    "readings": "ガga"
   },
   {
     "id": "170",
@@ -1867,7 +1867,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "gracious",
-    "readings": "ガga\n"
+    "readings": "ガga"
   },
   {
     "id": "171",
@@ -1878,7 +1878,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "starve",
-    "readings": "ガga\n"
+    "readings": "ガga"
   },
   {
     "id": "172",
@@ -1889,7 +1889,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "jammed in",
-    "readings": "カイkai\n"
+    "readings": "カイkai"
   },
   {
     "id": "173",
@@ -1900,7 +1900,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "times",
-    "readings": "カイ、（エ）、まわ-る、まわ-すkai, (e), mawa-ru, mawa-su\n"
+    "readings": "カイ, （エ）, まわ-る, まわ-すkai, (e), mawa-ru, mawa-su"
   },
   {
     "id": "174",
@@ -1911,7 +1911,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "ashes",
-    "readings": "カイ、はいkai, hai\n"
+    "readings": "カイ, はいkai, hai"
   },
   {
     "id": "175",
@@ -1922,7 +1922,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "association",
-    "readings": "カイ、エ、あ-うkai, e, a-u\n"
+    "readings": "カイ, エ, あ-うkai, e, a-u"
   },
   {
     "id": "176",
@@ -1933,7 +1933,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "cheerful",
-    "readings": "カイ、こころよ-いkai, kokoroyo-i\n"
+    "readings": "カイ, こころよ-いkai, kokoroyo-i"
   },
   {
     "id": "177",
@@ -1944,7 +1944,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "commandment",
-    "readings": "カイ、いまし-めるkai, imashi-meru\n"
+    "readings": "カイ, いまし-めるkai, imashi-meru"
   },
   {
     "id": "178",
@@ -1955,7 +1955,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "reformation",
-    "readings": "カイ、あらた-める、あらた-まるkai, arata-meru, arata-maru\n"
+    "readings": "カイ, あらた-める, あらた-まるkai, arata-meru, arata-maru"
   },
   {
     "id": "179",
@@ -1966,7 +1966,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "suspicious",
-    "readings": "カイ、あや-しい、あや-しむkai, aya-shii, aya-shimu\n"
+    "readings": "カイ, あや-しい, あや-しむkai, aya-shii, aya-shimu"
   },
   {
     "id": "180",
@@ -1977,29 +1977,29 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "kidnap",
-    "readings": "カイkai\n"
+    "readings": "カイkai"
   },
   {
     "id": "181",
     "new_shinjitai": "悔",
-    "old_kyujitai": "悔 [4]",
+    "old_kyujitai": "悔 [4]",
     "radical": "心",
     "strokes": "9",
     "grade": "S",
     "year_added": "",
     "english_meaning": "repent",
-    "readings": "カイ、く-いる、く-やむ、くや-しいkai, ku-iru, ku-yamu, kuya-shii\n"
+    "readings": "カイ, く-いる, く-やむ, くや-しいkai, ku-iru, ku-yamu, kuya-shii"
   },
   {
     "id": "182",
     "new_shinjitai": "海",
-    "old_kyujitai": "海 [4]",
+    "old_kyujitai": "海 [4]",
     "radical": "水",
     "strokes": "9",
     "grade": "2",
     "year_added": "",
     "english_meaning": "sea",
-    "readings": "カイ、うみkai, umi\n"
+    "readings": "カイ, うみkai, umi"
   },
   {
     "id": "183",
@@ -2010,7 +2010,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "world",
-    "readings": "カイkai\n"
+    "readings": "カイkai"
   },
   {
     "id": "184",
@@ -2021,7 +2021,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "all",
-    "readings": "カイ、みなkai, mina\n"
+    "readings": "カイ, みなkai, mina"
   },
   {
     "id": "185",
@@ -2032,7 +2032,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "contraption",
-    "readings": "カイkai\n"
+    "readings": "カイkai"
   },
   {
     "id": "186",
@@ -2043,7 +2043,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "picture",
-    "readings": "カイ、エkai, e\n"
+    "readings": "カイ, エkai, e"
   },
   {
     "id": "187",
@@ -2054,7 +2054,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "open",
-    "readings": "カイ、ひら-く、ひら-ける、あ-く、あ-けるkai, hira-ku, hira-keru, a-ku, a-keru\n"
+    "readings": "カイ, ひら-く, ひら-ける, あ-く, あ-けるkai, hira-ku, hira-keru, a-ku, a-keru"
   },
   {
     "id": "188",
@@ -2065,7 +2065,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "floor of a building",
-    "readings": "カイkai\n"
+    "readings": "カイkai"
   },
   {
     "id": "189",
@@ -2076,7 +2076,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "clod",
-    "readings": "カイ、かたまりkai, katamari\n"
+    "readings": "カイ, かたまりkai, katamari"
   },
   {
     "id": "190",
@@ -2087,7 +2087,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "square character style",
-    "readings": "カイkai\n"
+    "readings": "カイkai"
   },
   {
     "id": "191",
@@ -2098,7 +2098,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "untie",
-    "readings": "カイ、ゲ、と-く、と-かす、と-けるkai, ge, to-ku, to-kasu, to-keru\n"
+    "readings": "カイ, ゲ, と-く, と-かす, と-けるkai, ge, to-ku, to-kasu, to-keru"
   },
   {
     "id": "192",
@@ -2109,7 +2109,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "crush",
-    "readings": "カイ、つぶ-す、つぶ-れるkai, tsubu-su, tsubu-reru\n"
+    "readings": "カイ, つぶ-す, つぶ-れるkai, tsubu-su, tsubu-reru"
   },
   {
     "id": "193",
@@ -2120,7 +2120,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "demolition",
-    "readings": "カイ、こわ-す、こわ-れるkai, kowa-su, kowa-reru\n"
+    "readings": "カイ, こわ-す, こわ-れるkai, kowa-su, kowa-reru"
   },
   {
     "id": "194",
@@ -2131,7 +2131,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pocket",
-    "readings": "カイ、ふところ、なつ-かしい、なつ-かしむ、なつ-く、なつ-けるkai, futokoro, natsu-kashii, natsu-kashimu, natsu-ku, natsu-keru\n"
+    "readings": "カイ, ふところ, なつ-かしい, なつ-かしむ, なつ-く, なつ-けるkai, futokoro, natsu-kashii, natsu-kashimu, natsu-ku, natsu-keru"
   },
   {
     "id": "195",
@@ -2142,7 +2142,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "harmony",
-    "readings": "カイkai\n"
+    "readings": "カイkai"
   },
   {
     "id": "196",
@@ -2153,7 +2153,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "shellfish",
-    "readings": "かいkai\n"
+    "readings": "かいkai"
   },
   {
     "id": "197",
@@ -2164,7 +2164,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "outside",
-    "readings": "ガイ、ゲ、そと、ほか、はず-す、はず-れるgai, ge, soto, hoka, hazu-su, hazu-reru\n"
+    "readings": "ガイ, ゲ, そと, ほか, はず-す, はず-れるgai, ge, soto, hoka, hazu-su, hazu-reru"
   },
   {
     "id": "198",
@@ -2175,7 +2175,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "censure",
-    "readings": "ガイgai\n"
+    "readings": "ガイgai"
   },
   {
     "id": "199",
@@ -2186,7 +2186,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "harm",
-    "readings": "ガイgai\n"
+    "readings": "ガイgai"
   },
   {
     "id": "200",
@@ -2197,7 +2197,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "cliff",
-    "readings": "ガイ、がけgai, gake\n"
+    "readings": "ガイ, がけgai, gake"
   },
   {
     "id": "201",
@@ -2208,7 +2208,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "horizon",
-    "readings": "ガイgai\n"
+    "readings": "ガイgai"
   },
   {
     "id": "202",
@@ -2219,18 +2219,18 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "street",
-    "readings": "ガイ、（カイ）、まちgai, (kai), machi\n"
+    "readings": "ガイ, （カイ）, まちgai, (kai), machi"
   },
   {
     "id": "203",
     "new_shinjitai": "慨",
-    "old_kyujitai": "慨 [4]",
+    "old_kyujitai": "慨 [4]",
     "radical": "心",
     "strokes": "13",
     "grade": "S",
     "year_added": "",
     "english_meaning": "rue",
-    "readings": "ガイgai\n"
+    "readings": "ガイgai"
   },
   {
     "id": "204",
@@ -2241,7 +2241,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "cover",
-    "readings": "ガイ、ふたgai, futa\n"
+    "readings": "ガイ, ふたgai, futa"
   },
   {
     "id": "205",
@@ -2252,7 +2252,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "above-stated",
-    "readings": "ガイgai\n"
+    "readings": "ガイgai"
   },
   {
     "id": "206",
@@ -2263,7 +2263,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "outline",
-    "readings": "ガイgai\n"
+    "readings": "ガイgai"
   },
   {
     "id": "207",
@@ -2274,7 +2274,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "dead remains",
-    "readings": "ガイgai\n"
+    "readings": "ガイgai"
   },
   {
     "id": "208",
@@ -2285,7 +2285,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "hedge",
-    "readings": "かきkaki\n"
+    "readings": "かきkaki"
   },
   {
     "id": "209",
@@ -2296,7 +2296,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "persimmon",
-    "readings": "かきkaki\n"
+    "readings": "かきkaki"
   },
   {
     "id": "210",
@@ -2307,7 +2307,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "each",
-    "readings": "カク、おのおのkaku, onoono\n"
+    "readings": "カク, おのおのkaku, onoono"
   },
   {
     "id": "211",
@@ -2318,7 +2318,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "angle",
-    "readings": "カク、かど、つのkaku, kado, tsuno\n"
+    "readings": "カク, かど, つのkaku, kado, tsuno"
   },
   {
     "id": "212",
@@ -2329,7 +2329,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "broaden",
-    "readings": "カクkaku\n"
+    "readings": "カクkaku"
   },
   {
     "id": "213",
@@ -2340,7 +2340,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "leather",
-    "readings": "カク、かわkaku, kawa\n"
+    "readings": "カク, かわkaku, kawa"
   },
   {
     "id": "214",
@@ -2351,7 +2351,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "status",
-    "readings": "カク、（コウ）kaku, (kō)\n"
+    "readings": "カク, （コウ）kaku, (kō)"
   },
   {
     "id": "215",
@@ -2362,7 +2362,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "nucleus",
-    "readings": "カクkaku\n"
+    "readings": "カクkaku"
   },
   {
     "id": "216",
@@ -2373,7 +2373,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "husk",
-    "readings": "カク、からkaku, kara\n"
+    "readings": "カク, からkaku, kara"
   },
   {
     "id": "217",
@@ -2384,7 +2384,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "enclosure",
-    "readings": "カクkaku\n"
+    "readings": "カクkaku"
   },
   {
     "id": "218",
@@ -2395,7 +2395,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "memorize",
-    "readings": "カク、おぼ-える、さ-ます、さ-めるkaku, obo-eru, sa-masu, sa-meru\n"
+    "readings": "カク, おぼ-える, さ-ます, さ-めるkaku, obo-eru, sa-masu, sa-meru"
   },
   {
     "id": "219",
@@ -2406,7 +2406,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "contrast",
-    "readings": "カクkaku\n"
+    "readings": "カクkaku"
   },
   {
     "id": "220",
@@ -2417,7 +2417,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "isolate",
-    "readings": "カク、へだ-てる、へだ-たるkaku, heda-teru, heda-taru\n"
+    "readings": "カク, へだ-てる, へだ-たるkaku, heda-teru, heda-taru"
   },
   {
     "id": "221",
@@ -2428,7 +2428,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "tall",
-    "readings": "カクkaku\n"
+    "readings": "カクkaku"
   },
   {
     "id": "222",
@@ -2439,7 +2439,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "certain",
-    "readings": "カク、たし-か、たし-かめるkaku, tashi-ka, tashi-kameru\n"
+    "readings": "カク, たし-か, たし-かめるkaku, tashi-ka, tashi-kameru"
   },
   {
     "id": "223",
@@ -2450,7 +2450,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "seize",
-    "readings": "カク、え-るkaku, e-ru\n"
+    "readings": "カク, え-るkaku, e-ru"
   },
   {
     "id": "224",
@@ -2461,7 +2461,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "menacing",
-    "readings": "カクkaku\n"
+    "readings": "カクkaku"
   },
   {
     "id": "225",
@@ -2472,7 +2472,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "harvest",
-    "readings": "カクkaku\n"
+    "readings": "カクkaku"
   },
   {
     "id": "226",
@@ -2483,7 +2483,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "study",
-    "readings": "ガク、まな-ぶgaku, mana-bu\n"
+    "readings": "ガク, まな-ぶgaku, mana-bu"
   },
   {
     "id": "227",
@@ -2494,7 +2494,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "point",
-    "readings": "ガク、たけgaku, take\n"
+    "readings": "ガク, たけgaku, take"
   },
   {
     "id": "228",
@@ -2505,7 +2505,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "pleasure",
-    "readings": "ガク、ラク、たの-しい、たの-しむgaku, raku, tano-shii, tano-shimu\n"
+    "readings": "ガク, ラク, たの-しい, たの-しむgaku, raku, tano-shii, tano-shimu"
   },
   {
     "id": "229",
@@ -2516,7 +2516,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "amount",
-    "readings": "ガク、ひたいgaku, hitai\n"
+    "readings": "ガク, ひたいgaku, hitai"
   },
   {
     "id": "230",
@@ -2527,7 +2527,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "jaw",
-    "readings": "ガク、あごgaku, ago\n"
+    "readings": "ガク, あごgaku, ago"
   },
   {
     "id": "231",
@@ -2538,7 +2538,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hang",
-    "readings": "か-ける、か-かる、かかりka-keru, ka-karu, kakari\n"
+    "readings": "か-ける, か-かる, かかりka-keru, ka-karu, kakari"
   },
   {
     "id": "232",
@@ -2549,7 +2549,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "1981",
     "english_meaning": "lagoon",
-    "readings": "かたkata\n"
+    "readings": "かたkata"
   },
   {
     "id": "233",
@@ -2560,7 +2560,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fasten",
-    "readings": "カツkatsu\n"
+    "readings": "カツkatsu"
   },
   {
     "id": "234",
@@ -2571,18 +2571,18 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "active",
-    "readings": "カツkatsu\n"
+    "readings": "カツkatsu"
   },
   {
     "id": "235",
     "new_shinjitai": "喝",
-    "old_kyujitai": "喝 [4]",
+    "old_kyujitai": "喝 [4]",
     "radical": "口",
     "strokes": "11",
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "hoarse",
-    "readings": "カツkatsu\n"
+    "readings": "カツkatsu"
   },
   {
     "id": "236",
@@ -2593,7 +2593,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "thirst",
-    "readings": "カツ、かわ-くkatsu, kawa-ku\n"
+    "readings": "カツ, かわ-くkatsu, kawa-ku"
   },
   {
     "id": "237",
@@ -2604,18 +2604,18 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "divide",
-    "readings": "カツ、わ-る、わり、わ-れる、さ-くkatsu, wa-ru, wari, wa-reru, sa-ku\n"
+    "readings": "カツ, わ-る, わり, わ-れる, さ-くkatsu, wa-ru, wari, wa-reru, sa-ku"
   },
   {
     "id": "238",
-    "new_shinjitai": "葛 [7]",
+    "new_shinjitai": "葛",
     "old_kyujitai": "",
     "radical": "艸",
     "strokes": "12",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "arrowroot",
-    "readings": "カツ、くずkatsu, kuzu\n"
+    "readings": "カツ, くずkatsu, kuzu"
   },
   {
     "id": "239",
@@ -2626,18 +2626,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "slippery",
-    "readings": "カツ、コツ、すべ-る、なめ-らかkatsu, kotsu, sube-ru, name-raka\n"
+    "readings": "カツ, コツ, すべ-る, なめ-らかkatsu, kotsu, sube-ru, name-raka"
   },
   {
     "id": "240",
     "new_shinjitai": "褐",
-    "old_kyujitai": "褐 [4]",
+    "old_kyujitai": "褐 [4]",
     "radical": "衣",
     "strokes": "13",
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "brown",
-    "readings": "カツkatsu\n"
+    "readings": "カツkatsu"
   },
   {
     "id": "241",
@@ -2648,7 +2648,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "control",
-    "readings": "カツkatsu\n"
+    "readings": "カツkatsu"
   },
   {
     "id": "242",
@@ -2659,7 +2659,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "moreover",
-    "readings": "か-つka-tsu\n"
+    "readings": "か-つka-tsu"
   },
   {
     "id": "243",
@@ -2670,7 +2670,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "stocks",
-    "readings": "かぶkabu\n"
+    "readings": "かぶkabu"
   },
   {
     "id": "244",
@@ -2681,7 +2681,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "kettle",
-    "readings": "かまkama\n"
+    "readings": "かまkama"
   },
   {
     "id": "245",
@@ -2692,7 +2692,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "sickle",
-    "readings": "かまkama\n"
+    "readings": "かまkama"
   },
   {
     "id": "246",
@@ -2703,7 +2703,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "reap",
-    "readings": "か-るka-ru\n"
+    "readings": "か-るka-ru"
   },
   {
     "id": "247",
@@ -2714,7 +2714,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "dry",
-    "readings": "カン、ほ-す、ひ-るkan, ho-su, hi-ru\n"
+    "readings": "カン, ほ-す, ひ-るkan, ho-su, hi-ru"
   },
   {
     "id": "248",
@@ -2725,7 +2725,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "publish",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "249",
@@ -2736,7 +2736,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sweet",
-    "readings": "カン、あま-い、あま-える、あま-やかすkan, ama-i, ama-eru, ama-yakasu\n"
+    "readings": "カン, あま-い, あま-える, あま-やかすkan, ama-i, ama-eru, ama-yakasu"
   },
   {
     "id": "250",
@@ -2747,7 +2747,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sweat",
-    "readings": "カン、あせkan, ase\n"
+    "readings": "カン, あせkan, ase"
   },
   {
     "id": "251",
@@ -2758,7 +2758,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "tin can",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "252",
@@ -2769,7 +2769,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "perfect",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "253",
@@ -2780,7 +2780,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "liver",
-    "readings": "カン、きもkan, kimo\n"
+    "readings": "カン, きもkan, kimo"
   },
   {
     "id": "254",
@@ -2791,7 +2791,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "government official",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "255",
@@ -2802,7 +2802,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "crown",
-    "readings": "カン、かんむりkan, kanmuri\n"
+    "readings": "カン, かんむりkan, kanmuri"
   },
   {
     "id": "256",
@@ -2813,7 +2813,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "scroll",
-    "readings": "カン、ま-く、まきkan, ma-ku, maki\n"
+    "readings": "カン, ま-く, まきkan, ma-ku, maki"
   },
   {
     "id": "257",
@@ -2824,7 +2824,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "watch over",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "258",
@@ -2835,7 +2835,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "collapse",
-    "readings": "カン、おちい-る、おとしい-れるkan, ochii-ru, otoshii-reru\n"
+    "readings": "カン, おちい-る, おとしい-れるkan, ochii-ru, otoshii-reru"
   },
   {
     "id": "259",
@@ -2846,7 +2846,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dry",
-    "readings": "カン、かわ-く、かわ-かすkan, kawa-ku, kawa-kasu\n"
+    "readings": "カン, かわ-く, かわ-かすkan, kawa-ku, kawa-kasu"
   },
   {
     "id": "260",
@@ -2857,7 +2857,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "intuition",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "261",
@@ -2868,7 +2868,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "afflicted",
-    "readings": "カン、わずら-うkan, wazura-u\n"
+    "readings": "カン, わずら-うkan, wazura-u"
   },
   {
     "id": "262",
@@ -2879,7 +2879,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pierce",
-    "readings": "カン、つらぬ-くkan, tsuranu-ku\n"
+    "readings": "カン, つらぬ-くkan, tsuranu-ku"
   },
   {
     "id": "263",
@@ -2890,7 +2890,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "cold",
-    "readings": "カン、さむ-いkan, samu-i\n"
+    "readings": "カン, さむ-いkan, samu-i"
   },
   {
     "id": "264",
@@ -2901,7 +2901,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "yell",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "265",
@@ -2912,7 +2912,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "withstand",
-    "readings": "カン、た-えるkan, ta-eru\n"
+    "readings": "カン, た-えるkan, ta-eru"
   },
   {
     "id": "266",
@@ -2923,7 +2923,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "interchange",
-    "readings": "カン、か-える、か-わるkan, ka-eru, ka-waru\n"
+    "readings": "カン, か-える, か-わるkan, ka-eru, ka-waru"
   },
   {
     "id": "267",
@@ -2934,7 +2934,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "daring",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "268",
@@ -2945,7 +2945,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "coffin",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "269",
@@ -2956,7 +2956,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "goodwill",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "270",
@@ -2967,7 +2967,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "interval",
-    "readings": "カン、ケン、あいだ、まkan, ken, aida, ma\n"
+    "readings": "カン, ケン, あいだ, まkan, ken, aida, ma"
   },
   {
     "id": "271",
@@ -2978,7 +2978,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "leisure",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "272",
@@ -2989,7 +2989,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "persuade",
-    "readings": "カン、すす-めるkan, susu-meru\n"
+    "readings": "カン, すす-めるkan, susu-meru"
   },
   {
     "id": "273",
@@ -3000,7 +3000,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tolerant",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "274",
@@ -3011,7 +3011,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "tree-trunk",
-    "readings": "カン、みきkan, miki\n"
+    "readings": "カン, みきkan, miki"
   },
   {
     "id": "275",
@@ -3022,18 +3022,18 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "feeling",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "276",
     "new_shinjitai": "漢",
-    "old_kyujitai": "漢 [4]",
+    "old_kyujitai": "漢 [4]",
     "radical": "水",
     "strokes": "13",
     "grade": "3",
     "year_added": "",
     "english_meaning": "China",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "277",
@@ -3044,7 +3044,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "accustomed",
-    "readings": "カン、な-れる、な-らすkan, na-reru, na-rasu\n"
+    "readings": "カン, な-れる, な-らすkan, na-reru, na-rasu"
   },
   {
     "id": "278",
@@ -3055,7 +3055,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "pipe",
-    "readings": "カン、くだkan, kuda\n"
+    "readings": "カン, くだkan, kuda"
   },
   {
     "id": "279",
@@ -3066,7 +3066,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "related",
-    "readings": "カン、せき、かか-わるkan, seki, kaka-waru\n"
+    "readings": "カン, せき, かか-わるkan, seki, kaka-waru"
   },
   {
     "id": "280",
@@ -3077,7 +3077,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "delight",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "281",
@@ -3088,7 +3088,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "oversee",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "282",
@@ -3099,7 +3099,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "slacken",
-    "readings": "カン、ゆる-い、ゆる-やか、ゆる-む、ゆる-めるkan, yuru-i, yuru-yaka, yuru-mu, yuru-meru\n"
+    "readings": "カン, ゆる-い, ゆる-やか, ゆる-む, ゆる-めるkan, yuru-i, yuru-yaka, yuru-mu, yuru-meru"
   },
   {
     "id": "283",
@@ -3110,7 +3110,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "remorse",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "284",
@@ -3121,7 +3121,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "send back",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "285",
@@ -3132,7 +3132,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "public building",
-    "readings": "カン、やかたkan, yakata\n"
+    "readings": "カン, やかたkan, yakata"
   },
   {
     "id": "286",
@@ -3143,7 +3143,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ring",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "287",
@@ -3154,7 +3154,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "simplicity",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "288",
@@ -3165,18 +3165,18 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "observe",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "289",
-    "new_shinjitai": "韓 [5]",
+    "new_shinjitai": "韓",
     "old_kyujitai": "",
     "radical": "韋",
     "strokes": "18",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "Korea",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "290",
@@ -3187,7 +3187,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "warship",
-    "readings": "カンkan\n"
+    "readings": "カンkan"
   },
   {
     "id": "291",
@@ -3198,7 +3198,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "specimen",
-    "readings": "カン、かんが-みるkan, kanga-miru\n"
+    "readings": "カン, かんが-みるkan, kanga-miru"
   },
   {
     "id": "292",
@@ -3209,7 +3209,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "circle",
-    "readings": "ガン、まる、まる-い、まる-めるgan, maru, maru-i, maru-meru\n"
+    "readings": "ガン, まる, まる-い, まる-めるgan, maru, maru-i, maru-meru"
   },
   {
     "id": "293",
@@ -3220,7 +3220,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "include",
-    "readings": "ガン、ふく-む、ふく-めるgan, fuku-mu, fuku-meru\n"
+    "readings": "ガン, ふく-む, ふく-めるgan, fuku-mu, fuku-meru"
   },
   {
     "id": "294",
@@ -3231,7 +3231,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "beach",
-    "readings": "ガン、きしgan, kishi\n"
+    "readings": "ガン, きしgan, kishi"
   },
   {
     "id": "295",
@@ -3242,7 +3242,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "boulder",
-    "readings": "ガン、いわgan, iwa\n"
+    "readings": "ガン, いわgan, iwa"
   },
   {
     "id": "296",
@@ -3253,7 +3253,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "trifle with",
-    "readings": "ガンgan\n"
+    "readings": "ガンgan"
   },
   {
     "id": "297",
@@ -3264,7 +3264,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "eyeball",
-    "readings": "ガン、（ゲン）、まなこgan, (gen), manako\n"
+    "readings": "ガン, （ゲン）, まなこgan, (gen), manako"
   },
   {
     "id": "298",
@@ -3275,7 +3275,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "stubborn",
-    "readings": "ガンgan\n"
+    "readings": "ガンgan"
   },
   {
     "id": "299",
@@ -3286,7 +3286,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "face",
-    "readings": "ガン、かおgan, kao\n"
+    "readings": "ガン, かおgan, kao"
   },
   {
     "id": "300",
@@ -3297,7 +3297,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "request",
-    "readings": "ガン、ねが-うgan, nega-u\n"
+    "readings": "ガン, ねが-うgan, nega-u"
   },
   {
     "id": "301",
@@ -3308,7 +3308,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "plan",
-    "readings": "キ、くわだ-てるki, kuwada-teru\n"
+    "readings": "キ, くわだ-てるki, kuwada-teru"
   },
   {
     "id": "302",
@@ -3319,7 +3319,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "deed",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "303",
@@ -3330,7 +3330,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "dangerous",
-    "readings": "キ、あぶ-ない、あや-うい、あや-ぶむki, abu-nai, aya-ui, aya-bumu\n"
+    "readings": "キ, あぶ-ない, あや-うい, あや-ぶむki, abu-nai, aya-ui, aya-bumu"
   },
   {
     "id": "304",
@@ -3341,7 +3341,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "desk",
-    "readings": "キ、つくえki, tsukue\n"
+    "readings": "キ, つくえki, tsukue"
   },
   {
     "id": "305",
@@ -3352,7 +3352,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "feeling",
-    "readings": "キ、ケki, ke\n"
+    "readings": "キ, ケki, ke"
   },
   {
     "id": "306",
@@ -3363,7 +3363,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "branch off",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "307",
@@ -3374,7 +3374,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "hope",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "308",
@@ -3385,7 +3385,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mourning",
-    "readings": "キ、い-む、い-まわしいki, i-mu, i-mawashii\n"
+    "readings": "キ, い-む, い-まわしいki, i-mu, i-mawashii"
   },
   {
     "id": "309",
@@ -3396,7 +3396,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "steam",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "310",
@@ -3407,18 +3407,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "strange",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "311",
     "new_shinjitai": "祈",
-    "old_kyujitai": "祈 [4]",
+    "old_kyujitai": "祈 [4]",
     "radical": "示",
     "strokes": "8",
     "grade": "S",
     "year_added": "",
     "english_meaning": "pray",
-    "readings": "キ、いの-るki, ino-ru\n"
+    "readings": "キ, いの-るki, ino-ru"
   },
   {
     "id": "312",
@@ -3429,7 +3429,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "seasons",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "313",
@@ -3440,7 +3440,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "chronicle",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "314",
@@ -3451,18 +3451,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rut",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "315",
     "new_shinjitai": "既",
-    "old_kyujitai": "既 [4]",
+    "old_kyujitai": "既 [4]",
     "radical": "无",
     "strokes": "10",
     "grade": "S",
     "year_added": "",
     "english_meaning": "previously",
-    "readings": "キ、すで-にki, sude-ni\n"
+    "readings": "キ, すで-にki, sude-ni"
   },
   {
     "id": "316",
@@ -3473,7 +3473,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "write down",
-    "readings": "キ、しる-すki, shiru-su\n"
+    "readings": "キ, しる-すki, shiru-su"
   },
   {
     "id": "317",
@@ -3484,7 +3484,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "wake up",
-    "readings": "キ、お-きる、お-こる、お-こすki, o-kiru, o-koru, o-kosu\n"
+    "readings": "キ, お-きる, お-こる, お-こすki, o-kiru, o-koru, o-kosu"
   },
   {
     "id": "318",
@@ -3495,7 +3495,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hungry",
-    "readings": "キ、う-えるki, u-eru\n"
+    "readings": "キ, う-えるki, u-eru"
   },
   {
     "id": "319",
@@ -3506,7 +3506,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ghost",
-    "readings": "キ、おにki, oni\n"
+    "readings": "キ, おにki, oni"
   },
   {
     "id": "320",
@@ -3517,7 +3517,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "return",
-    "readings": "キ、かえ-る、かえ-すki, kae-ru, kae-su\n"
+    "readings": "キ, かえ-る, かえ-すki, kae-ru, kae-su"
   },
   {
     "id": "321",
@@ -3528,7 +3528,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "foundation",
-    "readings": "キ、もと、もといki, moto, motoi\n"
+    "readings": "キ, もと, もといki, moto, motoi"
   },
   {
     "id": "322",
@@ -3539,7 +3539,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "approach",
-    "readings": "キ、よ-る、よ-せるki, yo-ru, yo-seru\n"
+    "readings": "キ, よ-る, よ-せるki, yo-ru, yo-seru"
   },
   {
     "id": "323",
@@ -3550,7 +3550,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "rule",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "324",
@@ -3561,7 +3561,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "turtle",
-    "readings": "キ、かめki, kame\n"
+    "readings": "キ, かめki, kame"
   },
   {
     "id": "325",
@@ -3572,7 +3572,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "rejoice",
-    "readings": "キ、よろこ-ぶki, yoroko-bu\n"
+    "readings": "キ, よろこ-ぶki, yoroko-bu"
   },
   {
     "id": "326",
@@ -3583,7 +3583,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "how many",
-    "readings": "キ、いくki, iku\n"
+    "readings": "キ, いくki, iku"
   },
   {
     "id": "327",
@@ -3594,7 +3594,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "brandish",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "328",
@@ -3605,7 +3605,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "period of time",
-    "readings": "キ、（ゴ）ki, (go)\n"
+    "readings": "キ, （ゴ）ki, (go)"
   },
   {
     "id": "329",
@@ -3616,7 +3616,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "chess piece",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "330",
@@ -3627,7 +3627,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "precious",
-    "readings": "キ、たっと-い、とうと-い、たっと-ぶ、とうと-ぶki, tatto-i, tōto-i, tatto-bu, tōto-bu\n"
+    "readings": "キ, たっと-い, とうと-い, たっと-ぶ, とうと-ぶki, tatto-i, tōto-i, tatto-bu, tōto-bu"
   },
   {
     "id": "331",
@@ -3638,7 +3638,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "abandon",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "332",
@@ -3649,7 +3649,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "destroy",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "333",
@@ -3660,18 +3660,18 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "national flag",
-    "readings": "キ、はたki, hata\n"
+    "readings": "キ, はたki, hata"
   },
   {
     "id": "334",
     "new_shinjitai": "器",
-    "old_kyujitai": "器 [4]",
+    "old_kyujitai": "器 [4]",
     "radical": "口",
     "strokes": "15",
     "grade": "4",
     "year_added": "",
     "english_meaning": "container",
-    "readings": "キ、うつわki, utsuwa\n"
+    "readings": "キ, うつわki, utsuwa"
   },
   {
     "id": "335",
@@ -3682,7 +3682,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "capital",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "336",
@@ -3693,7 +3693,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "radiance",
-    "readings": "キ、かがや-くki, kagaya-ku\n"
+    "readings": "キ, かがや-くki, kagaya-ku"
   },
   {
     "id": "337",
@@ -3704,7 +3704,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "machine",
-    "readings": "キ、はたki, hata\n"
+    "readings": "キ, はたki, hata"
   },
   {
     "id": "338",
@@ -3715,7 +3715,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "equestrian",
-    "readings": "キki\n"
+    "readings": "キki"
   },
   {
     "id": "339",
@@ -3726,7 +3726,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "skill",
-    "readings": "ギ、わざgi, waza\n"
+    "readings": "ギ, わざgi, waza"
   },
   {
     "id": "340",
@@ -3737,7 +3737,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "best regards",
-    "readings": "ギgi\n"
+    "readings": "ギgi"
   },
   {
     "id": "341",
@@ -3748,7 +3748,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "falsehood",
-    "readings": "ギ、いつわ-る、にせgi, itsuwa-ru, nise\n"
+    "readings": "ギ, いつわ-る, にせgi, itsuwa-ru, nise"
   },
   {
     "id": "342",
@@ -3759,7 +3759,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "deceit",
-    "readings": "ギ、あざむ-くgi, azamu-ku\n"
+    "readings": "ギ, あざむ-くgi, azamu-ku"
   },
   {
     "id": "343",
@@ -3770,7 +3770,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "righteousness",
-    "readings": "ギgi\n"
+    "readings": "ギgi"
   },
   {
     "id": "344",
@@ -3781,7 +3781,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "doubt",
-    "readings": "ギ、うたが-うgi, utaga-u\n"
+    "readings": "ギ, うたが-うgi, utaga-u"
   },
   {
     "id": "345",
@@ -3792,7 +3792,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ceremony",
-    "readings": "ギgi\n"
+    "readings": "ギgi"
   },
   {
     "id": "346",
@@ -3803,7 +3803,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "frolic",
-    "readings": "ギ、たわむ-れるgi, tawamu-reru\n"
+    "readings": "ギ, たわむ-れるgi, tawamu-reru"
   },
   {
     "id": "347",
@@ -3814,7 +3814,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mimic",
-    "readings": "ギgi\n"
+    "readings": "ギgi"
   },
   {
     "id": "348",
@@ -3825,7 +3825,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sacrifice",
-    "readings": "ギgi\n"
+    "readings": "ギgi"
   },
   {
     "id": "349",
@@ -3836,7 +3836,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "deliberation",
-    "readings": "ギgi\n"
+    "readings": "ギgi"
   },
   {
     "id": "350",
@@ -3847,7 +3847,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "chrysanthemum",
-    "readings": "キクkiku\n"
+    "readings": "キクkiku"
   },
   {
     "id": "351",
@@ -3858,7 +3858,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "good luck",
-    "readings": "キチ、キツkichi, kitsu\n"
+    "readings": "キチ, キツkichi, kitsu"
   },
   {
     "id": "352",
@@ -3869,7 +3869,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "consume",
-    "readings": "キツkitsu\n"
+    "readings": "キツkitsu"
   },
   {
     "id": "353",
@@ -3880,7 +3880,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "packed",
-    "readings": "キツ、つ-める、つ-まる、つ-むkitsu, tsu-meru, tsu-maru, tsu-mu\n"
+    "readings": "キツ, つ-める, つ-まる, つ-むkitsu, tsu-meru, tsu-maru, tsu-mu"
   },
   {
     "id": "354",
@@ -3891,7 +3891,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "instead",
-    "readings": "キャクkyaku\n"
+    "readings": "キャクkyaku"
   },
   {
     "id": "355",
@@ -3902,7 +3902,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "guest",
-    "readings": "キャク、カクkyaku, kaku\n"
+    "readings": "キャク, カクkyaku, kaku"
   },
   {
     "id": "356",
@@ -3913,7 +3913,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "leg",
-    "readings": "キャク、（キャ）、あしkyaku, (kya), ashi\n"
+    "readings": "キャク, （キャ）, あしkyaku, (kya), ashi"
   },
   {
     "id": "357",
@@ -3924,7 +3924,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "inverted",
-    "readings": "ギャク、さか、さか-らうgyaku, saka, saka-rau\n"
+    "readings": "ギャク, さか, さか-らうgyaku, saka, saka-rau"
   },
   {
     "id": "358",
@@ -3935,7 +3935,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tyrannize",
-    "readings": "ギャク、しいた-げるgyaku, shiita-geru\n"
+    "readings": "ギャク, しいた-げるgyaku, shiita-geru"
   },
   {
     "id": "359",
@@ -3946,7 +3946,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "nine",
-    "readings": "キュウ、ク、ここの、ここの-つkyū, ku, kokono, kokono-tsu\n"
+    "readings": "キュウ, ク, ここの, ここの-つkyū, ku, kokono, kokono-tsu"
   },
   {
     "id": "360",
@@ -3957,7 +3957,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "long time",
-    "readings": "キュウ、（ク）、ひさ-しいkyū, (ku), hisa-shii\n"
+    "readings": "キュウ, （ク）, ひさ-しいkyū, (ku), hisa-shii"
   },
   {
     "id": "361",
@@ -3968,7 +3968,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "reach out",
-    "readings": "キュウ、およ-ぶ、およ-び、およ-ぼすkyū, oyo-bu, oyo-bi, oyo-bosu\n"
+    "readings": "キュウ, およ-ぶ, およ-び, およ-ぼすkyū, oyo-bu, oyo-bi, oyo-bosu"
   },
   {
     "id": "362",
@@ -3979,7 +3979,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "bow (archery, violin)",
-    "readings": "キュウ、ゆみkyū, yumi\n"
+    "readings": "キュウ, ゆみkyū, yumi"
   },
   {
     "id": "363",
@@ -3990,7 +3990,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hill",
-    "readings": "キュウ、おかkyū, oka\n"
+    "readings": "キュウ, おかkyū, oka"
   },
   {
     "id": "364",
@@ -4001,7 +4001,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "old times",
-    "readings": "キュウkyū\n"
+    "readings": "キュウkyū"
   },
   {
     "id": "365",
@@ -4012,7 +4012,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "rest",
-    "readings": "キュウ、やす-む、やす-まる、やす-めるkyū, yasu-mu, yasu-maru, yasu-meru\n"
+    "readings": "キュウ, やす-む, やす-まる, やす-めるkyū, yasu-mu, yasu-maru, yasu-meru"
   },
   {
     "id": "366",
@@ -4023,7 +4023,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "suck",
-    "readings": "キュウ、す-うkyū, su-u\n"
+    "readings": "キュウ, す-うkyū, su-u"
   },
   {
     "id": "367",
@@ -4034,7 +4034,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "decay",
-    "readings": "キュウ、く-ちるkyū, ku-chiru\n"
+    "readings": "キュウ, く-ちるkyū, ku-chiru"
   },
   {
     "id": "368",
@@ -4045,7 +4045,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "mortar",
-    "readings": "キュウ、うすkyū, usu\n"
+    "readings": "キュウ, うすkyū, usu"
   },
   {
     "id": "369",
@@ -4056,7 +4056,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "request",
-    "readings": "キュウ、もと-めるkyū, moto-meru\n"
+    "readings": "キュウ, もと-めるkyū, moto-meru"
   },
   {
     "id": "370",
@@ -4067,7 +4067,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "research",
-    "readings": "キュウ、きわ-めるkyū, kiwa-meru\n"
+    "readings": "キュウ, きわ-めるkyū, kiwa-meru"
   },
   {
     "id": "371",
@@ -4078,7 +4078,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "cry",
-    "readings": "キュウ、な-くkyū, na-ku\n"
+    "readings": "キュウ, な-くkyū, na-ku"
   },
   {
     "id": "372",
@@ -4089,7 +4089,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "hurry",
-    "readings": "キュウ、いそ-ぐkyū, iso-gu\n"
+    "readings": "キュウ, いそ-ぐkyū, iso-gu"
   },
   {
     "id": "373",
@@ -4100,7 +4100,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "rank",
-    "readings": "キュウkyū\n"
+    "readings": "キュウkyū"
   },
   {
     "id": "374",
@@ -4111,7 +4111,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "twist",
-    "readings": "キュウkyū\n"
+    "readings": "キュウkyū"
   },
   {
     "id": "375",
@@ -4122,7 +4122,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "Shinto shrine",
-    "readings": "キュウ、グウ、（ク）、みやkyū, gū, (ku), miya\n"
+    "readings": "キュウ, グウ, （ク）, みやkyū, gū, (ku), miya"
   },
   {
     "id": "376",
@@ -4133,7 +4133,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "salvation",
-    "readings": "キュウ、すく-うkyū, suku-u\n"
+    "readings": "キュウ, すく-うkyū, suku-u"
   },
   {
     "id": "377",
@@ -4144,7 +4144,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "sphere",
-    "readings": "キュウ、たまkyū, tama\n"
+    "readings": "キュウ, たまkyū, tama"
   },
   {
     "id": "378",
@@ -4155,7 +4155,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "salary",
-    "readings": "キュウkyū\n"
+    "readings": "キュウkyū"
   },
   {
     "id": "379",
@@ -4166,7 +4166,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "smell",
-    "readings": "キュウ、か-ぐkyū, ka-gu\n"
+    "readings": "キュウ, か-ぐkyū, ka-gu"
   },
   {
     "id": "380",
@@ -4177,7 +4177,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hard up",
-    "readings": "キュウ、きわ-める、きわ-まるkyū, kiwa-meru, kiwa-maru\n"
+    "readings": "キュウ, きわ-める, きわ-まるkyū, kiwa-meru, kiwa-maru"
   },
   {
     "id": "381",
@@ -4188,7 +4188,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "cow",
-    "readings": "ギュウ、うしgyū, ushi\n"
+    "readings": "ギュウ, うしgyū, ushi"
   },
   {
     "id": "382",
@@ -4199,7 +4199,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "leave",
-    "readings": "キョ、コ、さ-るkyo, ko, sa-ru\n"
+    "readings": "キョ, コ, さ-るkyo, ko, sa-ru"
   },
   {
     "id": "383",
@@ -4210,7 +4210,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "gigantic",
-    "readings": "キョkyo\n"
+    "readings": "キョkyo"
   },
   {
     "id": "384",
@@ -4221,7 +4221,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "reside",
-    "readings": "キョ、い-るkyo, i-ru\n"
+    "readings": "キョ, い-るkyo, i-ru"
   },
   {
     "id": "385",
@@ -4232,7 +4232,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "repel",
-    "readings": "キョ、こば-むkyo, koba-mu\n"
+    "readings": "キョ, こば-むkyo, koba-mu"
   },
   {
     "id": "386",
@@ -4243,7 +4243,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "foothold",
-    "readings": "キョ、コkyo, ko\n"
+    "readings": "キョ, コkyo, ko"
   },
   {
     "id": "387",
@@ -4254,7 +4254,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "raise",
-    "readings": "キョ、あ-げる、あ-がるkyo, a-geru, a-garu\n"
+    "readings": "キョ, あ-げる, あ-がるkyo, a-geru, a-garu"
   },
   {
     "id": "388",
@@ -4265,7 +4265,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "void",
-    "readings": "キョ、（コ）kyo, (ko)\n"
+    "readings": "キョ, （コ）kyo, (ko)"
   },
   {
     "id": "389",
@@ -4276,7 +4276,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "permit",
-    "readings": "キョ、ゆる-すkyo, yuru-su\n"
+    "readings": "キョ, ゆる-すkyo, yuru-su"
   },
   {
     "id": "390",
@@ -4287,7 +4287,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "long-distance",
-    "readings": "キョkyo\n"
+    "readings": "キョkyo"
   },
   {
     "id": "391",
@@ -4298,7 +4298,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "fish",
-    "readings": "ギョ、うお、さかなgyo, uo, sakana\n"
+    "readings": "ギョ, うお, さかなgyo, uo, sakana"
   },
   {
     "id": "392",
@@ -4309,7 +4309,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "honorable",
-    "readings": "ギョ、ゴ、おんgyo, go, on\n"
+    "readings": "ギョ, ゴ, おんgyo, go, on"
   },
   {
     "id": "393",
@@ -4320,7 +4320,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "fishing",
-    "readings": "ギョ、リョウgyo, ryō\n"
+    "readings": "ギョ, リョウgyo, ryō"
   },
   {
     "id": "394",
@@ -4331,7 +4331,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "villain",
-    "readings": "キョウkyō\n"
+    "readings": "キョウkyō"
   },
   {
     "id": "395",
@@ -4342,7 +4342,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "together",
-    "readings": "キョウ、ともkyō, tomo\n"
+    "readings": "キョウ, ともkyō, tomo"
   },
   {
     "id": "396",
@@ -4353,7 +4353,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "shout",
-    "readings": "キョウ、さけ-ぶkyō, sake-bu\n"
+    "readings": "キョウ, さけ-ぶkyō, sake-bu"
   },
   {
     "id": "397",
@@ -4364,7 +4364,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lunatic",
-    "readings": "キョウ、くる-う、くる-おしいkyō, kuru-u, kuru-oshii\n"
+    "readings": "キョウ, くる-う, くる-おしいkyō, kuru-u, kuru-oshii"
   },
   {
     "id": "398",
@@ -4375,7 +4375,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "capital",
-    "readings": "キョウ、ケイkyō, kei\n"
+    "readings": "キョウ, ケイkyō, kei"
   },
   {
     "id": "399",
@@ -4386,7 +4386,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "receive",
-    "readings": "キョウkyō\n"
+    "readings": "キョウkyō"
   },
   {
     "id": "400",
@@ -4397,7 +4397,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "offer",
-    "readings": "キョウ、（ク）、そな-える、ともkyō, (ku), sona-eru, tomo\n"
+    "readings": "キョウ, （ク）, そな-える, ともkyō, (ku), sona-eru, tomo"
   },
   {
     "id": "401",
@@ -4408,7 +4408,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "cooperation",
-    "readings": "キョウkyō\n"
+    "readings": "キョウkyō"
   },
   {
     "id": "402",
@@ -4419,7 +4419,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "condition",
-    "readings": "キョウkyō\n"
+    "readings": "キョウkyō"
   },
   {
     "id": "403",
@@ -4430,7 +4430,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "gorge",
-    "readings": "キョウkyō\n"
+    "readings": "キョウkyō"
   },
   {
     "id": "404",
@@ -4441,7 +4441,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "pinch",
-    "readings": "キョウ、はさ-む、はさ-まるkyō, hasa-mu, hasa-maru\n"
+    "readings": "キョウ, はさ-む, はさ-まるkyō, hasa-mu, hasa-maru"
   },
   {
     "id": "405",
@@ -4452,7 +4452,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cramped",
-    "readings": "キョウ、せま-い、せば-める、せば-まるkyō, sema-i, seba-meru, seba-maru\n"
+    "readings": "キョウ, せま-い, せば-める, せば-まるkyō, sema-i, seba-meru, seba-maru"
   },
   {
     "id": "406",
@@ -4463,7 +4463,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fear",
-    "readings": "キョウ、おそ-れる、おそ-ろしいkyō, oso-reru, oso-roshii\n"
+    "readings": "キョウ, おそ-れる, おそ-ろしいkyō, oso-reru, oso-roshii"
   },
   {
     "id": "407",
@@ -4474,7 +4474,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "respect",
-    "readings": "キョウ、うやうや-しいkyō, uyauya-shii\n"
+    "readings": "キョウ, うやうや-しいkyō, uyauya-shii"
   },
   {
     "id": "408",
@@ -4485,7 +4485,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "bosom",
-    "readings": "キョウ、むね、（むな）kyō, mune, (muna)\n"
+    "readings": "キョウ, むね, （むな）kyō, mune, (muna)"
   },
   {
     "id": "409",
@@ -4496,7 +4496,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "threaten",
-    "readings": "キョウ、おびや-かす、おど-す、おど-かすkyō, obiya-kasu, odo-su, odo-kasu\n"
+    "readings": "キョウ, おびや-かす, おど-す, おど-かすkyō, obiya-kasu, odo-su, odo-kasu"
   },
   {
     "id": "410",
@@ -4507,7 +4507,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "strong",
-    "readings": "キョウ、ゴウ、つよ-い、つよ-まる、つよ-める、し-いるkyō, gō, tsuyo-i, tsuyo-maru, tsuyo-meru, shi-iru\n"
+    "readings": "キョウ, ゴウ, つよ-い, つよ-まる, つよ-める, し-いるkyō, gō, tsuyo-i, tsuyo-maru, tsuyo-meru, shi-iru"
   },
   {
     "id": "411",
@@ -4518,7 +4518,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "teach",
-    "readings": "キョウ、おし-える、おそ-わるkyō, oshi-eru, oso-waru\n"
+    "readings": "キョウ, おし-える, おそ-わるkyō, oshi-eru, oso-waru"
   },
   {
     "id": "412",
@@ -4529,7 +4529,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "home town",
-    "readings": "キョウ、ゴウkyō, gō\n"
+    "readings": "キョウ, ゴウkyō, gō"
   },
   {
     "id": "413",
@@ -4540,7 +4540,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "boundary",
-    "readings": "キョウ、（ケイ）、さかいkyō, (kei), sakai\n"
+    "readings": "キョウ, （ケイ）, さかいkyō, (kei), sakai"
   },
   {
     "id": "414",
@@ -4551,7 +4551,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "bridge",
-    "readings": "キョウ、はしkyō, hashi\n"
+    "readings": "キョウ, はしkyō, hashi"
   },
   {
     "id": "415",
@@ -4562,7 +4562,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "rectify",
-    "readings": "キョウ、た-めるkyō, ta-meru\n"
+    "readings": "キョウ, た-めるkyō, ta-meru"
   },
   {
     "id": "416",
@@ -4573,7 +4573,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "mirror",
-    "readings": "キョウ、かがみkyō, kagami\n"
+    "readings": "キョウ, かがみkyō, kagami"
   },
   {
     "id": "417",
@@ -4584,18 +4584,18 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "compete",
-    "readings": "キョウ、ケイ、きそ-う、せ-るkyō, kei, kiso-u, se-ru\n"
+    "readings": "キョウ, ケイ, きそ-う, せ-るkyō, kei, kiso-u, se-ru"
   },
   {
     "id": "418",
     "new_shinjitai": "響",
-    "old_kyujitai": "響 [4]",
+    "old_kyujitai": "響 [4]",
     "radical": "音",
     "strokes": "20",
     "grade": "S",
     "year_added": "",
     "english_meaning": "echo",
-    "readings": "キョウ、ひび-くkyō, hibi-ku\n"
+    "readings": "キョウ, ひび-くkyō, hibi-ku"
   },
   {
     "id": "419",
@@ -4606,7 +4606,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wonder",
-    "readings": "キョウ、おどろ-く、おどろ-かすkyō, odoro-ku, odoro-kasu\n"
+    "readings": "キョウ, おどろ-く, おどろ-かすkyō, odoro-ku, odoro-kasu"
   },
   {
     "id": "420",
@@ -4617,7 +4617,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "face-up",
-    "readings": "ギョウ、（コウ）、あお-ぐ、おお-せgyō, (kō), ao-gu, oo-se\n"
+    "readings": "ギョウ, （コウ）, あお-ぐ, おお-せgyō, (kō), ao-gu, oo-se"
   },
   {
     "id": "421",
@@ -4628,7 +4628,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "daybreak",
-    "readings": "ギョウ、あかつきgyō, akatsuki\n"
+    "readings": "ギョウ, あかつきgyō, akatsuki"
   },
   {
     "id": "422",
@@ -4639,7 +4639,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "business",
-    "readings": "ギョウ、ゴウ、わざgyō, gō, waza\n"
+    "readings": "ギョウ, ゴウ, わざgyō, gō, waza"
   },
   {
     "id": "423",
@@ -4650,7 +4650,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "congeal",
-    "readings": "ギョウ、こ-る、こ-らすgyō, ko-ru, ko-rasu\n"
+    "readings": "ギョウ, こ-る, こ-らすgyō, ko-ru, ko-rasu"
   },
   {
     "id": "424",
@@ -4661,7 +4661,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "musical composition",
-    "readings": "キョク、ま-がる、ま-げるkyoku, ma-garu, ma-geru\n"
+    "readings": "キョク, ま-がる, ま-げるkyoku, ma-garu, ma-geru"
   },
   {
     "id": "425",
@@ -4672,7 +4672,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "office",
-    "readings": "キョクkyoku\n"
+    "readings": "キョクkyoku"
   },
   {
     "id": "426",
@@ -4683,7 +4683,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "poles",
-    "readings": "キョク、ゴク、きわ-める、きわ-まる、きわ-みkyoku, goku, kiwa-meru, kiwa-maru, kiwa-mi\n"
+    "readings": "キョク, ゴク, きわ-める, きわ-まる, きわ-みkyoku, goku, kiwa-meru, kiwa-maru, kiwa-mi"
   },
   {
     "id": "427",
@@ -4694,7 +4694,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "ball",
-    "readings": "ギョク、たまgyoku, tama\n"
+    "readings": "ギョク, たまgyoku, tama"
   },
   {
     "id": "428",
@@ -4705,7 +4705,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "towel",
-    "readings": "キンkin\n"
+    "readings": "キンkin"
   },
   {
     "id": "429",
@@ -4716,7 +4716,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "axe",
-    "readings": "キンkin\n"
+    "readings": "キンkin"
   },
   {
     "id": "430",
@@ -4727,7 +4727,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "level",
-    "readings": "キンkin\n"
+    "readings": "キンkin"
   },
   {
     "id": "431",
@@ -4738,7 +4738,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "near",
-    "readings": "キン、ちか-いkin, chika-i\n"
+    "readings": "キン, ちか-いkin, chika-i"
   },
   {
     "id": "432",
@@ -4749,7 +4749,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "gold",
-    "readings": "キン、コン、かね、（かな）kin, kon, kane, (kana)\n"
+    "readings": "キン, コン, かね, （かな）kin, kon, kane, (kana)"
   },
   {
     "id": "433",
@@ -4760,18 +4760,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "germ",
-    "readings": "キンkin\n"
+    "readings": "キンkin"
   },
   {
     "id": "434",
     "new_shinjitai": "勤",
-    "old_kyujitai": "勤 [4]",
+    "old_kyujitai": "勤 [4]",
     "radical": "力",
     "strokes": "12",
     "grade": "6",
     "year_added": "",
     "english_meaning": "diligence",
-    "readings": "キン、（ゴン）、つと-める、つと-まるkin, (gon), tsuto-meru, tsuto-maru\n"
+    "readings": "キン, （ゴン）, つと-める, つと-まるkin, (gon), tsuto-meru, tsuto-maru"
   },
   {
     "id": "435",
@@ -4782,7 +4782,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "harp",
-    "readings": "キン、ことkin, koto\n"
+    "readings": "キン, ことkin, koto"
   },
   {
     "id": "436",
@@ -4793,18 +4793,18 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "muscle",
-    "readings": "キン、すじkin, suji\n"
+    "readings": "キン, すじkin, suji"
   },
   {
     "id": "437",
-    "new_shinjitai": "僅 [7]",
+    "new_shinjitai": "僅",
     "old_kyujitai": "",
     "radical": "人",
     "strokes": "13",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "a wee bit",
-    "readings": "キン、わず-かkin, wazu-ka\n"
+    "readings": "キン, わず-かkin, wazu-ka"
   },
   {
     "id": "438",
@@ -4815,7 +4815,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "prohibition",
-    "readings": "キンkin\n"
+    "readings": "キンkin"
   },
   {
     "id": "439",
@@ -4826,7 +4826,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tense",
-    "readings": "キンkin\n"
+    "readings": "キンkin"
   },
   {
     "id": "440",
@@ -4837,18 +4837,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "brocade",
-    "readings": "キン、にしきkin, nishiki\n"
+    "readings": "キン, にしきkin, nishiki"
   },
   {
     "id": "441",
     "new_shinjitai": "謹",
-    "old_kyujitai": "謹 [4]",
+    "old_kyujitai": "謹 [4]",
     "radical": "言",
     "strokes": "17",
     "grade": "S",
     "year_added": "",
     "english_meaning": "discreet",
-    "readings": "キン、つつし-むkin, tsutsushi-mu\n"
+    "readings": "キン, つつし-むkin, tsutsushi-mu"
   },
   {
     "id": "442",
@@ -4859,7 +4859,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "collar",
-    "readings": "キン、えりkin, eri\n"
+    "readings": "キン, えりkin, eri"
   },
   {
     "id": "443",
@@ -4870,7 +4870,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "versify",
-    "readings": "ギンgin\n"
+    "readings": "ギンgin"
   },
   {
     "id": "444",
@@ -4881,7 +4881,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "silver",
-    "readings": "ギンgin\n"
+    "readings": "ギンgin"
   },
   {
     "id": "445",
@@ -4892,7 +4892,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "ward",
-    "readings": "クku\n"
+    "readings": "クku"
   },
   {
     "id": "446",
@@ -4903,7 +4903,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "phrase",
-    "readings": "クku\n"
+    "readings": "クku"
   },
   {
     "id": "447",
@@ -4914,7 +4914,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "suffer",
-    "readings": "ク、くる-しい、くる-しむ、くる-しめる、にが-い、にが-るku, kuru-shii, kuru-shimu, kuru-shimeru, niga-i, niga-ru\n"
+    "readings": "ク, くる-しい, くる-しむ, くる-しめる, にが-い, にが-るku, kuru-shii, kuru-shimu, kuru-shimeru, niga-i, niga-ru"
   },
   {
     "id": "448",
@@ -4925,7 +4925,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "drive",
-    "readings": "ク、か-ける、か-るku, ka-keru, ka-ru\n"
+    "readings": "ク, か-ける, か-るku, ka-keru, ka-ru"
   },
   {
     "id": "449",
@@ -4936,7 +4936,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "tool",
-    "readings": "グgu\n"
+    "readings": "グgu"
   },
   {
     "id": "450",
@@ -4947,7 +4947,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "dread",
-    "readings": "グgu\n"
+    "readings": "グgu"
   },
   {
     "id": "451",
@@ -4958,7 +4958,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "foolish",
-    "readings": "グ、おろ-かgu, oro-ka\n"
+    "readings": "グ, おろ-かgu, oro-ka"
   },
   {
     "id": "452",
@@ -4969,7 +4969,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "sky",
-    "readings": "クウ、そら、あ-く、あ-ける、からkū, sora, a-ku, a-keru, kara\n"
+    "readings": "クウ, そら, あ-く, あ-ける, からkū, sora, a-ku, a-keru, kara"
   },
   {
     "id": "453",
@@ -4980,7 +4980,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "accidentally",
-    "readings": "グウgū\n"
+    "readings": "グウgū"
   },
   {
     "id": "454",
@@ -4991,7 +4991,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "interview",
-    "readings": "グウgū\n"
+    "readings": "グウgū"
   },
   {
     "id": "455",
@@ -5002,7 +5002,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "corner",
-    "readings": "グウ、すみgū, sumi\n"
+    "readings": "グウ, すみgū, sumi"
   },
   {
     "id": "456",
@@ -5013,7 +5013,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "skewer",
-    "readings": "くしkushi\n"
+    "readings": "くしkushi"
   },
   {
     "id": "457",
@@ -5024,7 +5024,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "yield",
-    "readings": "クツkutsu\n"
+    "readings": "クツkutsu"
   },
   {
     "id": "458",
@@ -5035,7 +5035,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dig",
-    "readings": "クツ、ほ-るkutsu, ho-ru\n"
+    "readings": "クツ, ほ-るkutsu, ho-ru"
   },
   {
     "id": "459",
@@ -5046,7 +5046,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "cavern",
-    "readings": "クツkutsu\n"
+    "readings": "クツkutsu"
   },
   {
     "id": "460",
@@ -5057,7 +5057,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "bear",
-    "readings": "くまkuma\n"
+    "readings": "くまkuma"
   },
   {
     "id": "461",
@@ -5068,7 +5068,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "winding",
-    "readings": "く-るku-ru\n"
+    "readings": "く-るku-ru"
   },
   {
     "id": "462",
@@ -5079,7 +5079,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "you",
-    "readings": "クン、きみkun, kimi\n"
+    "readings": "クン, きみkun, kimi"
   },
   {
     "id": "463",
@@ -5090,7 +5090,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "instruction",
-    "readings": "クンkun\n"
+    "readings": "クンkun"
   },
   {
     "id": "464",
@@ -5101,7 +5101,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "meritorious deed",
-    "readings": "クンkun\n"
+    "readings": "クンkun"
   },
   {
     "id": "465",
@@ -5112,7 +5112,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fragrant",
-    "readings": "クン、かお-るkun, kao-ru\n"
+    "readings": "クン, かお-るkun, kao-ru"
   },
   {
     "id": "466",
@@ -5123,7 +5123,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "army",
-    "readings": "グンgun\n"
+    "readings": "グンgun"
   },
   {
     "id": "467",
@@ -5134,7 +5134,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "county",
-    "readings": "グンgun\n"
+    "readings": "グンgun"
   },
   {
     "id": "468",
@@ -5145,7 +5145,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "flock",
-    "readings": "グン、む-れる、む-れ、（むら）gun, mu-reru, mu-re, (mura)\n"
+    "readings": "グン, む-れる, む-れ, （むら）gun, mu-reru, mu-re, (mura)"
   },
   {
     "id": "469",
@@ -5156,7 +5156,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "older brother",
-    "readings": "ケイ、（キョウ）、あにkei, (kyō), ani\n"
+    "readings": "ケイ, （キョウ）, あにkei, (kyō), ani"
   },
   {
     "id": "470",
@@ -5167,7 +5167,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "punish",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "471",
@@ -5178,7 +5178,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "shape",
-    "readings": "ケイ、ギョウ、かた、かたちkei, gyō, kata, katachi\n"
+    "readings": "ケイ, ギョウ, かた, かたちkei, gyō, kata, katachi"
   },
   {
     "id": "472",
@@ -5189,7 +5189,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "lineage",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "473",
@@ -5200,7 +5200,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "diameter",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "474",
@@ -5211,7 +5211,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "stalk",
-    "readings": "ケイ、くきkei, kuki\n"
+    "readings": "ケイ, くきkei, kuki"
   },
   {
     "id": "475",
@@ -5222,7 +5222,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "person in charge",
-    "readings": "ケイ、かか-る、かかりkei, kaka-ru, kakari\n"
+    "readings": "ケイ, かか-る, かかりkei, kaka-ru, kakari"
   },
   {
     "id": "476",
@@ -5233,7 +5233,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "model",
-    "readings": "ケイ、かたkei, kata\n"
+    "readings": "ケイ, かたkei, kata"
   },
   {
     "id": "477",
@@ -5244,7 +5244,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pledge",
-    "readings": "ケイ、ちぎ-るkei, chigi-ru\n"
+    "readings": "ケイ, ちぎ-るkei, chigi-ru"
   },
   {
     "id": "478",
@@ -5255,7 +5255,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "measure",
-    "readings": "ケイ、はか-る、はか-らうkei, haka-ru, haka-rau\n"
+    "readings": "ケイ, はか-る, はか-らうkei, haka-ru, haka-rau"
   },
   {
     "id": "479",
@@ -5266,7 +5266,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "favor",
-    "readings": "ケイ、エ、めぐ-むkei, e, megu-mu\n"
+    "readings": "ケイ, エ, めぐ-むkei, e, megu-mu"
   },
   {
     "id": "480",
@@ -5277,7 +5277,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "disclose",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "481",
@@ -5288,7 +5288,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "put up (a notice)",
-    "readings": "ケイ、かか-げるkei, kaka-geru\n"
+    "readings": "ケイ, かか-げるkei, kaka-geru"
   },
   {
     "id": "482",
@@ -5299,7 +5299,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "mountain stream",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "483",
@@ -5310,7 +5310,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "manage",
-    "readings": "ケイ、キョウ、へ-るkei, kyō, he-ru\n"
+    "readings": "ケイ, キョウ, へ-るkei, kyō, he-ru"
   },
   {
     "id": "484",
@@ -5321,7 +5321,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "lightning-bug",
-    "readings": "ケイ、ほたるkei, hotaru\n"
+    "readings": "ケイ, ほたるkei, hotaru"
   },
   {
     "id": "485",
@@ -5332,7 +5332,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "respect",
-    "readings": "ケイ、うやま-うkei, uyama-u\n"
+    "readings": "ケイ, うやま-うkei, uyama-u"
   },
   {
     "id": "486",
@@ -5343,7 +5343,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "scenery",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "487",
@@ -5354,7 +5354,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "light",
-    "readings": "ケイ、かる-い、かろ-やかkei, karu-i, karo-yaka\n"
+    "readings": "ケイ, かる-い, かろ-やかkei, karu-i, karo-yaka"
   },
   {
     "id": "488",
@@ -5365,7 +5365,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lean",
-    "readings": "ケイ、かたむ-く、かたむ-けるkei, katamu-ku, katamu-keru\n"
+    "readings": "ケイ, かたむ-く, かたむ-けるkei, katamu-ku, katamu-keru"
   },
   {
     "id": "489",
@@ -5376,7 +5376,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "portable",
-    "readings": "ケイ、たずさ-える、たずさ-わるkei, tazusa-eru, tazusa-waru\n"
+    "readings": "ケイ, たずさ-える, たずさ-わるkei, tazusa-eru, tazusa-waru"
   },
   {
     "id": "490",
@@ -5387,7 +5387,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "inherit",
-    "readings": "ケイ、つ-ぐkei, tsu-gu\n"
+    "readings": "ケイ, つ-ぐkei, tsu-gu"
   },
   {
     "id": "491",
@@ -5398,7 +5398,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "visit a temple",
-    "readings": "ケイ、もう-でるkei, mō-deru\n"
+    "readings": "ケイ, もう-でるkei, mō-deru"
   },
   {
     "id": "492",
@@ -5409,7 +5409,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "jubilation",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "493",
@@ -5420,7 +5420,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "long for",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "494",
@@ -5431,7 +5431,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "consider",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "495",
@@ -5442,7 +5442,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "recess",
-    "readings": "ケイ、いこ-い、いこ-うkei, iko-i, iko-u\n"
+    "readings": "ケイ, いこ-い, いこ-うkei, iko-i, iko-u"
   },
   {
     "id": "496",
@@ -5453,7 +5453,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "guard against",
-    "readings": "ケイkei\n"
+    "readings": "ケイkei"
   },
   {
     "id": "497",
@@ -5464,7 +5464,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "chicken",
-    "readings": "ケイ、にわとりkei, niwatori\n"
+    "readings": "ケイ, にわとりkei, niwatori"
   },
   {
     "id": "498",
@@ -5475,7 +5475,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "art",
-    "readings": "ゲイgei\n"
+    "readings": "ゲイgei"
   },
   {
     "id": "499",
@@ -5486,7 +5486,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "welcome",
-    "readings": "ゲイ、むか-えるgei, muka-eru\n"
+    "readings": "ゲイ, むか-えるgei, muka-eru"
   },
   {
     "id": "500",
@@ -5497,7 +5497,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "whale",
-    "readings": "ゲイ、くじらgei, kujira\n"
+    "readings": "ゲイ, くじらgei, kujira"
   },
   {
     "id": "501",
@@ -5508,7 +5508,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "fissure",
-    "readings": "ゲキ、すきgeki, suki\n"
+    "readings": "ゲキ, すきgeki, suki"
   },
   {
     "id": "502",
@@ -5519,7 +5519,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "drama",
-    "readings": "ゲキgeki\n"
+    "readings": "ゲキgeki"
   },
   {
     "id": "503",
@@ -5530,7 +5530,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "beat",
-    "readings": "ゲキ、う-つgeki, u-tsu\n"
+    "readings": "ゲキ, う-つgeki, u-tsu"
   },
   {
     "id": "504",
@@ -5541,7 +5541,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "violent",
-    "readings": "ゲキ、はげ-しいgeki, hage-shii\n"
+    "readings": "ゲキ, はげ-しいgeki, hage-shii"
   },
   {
     "id": "505",
@@ -5552,7 +5552,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "beam",
-    "readings": "けたketa\n"
+    "readings": "けたketa"
   },
   {
     "id": "506",
@@ -5563,7 +5563,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "lack",
-    "readings": "ケツ、か-ける、か-くketsu, ka-keru, ka-ku\n"
+    "readings": "ケツ, か-ける, か-くketsu, ka-keru, ka-ku"
   },
   {
     "id": "507",
@@ -5574,7 +5574,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "hole",
-    "readings": "ケツ、あなketsu, ana\n"
+    "readings": "ケツ, あなketsu, ana"
   },
   {
     "id": "508",
@@ -5585,7 +5585,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "blood",
-    "readings": "ケツ、ちketsu, chi\n"
+    "readings": "ケツ, ちketsu, chi"
   },
   {
     "id": "509",
@@ -5596,7 +5596,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "decide",
-    "readings": "ケツ、き-める、き-まるketsu, ki-meru, ki-maru\n"
+    "readings": "ケツ, き-める, き-まるketsu, ki-meru, ki-maru"
   },
   {
     "id": "510",
@@ -5607,7 +5607,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "tie",
-    "readings": "ケツ、むす-ぶ、ゆ-う、ゆ-わえるketsu, musu-bu, yu-u, yu-waeru\n"
+    "readings": "ケツ, むす-ぶ, ゆ-う, ゆ-わえるketsu, musu-bu, yu-u, yu-waeru"
   },
   {
     "id": "511",
@@ -5618,7 +5618,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "greatness",
-    "readings": "ケツketsu\n"
+    "readings": "ケツketsu"
   },
   {
     "id": "512",
@@ -5629,7 +5629,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "undefiled",
-    "readings": "ケツ、いさぎよ-いketsu, isagiyo-i\n"
+    "readings": "ケツ, いさぎよ-いketsu, isagiyo-i"
   },
   {
     "id": "513",
@@ -5640,7 +5640,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "month, moon",
-    "readings": "ゲツ、ガツ、つきgetsu, gatsu, tsuki\n"
+    "readings": "ゲツ, ガツ, つきgetsu, gatsu, tsuki"
   },
   {
     "id": "514",
@@ -5651,7 +5651,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "dog",
-    "readings": "ケン、いぬken, inu\n"
+    "readings": "ケン, いぬken, inu"
   },
   {
     "id": "515",
@@ -5662,7 +5662,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "affair",
-    "readings": "ケンken\n"
+    "readings": "ケンken"
   },
   {
     "id": "516",
@@ -5673,7 +5673,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "see",
-    "readings": "ケン、み-る、み-える、み-せるken, mi-ru, mi-eru, mi-seru\n"
+    "readings": "ケン, み-る, み-える, み-せるken, mi-ru, mi-eru, mi-seru"
   },
   {
     "id": "517",
@@ -5684,7 +5684,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "ticket",
-    "readings": "ケンken\n"
+    "readings": "ケンken"
   },
   {
     "id": "518",
@@ -5695,7 +5695,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "shoulder",
-    "readings": "ケン、かたken, kata\n"
+    "readings": "ケン, かたken, kata"
   },
   {
     "id": "519",
@@ -5706,7 +5706,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "build",
-    "readings": "ケン、（コン）、た-てる、た-つken, (kon), ta-teru, ta-tsu\n"
+    "readings": "ケン, （コン）, た-てる, た-つken, (kon), ta-teru, ta-tsu"
   },
   {
     "id": "520",
@@ -5717,7 +5717,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "sharpen",
-    "readings": "ケン、と-ぐken, to-gu\n"
+    "readings": "ケン, と-ぐken, to-gu"
   },
   {
     "id": "521",
@@ -5728,7 +5728,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "prefecture",
-    "readings": "ケンken\n"
+    "readings": "ケンken"
   },
   {
     "id": "522",
@@ -5739,7 +5739,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "frugal",
-    "readings": "ケンken\n"
+    "readings": "ケンken"
   },
   {
     "id": "523",
@@ -5750,7 +5750,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "concurrently",
-    "readings": "ケン、か-ねるken, ka-neru\n"
+    "readings": "ケン, か-ねるken, ka-neru"
   },
   {
     "id": "524",
@@ -5761,7 +5761,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sabre",
-    "readings": "ケン、つるぎken, tsurugi\n"
+    "readings": "ケン, つるぎken, tsurugi"
   },
   {
     "id": "525",
@@ -5772,7 +5772,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "fist",
-    "readings": "ケン、こぶしken, kobushi\n"
+    "readings": "ケン, こぶしken, kobushi"
   },
   {
     "id": "526",
@@ -5783,7 +5783,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "flats",
-    "readings": "ケン、のきken, noki\n"
+    "readings": "ケン, のきken, noki"
   },
   {
     "id": "527",
@@ -5794,7 +5794,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "healthy",
-    "readings": "ケン、すこ-やかken, suko-yaka\n"
+    "readings": "ケン, すこ-やかken, suko-yaka"
   },
   {
     "id": "528",
@@ -5805,7 +5805,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "precipitous",
-    "readings": "ケン、けわ-しいken, kewa-shii\n"
+    "readings": "ケン, けわ-しいken, kewa-shii"
   },
   {
     "id": "529",
@@ -5816,7 +5816,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sphere",
-    "readings": "ケンken\n"
+    "readings": "ケンken"
   },
   {
     "id": "530",
@@ -5827,7 +5827,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "strict",
-    "readings": "ケン、かた-いken, kata-i\n"
+    "readings": "ケン, かた-いken, kata-i"
   },
   {
     "id": "531",
@@ -5838,7 +5838,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "examine",
-    "readings": "ケンken\n"
+    "readings": "ケンken"
   },
   {
     "id": "532",
@@ -5849,7 +5849,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "dislike",
-    "readings": "ケン、（ゲン）、きら-う、いやken, (gen), kira-u, iya\n"
+    "readings": "ケン, （ゲン）, きら-う, いやken, (gen), kira-u, iya"
   },
   {
     "id": "533",
@@ -5860,7 +5860,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "offering",
-    "readings": "ケン、（コン）ken, (kon)\n"
+    "readings": "ケン, （コン）ken, (kon)"
   },
   {
     "id": "534",
@@ -5871,7 +5871,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "silk",
-    "readings": "ケン、きぬken, kinu\n"
+    "readings": "ケン, きぬken, kinu"
   },
   {
     "id": "535",
@@ -5882,7 +5882,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dispatch",
-    "readings": "ケン、つか-う、つか-わすken, tsuka-u, tsuka-wasu\n"
+    "readings": "ケン, つか-う, つか-わすken, tsuka-u, tsuka-wasu"
   },
   {
     "id": "536",
@@ -5893,7 +5893,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "rights",
-    "readings": "ケン、（ゴン）ken, (gon)\n"
+    "readings": "ケン, （ゴン）ken, (gon)"
   },
   {
     "id": "537",
@@ -5904,7 +5904,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "constitution",
-    "readings": "ケンken\n"
+    "readings": "ケンken"
   },
   {
     "id": "538",
@@ -5915,7 +5915,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "intelligent",
-    "readings": "ケン、かしこ-いken, kashiko-i\n"
+    "readings": "ケン, かしこ-いken, kashiko-i"
   },
   {
     "id": "539",
@@ -5926,7 +5926,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "self-effacing",
-    "readings": "ケンken\n"
+    "readings": "ケンken"
   },
   {
     "id": "540",
@@ -5937,7 +5937,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "key",
-    "readings": "ケン、かぎken, kagi\n"
+    "readings": "ケン, かぎken, kagi"
   },
   {
     "id": "541",
@@ -5948,7 +5948,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cocoon",
-    "readings": "ケン、まゆken, mayu\n"
+    "readings": "ケン, まゆken, mayu"
   },
   {
     "id": "542",
@@ -5959,7 +5959,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "appear",
-    "readings": "ケンken\n"
+    "readings": "ケンken"
   },
   {
     "id": "543",
@@ -5970,7 +5970,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "test",
-    "readings": "ケン、（ゲン）ken, (gen)\n"
+    "readings": "ケン, （ゲン）ken, (gen)"
   },
   {
     "id": "544",
@@ -5981,7 +5981,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "suspend",
-    "readings": "ケン、（ケ）、か-ける、か-かるken, (ke), ka-keru, ka-karu\n"
+    "readings": "ケン, （ケ）, か-ける, か-かるken, (ke), ka-keru, ka-karu"
   },
   {
     "id": "545",
@@ -5992,7 +5992,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "origin",
-    "readings": "ゲン、ガン、もとgen, gan, moto\n"
+    "readings": "ゲン, ガン, もとgen, gan, moto"
   },
   {
     "id": "546",
@@ -6003,7 +6003,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "phantasm",
-    "readings": "ゲン、まぼろしgen, maboroshi\n"
+    "readings": "ゲン, まぼろしgen, maboroshi"
   },
   {
     "id": "547",
@@ -6014,7 +6014,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mysterious",
-    "readings": "ゲンgen\n"
+    "readings": "ゲンgen"
   },
   {
     "id": "548",
@@ -6025,7 +6025,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "say",
-    "readings": "ゲン、ゴン、い-う、ことgen, gon, i-u, koto\n"
+    "readings": "ゲン, ゴン, い-う, ことgen, gon, i-u, koto"
   },
   {
     "id": "549",
@@ -6036,7 +6036,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bowstring",
-    "readings": "ゲン、つるgen, tsuru\n"
+    "readings": "ゲン, つるgen, tsuru"
   },
   {
     "id": "550",
@@ -6047,7 +6047,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "limit",
-    "readings": "ゲン、かぎ-るgen, kagi-ru\n"
+    "readings": "ゲン, かぎ-るgen, kagi-ru"
   },
   {
     "id": "551",
@@ -6058,7 +6058,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "field",
-    "readings": "ゲン、はらgen, hara\n"
+    "readings": "ゲン, はらgen, hara"
   },
   {
     "id": "552",
@@ -6069,7 +6069,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "appear",
-    "readings": "ゲン、あらわ-れる、あらわ-すgen, arawa-reru, arawa-su\n"
+    "readings": "ゲン, あらわ-れる, あらわ-すgen, arawa-reru, arawa-su"
   },
   {
     "id": "553",
@@ -6080,7 +6080,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "gunwale",
-    "readings": "ゲンgen\n"
+    "readings": "ゲンgen"
   },
   {
     "id": "554",
@@ -6091,7 +6091,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "decrease",
-    "readings": "ゲン、へ-る、へ-らすgen, he-ru, he-rasu\n"
+    "readings": "ゲン, へ-る, へ-らすgen, he-ru, he-rasu"
   },
   {
     "id": "555",
@@ -6102,7 +6102,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "origin",
-    "readings": "ゲン、みなもとgen, minamoto\n"
+    "readings": "ゲン, みなもとgen, minamoto"
   },
   {
     "id": "556",
@@ -6113,7 +6113,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "strict",
-    "readings": "ゲン、（ゴン）、おごそ-か、きび-しいgen, (gon), ogoso-ka, kibi-shii\n"
+    "readings": "ゲン, （ゴン）, おごそ-か, きび-しいgen, (gon), ogoso-ka, kibi-shii"
   },
   {
     "id": "557",
@@ -6124,7 +6124,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "self",
-    "readings": "コ、キ、おのれko, ki, onore\n"
+    "readings": "コ, キ, おのれko, ki, onore"
   },
   {
     "id": "558",
@@ -6135,7 +6135,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "door",
-    "readings": "コ、とko, to\n"
+    "readings": "コ, とko, to"
   },
   {
     "id": "559",
@@ -6146,7 +6146,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "old",
-    "readings": "コ、ふる-い、ふる-すko, furu-i, furu-su\n"
+    "readings": "コ, ふる-い, ふる-すko, furu-i, furu-su"
   },
   {
     "id": "560",
@@ -6157,7 +6157,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "call",
-    "readings": "コ、よ-ぶko, yo-bu\n"
+    "readings": "コ, よ-ぶko, yo-bu"
   },
   {
     "id": "561",
@@ -6168,7 +6168,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "hard",
-    "readings": "コ、かた-める、かた-まる、かた-いko, kata-meru, kata-maru, kata-i\n"
+    "readings": "コ, かた-める, かた-まる, かた-いko, kata-meru, kata-maru, kata-i"
   },
   {
     "id": "562",
@@ -6179,7 +6179,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "crotch",
-    "readings": "コ、またko, mata\n"
+    "readings": "コ, またko, mata"
   },
   {
     "id": "563",
@@ -6190,7 +6190,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "tiger",
-    "readings": "コ、とらko, tora\n"
+    "readings": "コ, とらko, tora"
   },
   {
     "id": "564",
@@ -6201,7 +6201,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "orphan",
-    "readings": "コko\n"
+    "readings": "コko"
   },
   {
     "id": "565",
@@ -6212,7 +6212,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "arc",
-    "readings": "コko\n"
+    "readings": "コko"
   },
   {
     "id": "566",
@@ -6223,7 +6223,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "circumstances",
-    "readings": "コ、ゆえko, yue\n"
+    "readings": "コ, ゆえko, yue"
   },
   {
     "id": "567",
@@ -6234,7 +6234,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wither",
-    "readings": "コ、か-れる、か-らすko, ka-reru, ka-rasu\n"
+    "readings": "コ, か-れる, か-らすko, ka-reru, ka-rasu"
   },
   {
     "id": "568",
@@ -6245,7 +6245,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "individual",
-    "readings": "コko\n"
+    "readings": "コko"
   },
   {
     "id": "569",
@@ -6256,7 +6256,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "warehouse",
-    "readings": "コ、（ク）ko, (ku)\n"
+    "readings": "コ, （ク）ko, (ku)"
   },
   {
     "id": "570",
@@ -6267,7 +6267,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "lake",
-    "readings": "コ、みずうみko, mizūmi\n"
+    "readings": "コ, みずうみko, mizūmi"
   },
   {
     "id": "571",
@@ -6278,7 +6278,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "employ",
-    "readings": "コ、やと-うko, yato-u\n"
+    "readings": "コ, やと-うko, yato-u"
   },
   {
     "id": "572",
@@ -6289,7 +6289,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "boast",
-    "readings": "コ、ほこ-るko, hoko-ru\n"
+    "readings": "コ, ほこ-るko, hoko-ru"
   },
   {
     "id": "573",
@@ -6300,7 +6300,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "drum",
-    "readings": "コ、つづみko, tsuzumi\n"
+    "readings": "コ, つづみko, tsuzumi"
   },
   {
     "id": "574",
@@ -6311,7 +6311,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "tie up",
-    "readings": "コko\n"
+    "readings": "コko"
   },
   {
     "id": "575",
@@ -6322,7 +6322,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "look back",
-    "readings": "コ、かえり-みるko, kaeri-miru\n"
+    "readings": "コ, かえり-みるko, kaeri-miru"
   },
   {
     "id": "576",
@@ -6333,7 +6333,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "five",
-    "readings": "ゴ、いつ、いつ-つgo, itsu, itsu-tsu\n"
+    "readings": "ゴ, いつ, いつ-つgo, itsu, itsu-tsu"
   },
   {
     "id": "577",
@@ -6344,7 +6344,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mutually",
-    "readings": "ゴ、たが-いgo, taga-i\n"
+    "readings": "ゴ, たが-いgo, taga-i"
   },
   {
     "id": "578",
@@ -6355,7 +6355,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "noon",
-    "readings": "ゴgo\n"
+    "readings": "ゴgo"
   },
   {
     "id": "579",
@@ -6366,7 +6366,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "give",
-    "readings": "ゴgo\n"
+    "readings": "ゴgo"
   },
   {
     "id": "580",
@@ -6377,7 +6377,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "behind",
-    "readings": "ゴ、コウ、のち、うし-ろ、あと、おく-れるgo, kō, nochi, ushi-ro, ato, oku-reru\n"
+    "readings": "ゴ, コウ, のち, うし-ろ, あと, おく-れるgo, kō, nochi, ushi-ro, ato, oku-reru"
   },
   {
     "id": "581",
@@ -6388,7 +6388,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "recreation",
-    "readings": "ゴgo\n"
+    "readings": "ゴgo"
   },
   {
     "id": "582",
@@ -6399,7 +6399,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "enlightenment",
-    "readings": "ゴ、さと-るgo, sato-ru\n"
+    "readings": "ゴ, さと-るgo, sato-ru"
   },
   {
     "id": "583",
@@ -6410,7 +6410,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "Go",
-    "readings": "ゴgo\n"
+    "readings": "ゴgo"
   },
   {
     "id": "584",
@@ -6421,7 +6421,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "language",
-    "readings": "ゴ、かた-る、かた-らうgo, kata-ru, kata-rau\n"
+    "readings": "ゴ, かた-る, かた-らうgo, kata-ru, kata-rau"
   },
   {
     "id": "585",
@@ -6432,7 +6432,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "mistake",
-    "readings": "ゴ、あやま-るgo, ayama-ru\n"
+    "readings": "ゴ, あやま-るgo, ayama-ru"
   },
   {
     "id": "586",
@@ -6443,7 +6443,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "safeguard",
-    "readings": "ゴgo\n"
+    "readings": "ゴgo"
   },
   {
     "id": "587",
@@ -6454,7 +6454,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "mouth",
-    "readings": "コウ、ク、くちkō, ku, kuchi\n"
+    "readings": "コウ, ク, くちkō, ku, kuchi"
   },
   {
     "id": "588",
@@ -6465,7 +6465,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "craft",
-    "readings": "コウ、クkō, ku\n"
+    "readings": "コウ, クkō, ku"
   },
   {
     "id": "589",
@@ -6476,7 +6476,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "public",
-    "readings": "コウ、おおやけkō, ooyake\n"
+    "readings": "コウ, おおやけkō, ooyake"
   },
   {
     "id": "590",
@@ -6487,7 +6487,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "capture",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "591",
@@ -6498,7 +6498,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cavity",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "592",
@@ -6509,7 +6509,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "achievement",
-    "readings": "コウ、（ク）kō, (ku)\n"
+    "readings": "コウ, （ク）kō, (ku)"
   },
   {
     "id": "593",
@@ -6520,7 +6520,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "adroit",
-    "readings": "コウ、たく-みkō, taku-mi\n"
+    "readings": "コウ, たく-みkō, taku-mi"
   },
   {
     "id": "594",
@@ -6531,7 +6531,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "wide",
-    "readings": "コウ、ひろ-い、ひろ-まる、ひろ-める、ひろ-がる、ひろ-げるkō, hiro-i, hiro-maru, hiro-meru, hiro-garu, hiro-geru\n"
+    "readings": "コウ, ひろ-い, ひろ-まる, ひろ-める, ひろ-がる, ひろ-げるkō, hiro-i, hiro-maru, hiro-meru, hiro-garu, hiro-geru"
   },
   {
     "id": "595",
@@ -6542,7 +6542,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "armor",
-    "readings": "コウ、カンkō, kan\n"
+    "readings": "コウ, カンkō, kan"
   },
   {
     "id": "596",
@@ -6553,7 +6553,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "mix",
-    "readings": "コウ、まじ-わる、まじ-える、ま-じる、ま-ざる、ま-ぜる、か-う、か-わすkō, maji-waru, maji-eru, ma-jiru, ma-zaru, ma-zeru, ka-u, ka-wasu\n"
+    "readings": "コウ, まじ-わる, まじ-える, ま-じる, ま-ざる, ま-ぜる, か-う, か-わすkō, maji-waru, maji-eru, ma-jiru, ma-zaru, ma-zeru, ka-u, ka-wasu"
   },
   {
     "id": "597",
@@ -6564,7 +6564,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "ray",
-    "readings": "コウ、ひか-る、ひかりkō, hika-ru, hikari\n"
+    "readings": "コウ, ひか-る, ひかりkō, hika-ru, hikari"
   },
   {
     "id": "598",
@@ -6575,7 +6575,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "over there",
-    "readings": "コウ、む-く、む-ける、む-かう、む-こうkō, mu-ku, mu-keru, mu-kau, mu-kō\n"
+    "readings": "コウ, む-く, む-ける, む-かう, む-こうkō, mu-ku, mu-keru, mu-kau, mu-kō"
   },
   {
     "id": "599",
@@ -6586,7 +6586,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "empress",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "600",
@@ -6597,7 +6597,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "like",
-    "readings": "コウ、この-む、す-くkō, kono-mu, su-ku\n"
+    "readings": "コウ, この-む, す-くkō, kono-mu, su-ku"
   },
   {
     "id": "601",
@@ -6608,7 +6608,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "inlet",
-    "readings": "コウ、えkō, e\n"
+    "readings": "コウ, えkō, e"
   },
   {
     "id": "602",
@@ -6619,7 +6619,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "think",
-    "readings": "コウ、かんが-えるkō, kanga-eru\n"
+    "readings": "コウ, かんが-えるkō, kanga-eru"
   },
   {
     "id": "603",
@@ -6630,7 +6630,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "go",
-    "readings": "コウ、ギョウ、（アン）、い-く、ゆ-く、おこな-うkō, gyō, (an), i-ku, yu-ku, okona-u\n"
+    "readings": "コウ, ギョウ, （アン）, い-く, ゆ-く, おこな-うkō, gyō, (an), i-ku, yu-ku, okona-u"
   },
   {
     "id": "604",
@@ -6641,7 +6641,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pit",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "605",
@@ -6652,7 +6652,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "filial piety",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "606",
@@ -6663,7 +6663,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "confront",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "607",
@@ -6674,7 +6674,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "aggression",
-    "readings": "コウ、せ-めるkō, se-meru\n"
+    "readings": "コウ, せ-めるkō, se-meru"
   },
   {
     "id": "608",
@@ -6685,7 +6685,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "grow late",
-    "readings": "コウ、さら、ふ-ける、ふ-かすkō, sara, fu-keru, fu-kasu\n"
+    "readings": "コウ, さら, ふ-ける, ふ-かすkō, sara, fu-keru, fu-kasu"
   },
   {
     "id": "609",
@@ -6696,7 +6696,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "effect",
-    "readings": "コウ、き-くkō, ki-ku\n"
+    "readings": "コウ, き-くkō, ki-ku"
   },
   {
     "id": "610",
@@ -6707,7 +6707,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "happiness",
-    "readings": "コウ、さいわ-い、さち、しあわ-せkō, saiwa-i, sachi, shiawa-se\n"
+    "readings": "コウ, さいわ-い, さち, しあわ-せkō, saiwa-i, sachi, shiawa-se"
   },
   {
     "id": "611",
@@ -6718,7 +6718,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "arrest",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "612",
@@ -6729,7 +6729,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "agreement",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "613",
@@ -6740,7 +6740,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "marquis",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "614",
@@ -6751,7 +6751,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "thick",
-    "readings": "コウ、あつ-いkō, atsu-i\n"
+    "readings": "コウ, あつ-いkō, atsu-i"
   },
   {
     "id": "615",
@@ -6762,7 +6762,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "constancy",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "616",
@@ -6773,7 +6773,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "deluge",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "617",
@@ -6784,7 +6784,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "emperor",
-    "readings": "コウ、オウkō, ō\n"
+    "readings": "コウ, オウkō, ō"
   },
   {
     "id": "618",
@@ -6795,7 +6795,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "deep red",
-    "readings": "コウ、（ク）、べに、くれないkō, (ku), beni, kurenai\n"
+    "readings": "コウ, （ク）, べに, くれないkō, (ku), beni, kurenai"
   },
   {
     "id": "619",
@@ -6806,7 +6806,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "laid waste",
-    "readings": "コウ、あら-い、あ-れる、あ-らすkō, ara-i, a-reru, a-rasu\n"
+    "readings": "コウ, あら-い, あ-れる, あ-らすkō, ara-i, a-reru, a-rasu"
   },
   {
     "id": "620",
@@ -6817,7 +6817,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "outskirts",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "621",
@@ -6828,7 +6828,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "incense",
-    "readings": "コウ、（キョウ）、か、かお-り、かお-るkō, (kyō), ka, kao-ri, kao-ru\n"
+    "readings": "コウ, （キョウ）, か, かお-り, かお-るkō, (kyō), ka, kao-ri, kao-ru"
   },
   {
     "id": "622",
@@ -6839,7 +6839,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "climate",
-    "readings": "コウ、そうろうkō, sōrō\n"
+    "readings": "コウ, そうろうkō, sōrō"
   },
   {
     "id": "623",
@@ -6850,7 +6850,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "school",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "624",
@@ -6861,7 +6861,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "till",
-    "readings": "コウ、たがや-すkō, tagaya-su\n"
+    "readings": "コウ, たがや-すkō, tagaya-su"
   },
   {
     "id": "625",
@@ -6872,7 +6872,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "cruise",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "626",
@@ -6883,7 +6883,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tribute",
-    "readings": "コウ、（ク）、みつ-ぐkō, (ku), mitsu-gu\n"
+    "readings": "コウ, （ク）, みつ-ぐkō, (ku), mitsu-gu"
   },
   {
     "id": "627",
@@ -6894,7 +6894,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "descend",
-    "readings": "コウ、お-りる、お-ろす、ふ-るkō, o-riru, o-rosu, fu-ru\n"
+    "readings": "コウ, お-りる, お-ろす, ふ-るkō, o-riru, o-rosu, fu-ru"
   },
   {
     "id": "628",
@@ -6905,7 +6905,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "tall, expensive",
-    "readings": "コウ、たか-い、たか、たか-まる、たか-めるkō, taka-i, taka, taka-maru, taka-meru\n"
+    "readings": "コウ, たか-い, たか, たか-まる, たか-めるkō, taka-i, taka, taka-maru, taka-meru"
   },
   {
     "id": "629",
@@ -6916,7 +6916,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "health",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "630",
@@ -6927,7 +6927,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "withdraw",
-    "readings": "コウ、ひか-えるkō, hika-eru\n"
+    "readings": "コウ, ひか-えるkō, hika-eru"
   },
   {
     "id": "631",
@@ -6938,7 +6938,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "close up",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "632",
@@ -6949,7 +6949,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "yellow",
-    "readings": "コウ、オウ、き、（こ）kō, ō, ki, (ko)\n"
+    "readings": "コウ, オウ, き, （こ）kō, ō, ki, (ko)"
   },
   {
     "id": "633",
@@ -6960,7 +6960,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "throat",
-    "readings": "コウ、のどkō, nodo\n"
+    "readings": "コウ, のどkō, nodo"
   },
   {
     "id": "634",
@@ -6971,7 +6971,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "disconcerted",
-    "readings": "コウ、あわ-てる、あわ-ただしいkō, awa-teru, awa-tadashii\n"
+    "readings": "コウ, あわ-てる, あわ-ただしいkō, awa-teru, awa-tadashii"
   },
   {
     "id": "635",
@@ -6982,7 +6982,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "harbor",
-    "readings": "コウ、みなとkō, minato\n"
+    "readings": "コウ, みなとkō, minato"
   },
   {
     "id": "636",
@@ -6993,7 +6993,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "stiff",
-    "readings": "コウ、かた-いkō, kata-i\n"
+    "readings": "コウ, かた-いkō, kata-i"
   },
   {
     "id": "637",
@@ -7004,7 +7004,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "strangle",
-    "readings": "コウ、しぼ-る、し-める、し-まるkō, shibo-ru, shi-meru, shi-maru\n"
+    "readings": "コウ, しぼ-る, し-める, し-まるkō, shibo-ru, shi-meru, shi-maru"
   },
   {
     "id": "638",
@@ -7015,7 +7015,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "paragraph",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "639",
@@ -7026,7 +7026,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "gutter",
-    "readings": "コウ、みぞkō, mizo\n"
+    "readings": "コウ, みぞkō, mizo"
   },
   {
     "id": "640",
@@ -7037,7 +7037,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "mineral",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "641",
@@ -7048,7 +7048,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "construct",
-    "readings": "コウ、かま-える、かま-うkō, kama-eru, kama-u\n"
+    "readings": "コウ, かま-える, かま-うkō, kama-eru, kama-u"
   },
   {
     "id": "642",
@@ -7059,7 +7059,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hawser",
-    "readings": "コウ、つなkō, tsuna\n"
+    "readings": "コウ, つなkō, tsuna"
   },
   {
     "id": "643",
@@ -7070,7 +7070,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fermentation",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "644",
@@ -7081,7 +7081,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "draft",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "645",
@@ -7092,7 +7092,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "entertain",
-    "readings": "コウ、キョウ、おこ-る、おこ-すkō, kyō, oko-ru, oko-su\n"
+    "readings": "コウ, キョウ, おこ-る, おこ-すkō, kyō, oko-ru, oko-su"
   },
   {
     "id": "646",
@@ -7103,7 +7103,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "equilibrium",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "647",
@@ -7114,7 +7114,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "steel",
-    "readings": "コウ、はがねkō, hagane\n"
+    "readings": "コウ, はがねkō, hagane"
   },
   {
     "id": "648",
@@ -7125,7 +7125,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "lecture",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "649",
@@ -7136,7 +7136,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "subscription",
-    "readings": "コウkō\n"
+    "readings": "コウkō"
   },
   {
     "id": "650",
@@ -7147,7 +7147,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "beg",
-    "readings": "こ-うko-u\n"
+    "readings": "こ-うko-u"
   },
   {
     "id": "651",
@@ -7158,7 +7158,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "number",
-    "readings": "ゴウgō\n"
+    "readings": "ゴウgō"
   },
   {
     "id": "652",
@@ -7169,7 +7169,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "fit",
-    "readings": "ゴウ、ガッ、（カッ）、あ-う、あ-わす、あ-わせるgō, ga', (ka'), a-u, a-wasu, a-waseru\n"
+    "readings": "ゴウ, ガッ, （カッ）, あ-う, あ-わす, あ-わせるgō, ga', (ka'), a-u, a-wasu, a-waseru"
   },
   {
     "id": "653",
@@ -7180,7 +7180,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "torture",
-    "readings": "ゴウgō\n"
+    "readings": "ゴウgō"
   },
   {
     "id": "654",
@@ -7191,7 +7191,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sturdy",
-    "readings": "ゴウgō\n"
+    "readings": "ゴウgō"
   },
   {
     "id": "655",
@@ -7202,7 +7202,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "be proud",
-    "readings": "ゴウgō\n"
+    "readings": "ゴウgō"
   },
   {
     "id": "656",
@@ -7213,7 +7213,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "overpowering",
-    "readings": "ゴウgō\n"
+    "readings": "ゴウgō"
   },
   {
     "id": "657",
@@ -7224,7 +7224,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "overcome",
-    "readings": "コクkoku\n"
+    "readings": "コクkoku"
   },
   {
     "id": "658",
@@ -7235,7 +7235,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "tell",
-    "readings": "コク、つ-げるkoku, tsu-geru\n"
+    "readings": "コク, つ-げるkoku, tsu-geru"
   },
   {
     "id": "659",
@@ -7246,7 +7246,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "valley",
-    "readings": "コク、たにkoku, tani\n"
+    "readings": "コク, たにkoku, tani"
   },
   {
     "id": "660",
@@ -7257,7 +7257,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "engrave",
-    "readings": "コク、きざ-むkoku, kiza-mu\n"
+    "readings": "コク, きざ-むkoku, kiza-mu"
   },
   {
     "id": "661",
@@ -7268,7 +7268,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "country",
-    "readings": "コク、くにkoku, kuni\n"
+    "readings": "コク, くにkoku, kuni"
   },
   {
     "id": "662",
@@ -7279,18 +7279,18 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "black",
-    "readings": "コク、くろ、くろ-いkoku, kuro, kuro-i\n"
+    "readings": "コク, くろ, くろ-いkoku, kuro, kuro-i"
   },
   {
     "id": "663",
     "new_shinjitai": "穀",
-    "old_kyujitai": "穀 [4]",
+    "old_kyujitai": "穀 [4]",
     "radical": "禾",
     "strokes": "14",
     "grade": "6",
     "year_added": "",
     "english_meaning": "cereals",
-    "readings": "コクkoku\n"
+    "readings": "コクkoku"
   },
   {
     "id": "664",
@@ -7301,7 +7301,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cruel",
-    "readings": "コクkoku\n"
+    "readings": "コクkoku"
   },
   {
     "id": "665",
@@ -7312,7 +7312,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "prison",
-    "readings": "ゴクgoku\n"
+    "readings": "ゴクgoku"
   },
   {
     "id": "666",
@@ -7323,7 +7323,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "bone",
-    "readings": "コツ、ほねkotsu, hone\n"
+    "readings": "コツ, ほねkotsu, hone"
   },
   {
     "id": "667",
@@ -7334,7 +7334,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "horse",
-    "readings": "こまkoma\n"
+    "readings": "こまkoma"
   },
   {
     "id": "668",
@@ -7345,7 +7345,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "crowded",
-    "readings": "こ-む、こ-めるko-mu, ko-meru\n"
+    "readings": "こ-む, こ-めるko-mu, ko-meru"
   },
   {
     "id": "669",
@@ -7356,7 +7356,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "times",
-    "readings": "ころkoro\n"
+    "readings": "ころkoro"
   },
   {
     "id": "670",
@@ -7367,7 +7367,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "now",
-    "readings": "コン、キン、いまkon, kin, ima\n"
+    "readings": "コン, キン, いまkon, kin, ima"
   },
   {
     "id": "671",
@@ -7378,7 +7378,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "become distressed",
-    "readings": "コン、こま-るkon, koma-ru\n"
+    "readings": "コン, こま-るkon, koma-ru"
   },
   {
     "id": "672",
@@ -7389,7 +7389,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "descendants",
-    "readings": "コンkon\n"
+    "readings": "コンkon"
   },
   {
     "id": "673",
@@ -7400,7 +7400,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rancor",
-    "readings": "コン、うら-む、うら-めしいkon, ura-mu, ura-meshii\n"
+    "readings": "コン, うら-む, うら-めしいkon, ura-mu, ura-meshii"
   },
   {
     "id": "674",
@@ -7411,7 +7411,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "root",
-    "readings": "コン、ねkon, ne\n"
+    "readings": "コン, ねkon, ne"
   },
   {
     "id": "675",
@@ -7422,7 +7422,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "marriage",
-    "readings": "コンkon\n"
+    "readings": "コンkon"
   },
   {
     "id": "676",
@@ -7433,7 +7433,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "mix",
-    "readings": "コン、ま-じる、ま-ざる、ま-ぜる、こ-むkon, ma-jiru, ma-zaru, ma-zeru, ko-mu\n"
+    "readings": "コン, ま-じる, ま-ざる, ま-ぜる, こ-むkon, ma-jiru, ma-zaru, ma-zeru, ko-mu"
   },
   {
     "id": "677",
@@ -7444,7 +7444,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "mark",
-    "readings": "コン、あとkon, ato\n"
+    "readings": "コン, あとkon, ato"
   },
   {
     "id": "678",
@@ -7455,7 +7455,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dark blue",
-    "readings": "コンkon\n"
+    "readings": "コンkon"
   },
   {
     "id": "679",
@@ -7466,7 +7466,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "soul",
-    "readings": "コン、たましいkon, tamashii\n"
+    "readings": "コン, たましいkon, tamashii"
   },
   {
     "id": "680",
@@ -7477,7 +7477,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ground-breaking",
-    "readings": "コンkon\n"
+    "readings": "コンkon"
   },
   {
     "id": "681",
@@ -7488,7 +7488,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sociable",
-    "readings": "コン、ねんご-ろkon, nengo-ro\n"
+    "readings": "コン, ねんご-ろkon, nengo-ro"
   },
   {
     "id": "682",
@@ -7499,7 +7499,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "left (direction)",
-    "readings": "サ、ひだりsa, hidari\n"
+    "readings": "サ, ひだりsa, hidari"
   },
   {
     "id": "683",
@@ -7510,7 +7510,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "help",
-    "readings": "サsa\n"
+    "readings": "サsa"
   },
   {
     "id": "684",
@@ -7521,7 +7521,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "sand",
-    "readings": "サsa\n"
+    "readings": "サsa"
   },
   {
     "id": "685",
@@ -7532,7 +7532,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "investigate",
-    "readings": "サsa\n"
+    "readings": "サsa"
   },
   {
     "id": "686",
@@ -7543,7 +7543,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "sand",
-    "readings": "サ、シャ、すなsa, sha, suna\n"
+    "readings": "サ, シャ, すなsa, sha, suna"
   },
   {
     "id": "687",
@@ -7554,7 +7554,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tempt",
-    "readings": "サ、そそのか-すsa, sosonoka-su\n"
+    "readings": "サ, そそのか-すsa, sosonoka-su"
   },
   {
     "id": "688",
@@ -7565,7 +7565,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "distinction",
-    "readings": "サ、さ-すsa, sa-su\n"
+    "readings": "サ, さ-すsa, sa-su"
   },
   {
     "id": "689",
@@ -7576,7 +7576,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lie",
-    "readings": "サsa\n"
+    "readings": "サsa"
   },
   {
     "id": "690",
@@ -7587,7 +7587,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "chain",
-    "readings": "サ、くさりsa, kusari\n"
+    "readings": "サ, くさりsa, kusari"
   },
   {
     "id": "691",
@@ -7598,7 +7598,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "sit",
-    "readings": "ザ、すわ-るza, suwa-ru\n"
+    "readings": "ザ, すわ-るza, suwa-ru"
   },
   {
     "id": "692",
@@ -7609,7 +7609,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "sprain",
-    "readings": "ザza\n"
+    "readings": "ザza"
   },
   {
     "id": "693",
@@ -7620,7 +7620,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "genius",
-    "readings": "サイsai\n"
+    "readings": "サイsai"
   },
   {
     "id": "694",
@@ -7631,7 +7631,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "again",
-    "readings": "サイ、（サ）、ふたた-びsai, (sa), futata-bi\n"
+    "readings": "サイ, （サ）, ふたた-びsai, (sa), futata-bi"
   },
   {
     "id": "695",
@@ -7642,7 +7642,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "disaster",
-    "readings": "サイ、わざわ-いsai, wazawa-i\n"
+    "readings": "サイ, わざわ-いsai, wazawa-i"
   },
   {
     "id": "696",
@@ -7653,7 +7653,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "wife",
-    "readings": "サイ、つまsai, tsuma\n"
+    "readings": "サイ, つまsai, tsuma"
   },
   {
     "id": "697",
@@ -7664,7 +7664,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "form",
-    "readings": "サイsai\n"
+    "readings": "サイsai"
   },
   {
     "id": "698",
@@ -7675,7 +7675,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "smash",
-    "readings": "サイ、くだ-く、くだ-けるsai, kuda-ku, kuda-keru\n"
+    "readings": "サイ, くだ-く, くだ-けるsai, kuda-ku, kuda-keru"
   },
   {
     "id": "699",
@@ -7686,7 +7686,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "superintend",
-    "readings": "サイsai\n"
+    "readings": "サイsai"
   },
   {
     "id": "700",
@@ -7697,7 +7697,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "plantation",
-    "readings": "サイsai\n"
+    "readings": "サイsai"
   },
   {
     "id": "701",
@@ -7708,7 +7708,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "coloring",
-    "readings": "サイ、いろど-るsai, irodo-ru\n"
+    "readings": "サイ, いろど-るsai, irodo-ru"
   },
   {
     "id": "702",
@@ -7719,7 +7719,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "pick",
-    "readings": "サイ、と-るsai, to-ru\n"
+    "readings": "サイ, と-るsai, to-ru"
   },
   {
     "id": "703",
@@ -7730,7 +7730,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "settle",
-    "readings": "サイ、す-む、す-ますsai, su-mu, su-masu\n"
+    "readings": "サイ, す-む, す-ますsai, su-mu, su-masu"
   },
   {
     "id": "704",
@@ -7741,7 +7741,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "festival",
-    "readings": "サイ、まつ-る、まつ-りsai, matsu-ru, matsu-ri\n"
+    "readings": "サイ, まつ-る, まつ-りsai, matsu-ru, matsu-ri"
   },
   {
     "id": "705",
@@ -7752,7 +7752,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "purification",
-    "readings": "サイsai\n"
+    "readings": "サイsai"
   },
   {
     "id": "706",
@@ -7763,7 +7763,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "thin",
-    "readings": "サイ、ほそ-い、ほそ-る、こま-か、こま-かいsai, hoso-i, hoso-ru, koma-ka, koma-kai\n"
+    "readings": "サイ, ほそ-い, ほそ-る, こま-か, こま-かいsai, hoso-i, hoso-ru, koma-ka, koma-kai"
   },
   {
     "id": "707",
@@ -7774,7 +7774,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "vegetable",
-    "readings": "サイ、なsai, na\n"
+    "readings": "サイ, なsai, na"
   },
   {
     "id": "708",
@@ -7785,7 +7785,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "most",
-    "readings": "サイ、もっと-もsai, motto-mo\n"
+    "readings": "サイ, もっと-もsai, motto-mo"
   },
   {
     "id": "709",
@@ -7796,7 +7796,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "judge",
-    "readings": "サイ、た-つ、さば-くsai, ta-tsu, saba-ku\n"
+    "readings": "サイ, た-つ, さば-くsai, ta-tsu, saba-ku"
   },
   {
     "id": "710",
@@ -7807,7 +7807,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bond",
-    "readings": "サイsai\n"
+    "readings": "サイsai"
   },
   {
     "id": "711",
@@ -7818,7 +7818,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sponsor",
-    "readings": "サイ、もよお-すsai, moyoo-su\n"
+    "readings": "サイ, もよお-すsai, moyoo-su"
   },
   {
     "id": "712",
@@ -7829,7 +7829,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "obstruct",
-    "readings": "サイ、ソク、ふさ-ぐ、ふさ-がるsai, soku, fusa-gu, fusa-garu\n"
+    "readings": "サイ, ソク, ふさ-ぐ, ふさ-がるsai, soku, fusa-gu, fusa-garu"
   },
   {
     "id": "713",
@@ -7840,7 +7840,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "year-end",
-    "readings": "サイ、（セイ）sai, (sei)\n"
+    "readings": "サイ, （セイ）sai, (sei)"
   },
   {
     "id": "714",
@@ -7851,7 +7851,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ride",
-    "readings": "サイ、の-せる、の-るsai, no-seru, no-ru\n"
+    "readings": "サイ, の-せる, の-るsai, no-seru, no-ru"
   },
   {
     "id": "715",
@@ -7862,7 +7862,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "occasion",
-    "readings": "サイ、きわsai, kiwa\n"
+    "readings": "サイ, きわsai, kiwa"
   },
   {
     "id": "716",
@@ -7873,7 +7873,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "cape (geography)",
-    "readings": "（さい）[6](sai)\n"
+    "readings": "（さい）[6](sai)"
   },
   {
     "id": "717",
@@ -7884,7 +7884,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "exist",
-    "readings": "ザイ、あ-るzai, a-ru\n"
+    "readings": "ザイ, あ-るzai, a-ru"
   },
   {
     "id": "718",
@@ -7895,7 +7895,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "lumber",
-    "readings": "ザイzai\n"
+    "readings": "ザイzai"
   },
   {
     "id": "719",
@@ -7906,7 +7906,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dose",
-    "readings": "ザイzai\n"
+    "readings": "ザイzai"
   },
   {
     "id": "720",
@@ -7917,7 +7917,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "wealth",
-    "readings": "ザイ、（サイ）zai, (sai)\n"
+    "readings": "ザイ, （サイ）zai, (sai)"
   },
   {
     "id": "721",
@@ -7928,7 +7928,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "guilt",
-    "readings": "ザイ、つみzai, tsumi\n"
+    "readings": "ザイ, つみzai, tsumi"
   },
   {
     "id": "722",
@@ -7939,7 +7939,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "1981",
     "english_meaning": "promontory",
-    "readings": "さきsaki\n"
+    "readings": "さきsaki"
   },
   {
     "id": "723",
@@ -7950,7 +7950,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "make",
-    "readings": "サク、サ、つく-るsaku, sa, tsuku-ru\n"
+    "readings": "サク, サ, つく-るsaku, sa, tsuku-ru"
   },
   {
     "id": "724",
@@ -7961,7 +7961,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "plane",
-    "readings": "サク、けず-るsaku, kezu-ru\n"
+    "readings": "サク, けず-るsaku, kezu-ru"
   },
   {
     "id": "725",
@@ -7972,7 +7972,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "previous",
-    "readings": "サクsaku\n"
+    "readings": "サクsaku"
   },
   {
     "id": "726",
@@ -7983,7 +7983,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "fence",
-    "readings": "サクsaku\n"
+    "readings": "サクsaku"
   },
   {
     "id": "727",
@@ -7994,7 +7994,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cord",
-    "readings": "サクsaku\n"
+    "readings": "サクsaku"
   },
   {
     "id": "728",
@@ -8005,7 +8005,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "scheme",
-    "readings": "サクsaku\n"
+    "readings": "サクsaku"
   },
   {
     "id": "729",
@@ -8016,7 +8016,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "vinegar",
-    "readings": "サク、すsaku, su\n"
+    "readings": "サク, すsaku, su"
   },
   {
     "id": "730",
@@ -8027,7 +8027,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "squeeze",
-    "readings": "サク、しぼ-るsaku, shibo-ru\n"
+    "readings": "サク, しぼ-るsaku, shibo-ru"
   },
   {
     "id": "731",
@@ -8038,7 +8038,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "confused",
-    "readings": "サクsaku\n"
+    "readings": "サクsaku"
   },
   {
     "id": "732",
@@ -8049,7 +8049,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "blossom",
-    "readings": "さ-くsa-ku\n"
+    "readings": "さ-くsa-ku"
   },
   {
     "id": "733",
@@ -8060,7 +8060,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "counter for books",
-    "readings": "サツ、サクsatsu, saku\n"
+    "readings": "サツ, サクsatsu, saku"
   },
   {
     "id": "734",
@@ -8071,7 +8071,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "tag",
-    "readings": "サツ、ふだsatsu, fuda\n"
+    "readings": "サツ, ふだsatsu, fuda"
   },
   {
     "id": "735",
@@ -8082,7 +8082,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "printing",
-    "readings": "サツ、す-るsatsu, su-ru\n"
+    "readings": "サツ, す-るsatsu, su-ru"
   },
   {
     "id": "736",
@@ -8093,7 +8093,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "temple",
-    "readings": "サツ、セツsatsu, setsu\n"
+    "readings": "サツ, セツsatsu, setsu"
   },
   {
     "id": "737",
@@ -8104,18 +8104,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "be imminent",
-    "readings": "サツsatsu\n"
+    "readings": "サツsatsu"
   },
   {
     "id": "738",
     "new_shinjitai": "殺",
-    "old_kyujitai": "殺 [4]",
+    "old_kyujitai": "殺 [4]",
     "radical": "殳",
     "strokes": "10",
     "grade": "5",
     "year_added": "",
     "english_meaning": "kill",
-    "readings": "サツ、（サイ）、（セツ）、ころ-すsatsu, (sai), (setsu), koro-su\n"
+    "readings": "サツ, （サイ）, （セツ）, ころ-すsatsu, (sai), (setsu), koro-su"
   },
   {
     "id": "739",
@@ -8126,7 +8126,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "guess",
-    "readings": "サツsatsu\n"
+    "readings": "サツsatsu"
   },
   {
     "id": "740",
@@ -8137,7 +8137,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "snapshot",
-    "readings": "サツ、と-るsatsu, to-ru\n"
+    "readings": "サツ, と-るsatsu, to-ru"
   },
   {
     "id": "741",
@@ -8148,7 +8148,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "grate",
-    "readings": "サツ、す-る、す-れるsatsu, su-ru, su-reru\n"
+    "readings": "サツ, す-る, す-れるsatsu, su-ru, su-reru"
   },
   {
     "id": "742",
@@ -8159,7 +8159,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "miscellaneous",
-    "readings": "ザツ、ゾウzatsu, zō\n"
+    "readings": "ザツ, ゾウzatsu, zō"
   },
   {
     "id": "743",
@@ -8170,7 +8170,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "1981",
     "english_meaning": "dish",
-    "readings": "さらsara\n"
+    "readings": "さらsara"
   },
   {
     "id": "744",
@@ -8181,7 +8181,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "three",
-    "readings": "サン、み、み-つ、みっ-つsan, mi, mi-tsu, mi'-tsu\n"
+    "readings": "サン, み, み-つ, みっ-つsan, mi, mi-tsu, mi'-tsu"
   },
   {
     "id": "745",
@@ -8192,7 +8192,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "mountain",
-    "readings": "サン、やまsan, yama\n"
+    "readings": "サン, やまsan, yama"
   },
   {
     "id": "746",
@@ -8203,7 +8203,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "participate",
-    "readings": "サン、まい-るsan, mai-ru\n"
+    "readings": "サン, まい-るsan, mai-ru"
   },
   {
     "id": "747",
@@ -8214,7 +8214,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "scaffold",
-    "readings": "サンsan\n"
+    "readings": "サンsan"
   },
   {
     "id": "748",
@@ -8225,7 +8225,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "silkworm",
-    "readings": "サン、かいこsan, kaiko\n"
+    "readings": "サン, かいこsan, kaiko"
   },
   {
     "id": "749",
@@ -8236,7 +8236,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wretched",
-    "readings": "サン、ザン、みじ-めsan, zan, miji-me\n"
+    "readings": "サン, ザン, みじ-めsan, zan, miji-me"
   },
   {
     "id": "750",
@@ -8247,7 +8247,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "give birth",
-    "readings": "サン、う-む、う-まれる、うぶsan, u-mu, u-mareru, ubu\n"
+    "readings": "サン, う-む, う-まれる, うぶsan, u-mu, u-mareru, ubu"
   },
   {
     "id": "751",
@@ -8258,7 +8258,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "umbrella",
-    "readings": "サン、かさsan, kasa\n"
+    "readings": "サン, かさsan, kasa"
   },
   {
     "id": "752",
@@ -8269,7 +8269,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "scatter",
-    "readings": "サン、ち-る、ち-らす、ち-らかす、ち-らかるsan, chi-ru, chi-rasu, chi-rakasu, chi-rakaru\n"
+    "readings": "サン, ち-る, ち-らす, ち-らかす, ち-らかるsan, chi-ru, chi-rasu, chi-rakasu, chi-rakaru"
   },
   {
     "id": "753",
@@ -8280,7 +8280,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "calculate",
-    "readings": "サンsan\n"
+    "readings": "サンsan"
   },
   {
     "id": "754",
@@ -8291,7 +8291,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "acid",
-    "readings": "サン、す-いsan, su-i\n"
+    "readings": "サン, す-いsan, su-i"
   },
   {
     "id": "755",
@@ -8302,7 +8302,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "approve",
-    "readings": "サンsan\n"
+    "readings": "サンsan"
   },
   {
     "id": "756",
@@ -8313,7 +8313,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "remainder",
-    "readings": "ザン、のこ-る、のこ-すzan, noko-ru, noko-su\n"
+    "readings": "ザン, のこ-る, のこ-すzan, noko-ru, noko-su"
   },
   {
     "id": "757",
@@ -8324,7 +8324,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "kill by slicing",
-    "readings": "ザン、き-るzan, ki-ru\n"
+    "readings": "ザン, き-るzan, ki-ru"
   },
   {
     "id": "758",
@@ -8335,7 +8335,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "temporarily",
-    "readings": "ザンzan\n"
+    "readings": "ザンzan"
   },
   {
     "id": "759",
@@ -8346,7 +8346,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "gentleman",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "760",
@@ -8357,7 +8357,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "child",
-    "readings": "シ、ス、こshi, su, ko\n"
+    "readings": "シ, ス, こshi, su, ko"
   },
   {
     "id": "761",
@@ -8368,7 +8368,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "branch",
-    "readings": "シ、ささ-えるshi, sasa-eru\n"
+    "readings": "シ, ささ-えるshi, sasa-eru"
   },
   {
     "id": "762",
@@ -8379,7 +8379,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "stop",
-    "readings": "シ、と-まる、と-めるshi, to-maru, to-meru\n"
+    "readings": "シ, と-まる, と-めるshi, to-maru, to-meru"
   },
   {
     "id": "763",
@@ -8390,7 +8390,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "family name",
-    "readings": "シ、うじshi, uji\n"
+    "readings": "シ, うじshi, uji"
   },
   {
     "id": "764",
@@ -8401,7 +8401,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "do",
-    "readings": "シ、（ジ）、つか-えるshi, (ji), tsuka-eru\n"
+    "readings": "シ, （ジ）, つか-えるshi, (ji), tsuka-eru"
   },
   {
     "id": "765",
@@ -8412,7 +8412,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "history",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "766",
@@ -8423,7 +8423,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "director",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "767",
@@ -8434,7 +8434,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "four",
-    "readings": "シ、よ、よ-つ、よっ-つ、よんshi, yo, yo-tsu, yo'-tsu, yon\n"
+    "readings": "シ, よ, よ-つ, よっ-つ, よんshi, yo, yo-tsu, yo'-tsu, yon"
   },
   {
     "id": "768",
@@ -8445,7 +8445,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "market",
-    "readings": "シ、いちshi, ichi\n"
+    "readings": "シ, いちshi, ichi"
   },
   {
     "id": "769",
@@ -8456,7 +8456,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "arrow",
-    "readings": "シ、やshi, ya\n"
+    "readings": "シ, やshi, ya"
   },
   {
     "id": "770",
@@ -8467,7 +8467,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "delicious",
-    "readings": "シ、むねshi, mune\n"
+    "readings": "シ, むねshi, mune"
   },
   {
     "id": "771",
@@ -8478,7 +8478,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "death",
-    "readings": "シ、し-ぬshi, shi-nu\n"
+    "readings": "シ, し-ぬshi, shi-nu"
   },
   {
     "id": "772",
@@ -8489,7 +8489,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "thread",
-    "readings": "シ、いとshi, ito\n"
+    "readings": "シ, いとshi, ito"
   },
   {
     "id": "773",
@@ -8500,7 +8500,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "climax",
-    "readings": "シ、いた-るshi, ita-ru\n"
+    "readings": "シ, いた-るshi, ita-ru"
   },
   {
     "id": "774",
@@ -8511,7 +8511,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pay respects",
-    "readings": "シ、うかが-うshi, ukaga-u\n"
+    "readings": "シ, うかが-うshi, ukaga-u"
   },
   {
     "id": "775",
@@ -8522,7 +8522,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "intention",
-    "readings": "シ、こころざ-す、こころざしshi, kokoroza-su, kokorozashi\n"
+    "readings": "シ, こころざ-す, こころざしshi, kokoroza-su, kokorozashi"
   },
   {
     "id": "776",
@@ -8533,7 +8533,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "me",
-    "readings": "シ、わたくし、わたしshi, watakushi, watashi\n"
+    "readings": "シ, わたくし, わたしshi, watakushi, watashi"
   },
   {
     "id": "777",
@@ -8544,7 +8544,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "use",
-    "readings": "シ、つか-うshi, tsuka-u\n"
+    "readings": "シ, つか-うshi, tsuka-u"
   },
   {
     "id": "778",
@@ -8555,7 +8555,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "thorn",
-    "readings": "シ、さ-す、さ-さるshi, sa-su, sa-saru\n"
+    "readings": "シ, さ-す, さ-さるshi, sa-su, sa-saru"
   },
   {
     "id": "779",
@@ -8566,7 +8566,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "begin",
-    "readings": "シ、はじ-める、はじ-まるshi, haji-meru, haji-maru\n"
+    "readings": "シ, はじ-める, はじ-まるshi, haji-meru, haji-maru"
   },
   {
     "id": "780",
@@ -8577,7 +8577,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "older sister",
-    "readings": "シ、あねshi, ane\n"
+    "readings": "シ, あねshi, ane"
   },
   {
     "id": "781",
@@ -8588,18 +8588,18 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "branch",
-    "readings": "シ、えだshi, eda\n"
+    "readings": "シ, えだshi, eda"
   },
   {
     "id": "782",
     "new_shinjitai": "祉",
-    "old_kyujitai": "祉 [4]",
+    "old_kyujitai": "祉 [4]",
     "radical": "示",
     "strokes": "8",
     "grade": "S",
     "year_added": "",
     "english_meaning": "welfare",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "783",
@@ -8610,7 +8610,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "limb",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "784",
@@ -8621,7 +8621,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "figure",
-    "readings": "シ、すがたshi, sugata\n"
+    "readings": "シ, すがたshi, sugata"
   },
   {
     "id": "785",
@@ -8632,7 +8632,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "think",
-    "readings": "シ、おも-うshi, omo-u\n"
+    "readings": "シ, おも-うshi, omo-u"
   },
   {
     "id": "786",
@@ -8643,7 +8643,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "finger",
-    "readings": "シ、ゆび、さ-すshi, yubi, sa-su\n"
+    "readings": "シ, ゆび, さ-すshi, yubi, sa-su"
   },
   {
     "id": "787",
@@ -8654,7 +8654,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "carry out",
-    "readings": "シ、セ、ほどこ-すshi, se, hodoko-su\n"
+    "readings": "シ, セ, ほどこ-すshi, se, hodoko-su"
   },
   {
     "id": "788",
@@ -8665,7 +8665,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "expert",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "789",
@@ -8676,7 +8676,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "selfish",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "790",
@@ -8687,7 +8687,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "paper",
-    "readings": "シ、かみshi, kami\n"
+    "readings": "シ, かみshi, kami"
   },
   {
     "id": "791",
@@ -8698,18 +8698,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fat",
-    "readings": "シ、あぶらshi, abura\n"
+    "readings": "シ, あぶらshi, abura"
   },
   {
     "id": "792",
     "new_shinjitai": "視",
-    "old_kyujitai": "視 [4]",
+    "old_kyujitai": "視 [4]",
     "radical": "見",
     "strokes": "11",
     "grade": "6",
     "year_added": "",
     "english_meaning": "look at",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "793",
@@ -8720,7 +8720,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "purple",
-    "readings": "シ、むらさきshi, murasaki\n"
+    "readings": "シ, むらさきshi, murasaki"
   },
   {
     "id": "794",
@@ -8731,7 +8731,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "poetry",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "795",
@@ -8742,7 +8742,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "tooth",
-    "readings": "シ、はshi, ha\n"
+    "readings": "シ, はshi, ha"
   },
   {
     "id": "796",
@@ -8753,7 +8753,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "heir",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "797",
@@ -8764,7 +8764,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "test",
-    "readings": "シ、こころ-みる、ため-すshi, kokoro-miru, tame-su\n"
+    "readings": "シ, こころ-みる, ため-すshi, kokoro-miru, tame-su"
   },
   {
     "id": "798",
@@ -8775,7 +8775,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "poem",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "799",
@@ -8786,7 +8786,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "resources",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "800",
@@ -8797,7 +8797,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "domesticate",
-    "readings": "シ、か-うshi, ka-u\n"
+    "readings": "シ, か-うshi, ka-u"
   },
   {
     "id": "801",
@@ -8808,7 +8808,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "document",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "802",
@@ -8819,7 +8819,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "feminine",
-    "readings": "シ、め、めすshi, me, mesu\n"
+    "readings": "シ, め, めすshi, me, mesu"
   },
   {
     "id": "803",
@@ -8830,7 +8830,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "seriousness",
-    "readings": "シshi\n"
+    "readings": "シshi"
   },
   {
     "id": "804",
@@ -8841,7 +8841,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "grant",
-    "readings": "シ、たまわ-るshi, tamawa-ru\n"
+    "readings": "シ, たまわ-るshi, tamawa-ru"
   },
   {
     "id": "805",
@@ -8852,7 +8852,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "consult with",
-    "readings": "シ、はか-るshi, haka-ru\n"
+    "readings": "シ, はか-るshi, haka-ru"
   },
   {
     "id": "806",
@@ -8863,7 +8863,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "indicate",
-    "readings": "ジ、シ、しめ-すji, shi, shime-su\n"
+    "readings": "ジ, シ, しめ-すji, shi, shime-su"
   },
   {
     "id": "807",
@@ -8874,7 +8874,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "letter",
-    "readings": "ジ、あざji, aza\n"
+    "readings": "ジ, あざji, aza"
   },
   {
     "id": "808",
@@ -8885,7 +8885,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "Buddhist temple",
-    "readings": "ジ、てらji, tera\n"
+    "readings": "ジ, てらji, tera"
   },
   {
     "id": "809",
@@ -8896,7 +8896,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "next",
-    "readings": "ジ、シ、つ-ぐ、つぎji, shi, tsu-gu, tsugi\n"
+    "readings": "ジ, シ, つ-ぐ, つぎji, shi, tsu-gu, tsugi"
   },
   {
     "id": "810",
@@ -8907,7 +8907,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "ear",
-    "readings": "ジ、みみji, mimi\n"
+    "readings": "ジ, みみji, mimi"
   },
   {
     "id": "811",
@@ -8918,7 +8918,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "oneself",
-    "readings": "ジ、シ、みずか-らji, shi, mizuka-ra\n"
+    "readings": "ジ, シ, みずか-らji, shi, mizuka-ra"
   },
   {
     "id": "812",
@@ -8929,7 +8929,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "becoming",
-    "readings": "ジ、に-るji, ni-ru\n"
+    "readings": "ジ, に-るji, ni-ru"
   },
   {
     "id": "813",
@@ -8940,7 +8940,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "child",
-    "readings": "ジ、（ニ）ji, (ni)\n"
+    "readings": "ジ, （ニ）ji, (ni)"
   },
   {
     "id": "814",
@@ -8951,7 +8951,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "abstract thing",
-    "readings": "ジ、（ズ）、ことji, (zu), koto\n"
+    "readings": "ジ, （ズ）, ことji, (zu), koto"
   },
   {
     "id": "815",
@@ -8962,7 +8962,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "waiter",
-    "readings": "ジ、さむらいji, samurai\n"
+    "readings": "ジ, さむらいji, samurai"
   },
   {
     "id": "816",
@@ -8973,7 +8973,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "govern",
-    "readings": "ジ、チ、おさ-める、おさ-まる、なお-る、なお-すji, chi, osa-meru, osa-maru, nao-ru, nao-su\n"
+    "readings": "ジ, チ, おさ-める, おさ-まる, なお-る, なお-すji, chi, osa-meru, osa-maru, nao-ru, nao-su"
   },
   {
     "id": "817",
@@ -8984,7 +8984,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "hold",
-    "readings": "ジ、も-つji, mo-tsu\n"
+    "readings": "ジ, も-つji, mo-tsu"
   },
   {
     "id": "818",
@@ -8995,7 +8995,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "time",
-    "readings": "ジ、ときji, toki\n"
+    "readings": "ジ, ときji, toki"
   },
   {
     "id": "819",
@@ -9006,7 +9006,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "nourishing",
-    "readings": "ジji\n"
+    "readings": "ジji"
   },
   {
     "id": "820",
@@ -9017,7 +9017,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mercy",
-    "readings": "ジ、いつく-しむji, itsuku-shimu\n"
+    "readings": "ジ, いつく-しむji, itsuku-shimu"
   },
   {
     "id": "821",
@@ -9028,7 +9028,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "resign",
-    "readings": "ジ、や-めるji, ya-meru\n"
+    "readings": "ジ, や-めるji, ya-meru"
   },
   {
     "id": "822",
@@ -9039,18 +9039,18 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "magnet",
-    "readings": "ジji\n"
+    "readings": "ジji"
   },
   {
     "id": "823",
-    "new_shinjitai": "餌 [8]",
+    "new_shinjitai": "餌",
     "old_kyujitai": "",
     "radical": "食",
     "strokes": "15",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "bait",
-    "readings": "ジ、えさ、えji, esa, e\n"
+    "readings": "ジ, えさ, えji, esa, e"
   },
   {
     "id": "824",
@@ -9061,7 +9061,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "emperor's seal",
-    "readings": "ジji\n"
+    "readings": "ジji"
   },
   {
     "id": "825",
@@ -9072,7 +9072,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "deer",
-    "readings": "しか、（か）shika, (ka)\n"
+    "readings": "しか, （か）shika, (ka)"
   },
   {
     "id": "826",
@@ -9083,7 +9083,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "style",
-    "readings": "シキshiki\n"
+    "readings": "シキshiki"
   },
   {
     "id": "827",
@@ -9094,7 +9094,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "discriminating",
-    "readings": "シキshiki\n"
+    "readings": "シキshiki"
   },
   {
     "id": "828",
@@ -9105,7 +9105,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "axis",
-    "readings": "ジクjiku\n"
+    "readings": "ジクjiku"
   },
   {
     "id": "829",
@@ -9116,18 +9116,18 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "seven",
-    "readings": "シチ、なな、なな-つ、（なの）shichi, nana, nana-tsu, (nano)\n"
+    "readings": "シチ, なな, なな-つ, （なの）shichi, nana, nana-tsu, (nano)"
   },
   {
     "id": "830",
-    "new_shinjitai": "𠮟 [5]",
+    "new_shinjitai": "𠮟",
     "old_kyujitai": "",
     "radical": "口",
     "strokes": "5",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "scold",
-    "readings": "シツ、しか-るshitsu, shika-ru\n"
+    "readings": "シツ, しか-るshitsu, shika-ru"
   },
   {
     "id": "831",
@@ -9138,7 +9138,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "lose",
-    "readings": "シツ、うしな-うshitsu, ushina-u\n"
+    "readings": "シツ, うしな-うshitsu, ushina-u"
   },
   {
     "id": "832",
@@ -9149,7 +9149,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "room",
-    "readings": "シツ、むろshitsu, muro\n"
+    "readings": "シツ, むろshitsu, muro"
   },
   {
     "id": "833",
@@ -9160,7 +9160,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rapidly",
-    "readings": "シツshitsu\n"
+    "readings": "シツshitsu"
   },
   {
     "id": "834",
@@ -9171,7 +9171,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tenacious",
-    "readings": "シツ、シュウ、と-るshitsu, shū, to-ru\n"
+    "readings": "シツ, シュウ, と-るshitsu, shū, to-ru"
   },
   {
     "id": "835",
@@ -9182,7 +9182,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "damp",
-    "readings": "シツ、しめ-る、しめ-すshitsu, shime-ru, shime-su\n"
+    "readings": "シツ, しめ-る, しめ-すshitsu, shime-ru, shime-su"
   },
   {
     "id": "836",
@@ -9193,7 +9193,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "envy",
-    "readings": "シツshitsu\n"
+    "readings": "シツshitsu"
   },
   {
     "id": "837",
@@ -9204,7 +9204,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lacquer",
-    "readings": "シツ、うるしshitsu, urushi\n"
+    "readings": "シツ, うるしshitsu, urushi"
   },
   {
     "id": "838",
@@ -9215,7 +9215,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "quality",
-    "readings": "シツ、シチ、（チ）shitsu, shichi, (chi)\n"
+    "readings": "シツ, シチ, （チ）shitsu, shichi, (chi)"
   },
   {
     "id": "839",
@@ -9226,7 +9226,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "truth",
-    "readings": "ジツ、み、みの-るjitsu, mi, mino-ru\n"
+    "readings": "ジツ, み, みの-るjitsu, mi, mino-ru"
   },
   {
     "id": "840",
@@ -9237,7 +9237,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "turf",
-    "readings": "しばshiba\n"
+    "readings": "しばshiba"
   },
   {
     "id": "841",
@@ -9248,18 +9248,18 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "copy",
-    "readings": "シャ、うつ-す、うつ-るsha, utsu-su, utsu-ru\n"
+    "readings": "シャ, うつ-す, うつ-るsha, utsu-su, utsu-ru"
   },
   {
     "id": "842",
     "new_shinjitai": "社",
-    "old_kyujitai": "社 [4]",
+    "old_kyujitai": "社 [4]",
     "radical": "示",
     "strokes": "7",
     "grade": "2",
     "year_added": "",
     "english_meaning": "company",
-    "readings": "シャ、やしろsha, yashiro\n"
+    "readings": "シャ, やしろsha, yashiro"
   },
   {
     "id": "843",
@@ -9270,7 +9270,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "car",
-    "readings": "シャ、くるまsha, kuruma\n"
+    "readings": "シャ, くるまsha, kuruma"
   },
   {
     "id": "844",
@@ -9281,18 +9281,18 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "cottage",
-    "readings": "シャsha\n"
+    "readings": "シャsha"
   },
   {
     "id": "845",
     "new_shinjitai": "者",
-    "old_kyujitai": "者 [4]",
+    "old_kyujitai": "者 [4]",
     "radical": "老",
     "strokes": "8",
     "grade": "3",
     "year_added": "",
     "english_meaning": "someone",
-    "readings": "シャ、ものsha, mono\n"
+    "readings": "シャ, ものsha, mono"
   },
   {
     "id": "846",
@@ -9303,7 +9303,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "shoot",
-    "readings": "シャ、い-るsha, i-ru\n"
+    "readings": "シャ, い-るsha, i-ru"
   },
   {
     "id": "847",
@@ -9314,7 +9314,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "throw away",
-    "readings": "シャ、す-てるsha, su-teru\n"
+    "readings": "シャ, す-てるsha, su-teru"
   },
   {
     "id": "848",
@@ -9325,7 +9325,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pardon",
-    "readings": "シャsha\n"
+    "readings": "シャsha"
   },
   {
     "id": "849",
@@ -9336,18 +9336,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "diagonal",
-    "readings": "シャ、なな-めsha, nana-me\n"
+    "readings": "シャ, なな-めsha, nana-me"
   },
   {
     "id": "850",
     "new_shinjitai": "煮",
-    "old_kyujitai": "煮 [4]",
+    "old_kyujitai": "煮 [4]",
     "radical": "火",
     "strokes": "12",
     "grade": "S",
     "year_added": "",
     "english_meaning": "boil",
-    "readings": "シャ、に-る、に-える、に-やすsha, ni-ru, ni-eru, ni-yasu\n"
+    "readings": "シャ, に-る, に-える, に-やすsha, ni-ru, ni-eru, ni-yasu"
   },
   {
     "id": "851",
@@ -9358,7 +9358,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "intercept",
-    "readings": "シャ、さえぎ-るsha, saegi-ru\n"
+    "readings": "シャ, さえぎ-るsha, saegi-ru"
   },
   {
     "id": "852",
@@ -9369,7 +9369,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "apologize",
-    "readings": "シャ、あやま-るsha, ayama-ru\n"
+    "readings": "シャ, あやま-るsha, ayama-ru"
   },
   {
     "id": "853",
@@ -9380,7 +9380,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wicked",
-    "readings": "ジャja\n"
+    "readings": "ジャja"
   },
   {
     "id": "854",
@@ -9391,7 +9391,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "snake",
-    "readings": "ジャ、ダ、へびja, da, hebi\n"
+    "readings": "ジャ, ダ, へびja, da, hebi"
   },
   {
     "id": "855",
@@ -9402,7 +9402,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "shaku",
-    "readings": "シャクshaku\n"
+    "readings": "シャクshaku"
   },
   {
     "id": "856",
@@ -9413,7 +9413,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "borrow",
-    "readings": "シャク、か-りるshaku, ka-riru\n"
+    "readings": "シャク, か-りるshaku, ka-riru"
   },
   {
     "id": "857",
@@ -9424,7 +9424,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "bartending",
-    "readings": "シャク、く-むshaku, ku-mu\n"
+    "readings": "シャク, く-むshaku, ku-mu"
   },
   {
     "id": "858",
@@ -9435,7 +9435,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "explanation",
-    "readings": "シャクshaku\n"
+    "readings": "シャクshaku"
   },
   {
     "id": "859",
@@ -9446,7 +9446,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "baron",
-    "readings": "シャクshaku\n"
+    "readings": "シャクshaku"
   },
   {
     "id": "860",
@@ -9457,7 +9457,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "young",
-    "readings": "ジャク、（ニャク）、わか-い、も-しくはjaku, (nyaku), waka-i, mo-shikuha\n"
+    "readings": "ジャク, （ニャク）, わか-い, も-しくはjaku, (nyaku), waka-i, mo-shikuha"
   },
   {
     "id": "861",
@@ -9468,7 +9468,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "weak",
-    "readings": "ジャク、よわ-い、よわ-る、よわ-まる、よわ-めるjaku, yowa-i, yowa-ru, yowa-maru, yowa-meru\n"
+    "readings": "ジャク, よわ-い, よわ-る, よわ-まる, よわ-めるjaku, yowa-i, yowa-ru, yowa-maru, yowa-meru"
   },
   {
     "id": "862",
@@ -9479,7 +9479,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "loneliness",
-    "readings": "ジャク、（セキ）、さび、さび-しい、さび-れるjaku, (seki), sabi, sabi-shii, sabi-reru\n"
+    "readings": "ジャク, （セキ）, さび, さび-しい, さび-れるjaku, (seki), sabi, sabi-shii, sabi-reru"
   },
   {
     "id": "863",
@@ -9490,7 +9490,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "hand",
-    "readings": "シュ、て、（た）shu, te, (ta)\n"
+    "readings": "シュ, て, （た）shu, te, (ta)"
   },
   {
     "id": "864",
@@ -9501,7 +9501,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "master",
-    "readings": "シュ、（ス）、ぬし、おもshu, (su), nushi, omo\n"
+    "readings": "シュ, （ス）, ぬし, おもshu, (su), nushi, omo"
   },
   {
     "id": "865",
@@ -9512,7 +9512,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "protect",
-    "readings": "シュ、（ス）、まも-る、も-りshu, (su), mamo-ru, mo-ri\n"
+    "readings": "シュ, （ス）, まも-る, も-りshu, (su), mamo-ru, mo-ri"
   },
   {
     "id": "866",
@@ -9523,7 +9523,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "vermilion",
-    "readings": "シュshu\n"
+    "readings": "シュshu"
   },
   {
     "id": "867",
@@ -9534,7 +9534,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "take",
-    "readings": "シュ、と-るshu, to-ru\n"
+    "readings": "シュ, と-るshu, to-ru"
   },
   {
     "id": "868",
@@ -9545,7 +9545,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hunt",
-    "readings": "シュ、か-る、か-りshu, ka-ru, ka-ri\n"
+    "readings": "シュ, か-る, か-りshu, ka-ru, ka-ri"
   },
   {
     "id": "869",
@@ -9556,7 +9556,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "neck",
-    "readings": "シュ、くびshu, kubi\n"
+    "readings": "シュ, くびshu, kubi"
   },
   {
     "id": "870",
@@ -9567,7 +9567,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "particularly",
-    "readings": "シュ、ことshu, koto\n"
+    "readings": "シュ, ことshu, koto"
   },
   {
     "id": "871",
@@ -9578,7 +9578,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pearl",
-    "readings": "シュshu\n"
+    "readings": "シュshu"
   },
   {
     "id": "872",
@@ -9589,7 +9589,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "alcoholic drink",
-    "readings": "シュ、さけ、（さか）shu, sake, (saka)\n"
+    "readings": "シュ, さけ, （さか）shu, sake, (saka)"
   },
   {
     "id": "873",
@@ -9600,7 +9600,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "tumor",
-    "readings": "シュ、は-れる、は-らすshu, ha-reru, ha-rasu\n"
+    "readings": "シュ, は-れる, は-らすshu, ha-reru, ha-rasu"
   },
   {
     "id": "874",
@@ -9611,7 +9611,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "kind",
-    "readings": "シュ、たねshu, tane\n"
+    "readings": "シュ, たねshu, tane"
   },
   {
     "id": "875",
@@ -9622,7 +9622,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "gist",
-    "readings": "シュ、おもむきshu, omomuki\n"
+    "readings": "シュ, おもむきshu, omomuki"
   },
   {
     "id": "876",
@@ -9633,7 +9633,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "longevity",
-    "readings": "ジュ、ことぶきju, kotobuki\n"
+    "readings": "ジュ, ことぶきju, kotobuki"
   },
   {
     "id": "877",
@@ -9644,7 +9644,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "accept",
-    "readings": "ジュ、う-ける、う-かるju, u-keru, u-karu\n"
+    "readings": "ジュ, う-ける, う-かるju, u-keru, u-karu"
   },
   {
     "id": "878",
@@ -9655,7 +9655,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "curse",
-    "readings": "ジュ、のろ-うju, noro-u\n"
+    "readings": "ジュ, のろ-うju, noro-u"
   },
   {
     "id": "879",
@@ -9666,7 +9666,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "instruct",
-    "readings": "ジュ、さず-ける、さず-かるju, sazu-keru, sazu-karu\n"
+    "readings": "ジュ, さず-ける, さず-かるju, sazu-keru, sazu-karu"
   },
   {
     "id": "880",
@@ -9677,7 +9677,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "demand",
-    "readings": "ジュju\n"
+    "readings": "ジュju"
   },
   {
     "id": "881",
@@ -9688,7 +9688,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "Confucian",
-    "readings": "ジュju\n"
+    "readings": "ジュju"
   },
   {
     "id": "882",
@@ -9699,7 +9699,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "trees",
-    "readings": "ジュju\n"
+    "readings": "ジュju"
   },
   {
     "id": "883",
@@ -9710,7 +9710,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "take in",
-    "readings": "シュウ、おさ-める、おさ-まるshū, osa-meru, osa-maru\n"
+    "readings": "シュウ, おさ-める, おさ-まるshū, osa-meru, osa-maru"
   },
   {
     "id": "884",
@@ -9721,7 +9721,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "captured",
-    "readings": "シュウshū\n"
+    "readings": "シュウshū"
   },
   {
     "id": "885",
@@ -9732,7 +9732,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "state",
-    "readings": "シュウ、すshū, su\n"
+    "readings": "シュウ, すshū, su"
   },
   {
     "id": "886",
@@ -9743,7 +9743,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "boat",
-    "readings": "シュウ、ふね、（ふな）shū, fune, (funa)\n"
+    "readings": "シュウ, ふね, （ふな）shū, fune, (funa)"
   },
   {
     "id": "887",
@@ -9754,7 +9754,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "excel",
-    "readings": "シュウ、ひい-でるshū, hii-deru\n"
+    "readings": "シュウ, ひい-でるshū, hii-deru"
   },
   {
     "id": "888",
@@ -9765,7 +9765,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "circumference",
-    "readings": "シュウ、まわ-りshū, mawa-ri\n"
+    "readings": "シュウ, まわ-りshū, mawa-ri"
   },
   {
     "id": "889",
@@ -9776,7 +9776,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "religion",
-    "readings": "シュウ、ソウshū, sō\n"
+    "readings": "シュウ, ソウshū, sō"
   },
   {
     "id": "890",
@@ -9787,7 +9787,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "pick up",
-    "readings": "シュウ、ジュウ、ひろ-うshū, jū, hiro-u\n"
+    "readings": "シュウ, ジュウ, ひろ-うshū, jū, hiro-u"
   },
   {
     "id": "891",
@@ -9798,18 +9798,18 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "autumn",
-    "readings": "シュウ、あきshū, aki\n"
+    "readings": "シュウ, あきshū, aki"
   },
   {
     "id": "892",
     "new_shinjitai": "臭",
-    "old_kyujitai": "臭 [4]",
+    "old_kyujitai": "臭 [4]",
     "radical": "自",
     "strokes": "9",
     "grade": "S",
     "year_added": "",
     "english_meaning": "stinking",
-    "readings": "シュウ、くさ-い、にお-うshū, kusa-i, nio-u\n"
+    "readings": "シュウ, くさ-い, にお-うshū, kusa-i, nio-u"
   },
   {
     "id": "893",
@@ -9820,7 +9820,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "discipline",
-    "readings": "シュウ、（シュ）、おさ-める、おさ-まるshū, (shu), osa-meru, osa-maru\n"
+    "readings": "シュウ, （シュ）, おさ-める, おさ-まるshū, (shu), osa-meru, osa-maru"
   },
   {
     "id": "894",
@@ -9831,7 +9831,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "sleeve",
-    "readings": "シュウ、そでshū, sode\n"
+    "readings": "シュウ, そでshū, sode"
   },
   {
     "id": "895",
@@ -9842,7 +9842,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "end",
-    "readings": "シュウ、お-わる、お-えるshū, o-waru, o-eru\n"
+    "readings": "シュウ, お-わる, お-えるshū, o-waru, o-eru"
   },
   {
     "id": "896",
@@ -9853,7 +9853,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "feel ashamed",
-    "readings": "シュウshū\n"
+    "readings": "シュウshū"
   },
   {
     "id": "897",
@@ -9864,7 +9864,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "learn",
-    "readings": "シュウ、なら-うshū, nara-u\n"
+    "readings": "シュウ, なら-うshū, nara-u"
   },
   {
     "id": "898",
@@ -9875,7 +9875,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "week",
-    "readings": "シュウshū\n"
+    "readings": "シュウshū"
   },
   {
     "id": "899",
@@ -9886,7 +9886,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "concerning",
-    "readings": "シュウ、（ジュ）、つ-く、つ-けるshū, (ju), tsu-ku, tsu-keru\n"
+    "readings": "シュウ, （ジュ）, つ-く, つ-けるshū, (ju), tsu-ku, tsu-keru"
   },
   {
     "id": "900",
@@ -9897,7 +9897,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "masses",
-    "readings": "シュウ、（シュ）shū, (shu)\n"
+    "readings": "シュウ, （シュ）shū, (shu)"
   },
   {
     "id": "901",
@@ -9908,7 +9908,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "collect",
-    "readings": "シュウ、あつ-まる、あつ-める、つど-うshū, atsu-maru, atsu-meru, tsudo-u\n"
+    "readings": "シュウ, あつ-まる, あつ-める, つど-うshū, atsu-maru, atsu-meru, tsudo-u"
   },
   {
     "id": "902",
@@ -9919,7 +9919,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "distress",
-    "readings": "シュウ、うれ-える、うれ-いshū, ure-eru, ure-i\n"
+    "readings": "シュウ, うれ-える, うれ-いshū, ure-eru, ure-i"
   },
   {
     "id": "903",
@@ -9930,7 +9930,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "repay",
-    "readings": "シュウshū\n"
+    "readings": "シュウshū"
   },
   {
     "id": "904",
@@ -9941,7 +9941,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ugly",
-    "readings": "シュウ、みにく-いshū, miniku-i\n"
+    "readings": "シュウ, みにく-いshū, miniku-i"
   },
   {
     "id": "905",
@@ -9952,7 +9952,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "kick",
-    "readings": "シュウ、け-るshū, ke-ru\n"
+    "readings": "シュウ, け-るshū, ke-ru"
   },
   {
     "id": "906",
@@ -9963,7 +9963,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "attack",
-    "readings": "シュウ、おそ-うshū, oso-u\n"
+    "readings": "シュウ, おそ-うshū, oso-u"
   },
   {
     "id": "907",
@@ -9974,7 +9974,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "ten",
-    "readings": "ジュウ、ジッ、とお、とjū, ji', too, to\n"
+    "readings": "ジュウ, ジッ, とお, とjū, ji', too, to"
   },
   {
     "id": "908",
@@ -9985,7 +9985,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "soup",
-    "readings": "ジュウ、しるjū, shiru\n"
+    "readings": "ジュウ, しるjū, shiru"
   },
   {
     "id": "909",
@@ -9996,7 +9996,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "allot",
-    "readings": "ジュウ、あ-てるjū, a-teru\n"
+    "readings": "ジュウ, あ-てるjū, a-teru"
   },
   {
     "id": "910",
@@ -10007,7 +10007,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "dwelling",
-    "readings": "ジュウ、す-む、す-まうjū, su-mu, su-mau\n"
+    "readings": "ジュウ, す-む, す-まうjū, su-mu, su-mau"
   },
   {
     "id": "911",
@@ -10018,7 +10018,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tender",
-    "readings": "ジュウ、ニュウ、やわ-らか、やわ-らかいjū, nyū, yawa-raka, yawa-rakai\n"
+    "readings": "ジュウ, ニュウ, やわ-らか, やわ-らかいjū, nyū, yawa-raka, yawa-rakai"
   },
   {
     "id": "912",
@@ -10029,7 +10029,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "heavy",
-    "readings": "ジュウ、チョウ、え、おも-い、かさ-ねる、かさ-なるjū, chō, e, omo-i, kasa-neru, kasa-naru\n"
+    "readings": "ジュウ, チョウ, え, おも-い, かさ-ねる, かさ-なるjū, chō, e, omo-i, kasa-neru, kasa-naru"
   },
   {
     "id": "913",
@@ -10040,7 +10040,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "obey",
-    "readings": "ジュウ、（ショウ）、（ジュ）、したが-う、したが-えるjū, (shō), (ju), shitaga-u, shitaga-eru\n"
+    "readings": "ジュウ, （ショウ）, （ジュ）, したが-う, したが-えるjū, (shō), (ju), shitaga-u, shitaga-eru"
   },
   {
     "id": "914",
@@ -10051,7 +10051,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "astringent",
-    "readings": "ジュウ、しぶ、しぶ-い、しぶ-るjū, shibu, shibu-i, shibu-ru\n"
+    "readings": "ジュウ, しぶ, しぶ-い, しぶ-るjū, shibu, shibu-i, shibu-ru"
   },
   {
     "id": "915",
@@ -10062,7 +10062,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "gun",
-    "readings": "ジュウjū\n"
+    "readings": "ジュウjū"
   },
   {
     "id": "916",
@@ -10073,7 +10073,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "animal",
-    "readings": "ジュウ、けものjū, kemono\n"
+    "readings": "ジュウ, けものjū, kemono"
   },
   {
     "id": "917",
@@ -10084,7 +10084,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "vertical",
-    "readings": "ジュウ、たてjū, tate\n"
+    "readings": "ジュウ, たてjū, tate"
   },
   {
     "id": "918",
@@ -10095,18 +10095,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "uncle",
-    "readings": "シュクshuku\n"
+    "readings": "シュクshuku"
   },
   {
     "id": "919",
     "new_shinjitai": "祝",
-    "old_kyujitai": "祝 [4]",
+    "old_kyujitai": "祝 [4]",
     "radical": "示",
     "strokes": "9",
     "grade": "4",
     "year_added": "",
     "english_meaning": "celebrate",
-    "readings": "シュク、（シュウ）、いわ-うshuku, (shū), iwa-u\n"
+    "readings": "シュク, （シュウ）, いわ-うshuku, (shū), iwa-u"
   },
   {
     "id": "920",
@@ -10117,7 +10117,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "inn",
-    "readings": "シュク、やど、やど-る、やど-すshuku, yado, yado-ru, yado-su\n"
+    "readings": "シュク, やど, やど-る, やど-すshuku, yado, yado-ru, yado-su"
   },
   {
     "id": "921",
@@ -10128,7 +10128,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "graceful",
-    "readings": "シュクshuku\n"
+    "readings": "シュクshuku"
   },
   {
     "id": "922",
@@ -10139,7 +10139,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "solemn",
-    "readings": "シュクshuku\n"
+    "readings": "シュクshuku"
   },
   {
     "id": "923",
@@ -10150,7 +10150,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "shrink",
-    "readings": "シュク、ちぢ-む、ちぢ-まる、ちぢ-める、ちぢ-れる、ちぢ-らすshuku, chiji-mu, chiji-maru, chiji-meru, chiji-reru, chiji-rasu\n"
+    "readings": "シュク, ちぢ-む, ちぢ-まる, ちぢ-める, ちぢ-れる, ちぢ-らすshuku, chiji-mu, chiji-maru, chiji-meru, chiji-reru, chiji-rasu"
   },
   {
     "id": "924",
@@ -10161,7 +10161,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "cram school",
-    "readings": "ジュクjuku\n"
+    "readings": "ジュクjuku"
   },
   {
     "id": "925",
@@ -10172,7 +10172,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "ripen",
-    "readings": "ジュク、う-れるjuku, u-reru\n"
+    "readings": "ジュク, う-れるjuku, u-reru"
   },
   {
     "id": "926",
@@ -10183,7 +10183,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "exit",
-    "readings": "シュツ、（スイ）、で-る、だ-すshutsu, (sui), de-ru, da-su\n"
+    "readings": "シュツ, （スイ）, で-る, だ-すshutsu, (sui), de-ru, da-su"
   },
   {
     "id": "927",
@@ -10194,7 +10194,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "mention",
-    "readings": "ジュツ、の-べるjutsu, no-beru\n"
+    "readings": "ジュツ, の-べるjutsu, no-beru"
   },
   {
     "id": "928",
@@ -10205,7 +10205,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "art",
-    "readings": "ジュツjutsu\n"
+    "readings": "ジュツjutsu"
   },
   {
     "id": "929",
@@ -10216,7 +10216,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "genius",
-    "readings": "シュンshun\n"
+    "readings": "シュンshun"
   },
   {
     "id": "930",
@@ -10227,7 +10227,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "springtime",
-    "readings": "シュン、はるshun, haru\n"
+    "readings": "シュン, はるshun, haru"
   },
   {
     "id": "931",
@@ -10238,7 +10238,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wink",
-    "readings": "シュン、またた-くshun, matata-ku\n"
+    "readings": "シュン, またた-くshun, matata-ku"
   },
   {
     "id": "932",
@@ -10249,7 +10249,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "10-day period (of the month)",
-    "readings": "ジュン、（シュン）jun, (shun)\n"
+    "readings": "ジュン, （シュン）jun, (shun)"
   },
   {
     "id": "933",
@@ -10260,7 +10260,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "patrol",
-    "readings": "ジュン、めぐ-るjun, megu-ru\n"
+    "readings": "ジュン, めぐ-るjun, megu-ru"
   },
   {
     "id": "934",
@@ -10271,7 +10271,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "shield",
-    "readings": "ジュン、たてjun, tate\n"
+    "readings": "ジュン, たてjun, tate"
   },
   {
     "id": "935",
@@ -10282,7 +10282,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "quasi-",
-    "readings": "ジュンjun\n"
+    "readings": "ジュンjun"
   },
   {
     "id": "936",
@@ -10293,7 +10293,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "martyrdom",
-    "readings": "ジュンjun\n"
+    "readings": "ジュンjun"
   },
   {
     "id": "937",
@@ -10304,7 +10304,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "genuine",
-    "readings": "ジュンjun\n"
+    "readings": "ジュンjun"
   },
   {
     "id": "938",
@@ -10315,7 +10315,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sequential",
-    "readings": "ジュンjun\n"
+    "readings": "ジュンjun"
   },
   {
     "id": "939",
@@ -10326,7 +10326,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "obey",
-    "readings": "ジュンjun\n"
+    "readings": "ジュンjun"
   },
   {
     "id": "940",
@@ -10337,7 +10337,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "standard",
-    "readings": "ジュンjun\n"
+    "readings": "ジュンjun"
   },
   {
     "id": "941",
@@ -10348,7 +10348,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wet",
-    "readings": "ジュン、うるお-う、うるお-す、うる-むjun, uruo-u, uruo-su, uru-mu\n"
+    "readings": "ジュン, うるお-う, うるお-す, うる-むjun, uruo-u, uruo-su, uru-mu"
   },
   {
     "id": "942",
@@ -10359,7 +10359,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "abide by",
-    "readings": "ジュンjun\n"
+    "readings": "ジュンjun"
   },
   {
     "id": "943",
@@ -10370,7 +10370,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "dispose",
-    "readings": "ショsho\n"
+    "readings": "ショsho"
   },
   {
     "id": "944",
@@ -10381,7 +10381,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "first",
-    "readings": "ショ、はじ-め、はじ-めて、はつ、うい、そ-めるsho, haji-me, haji-mete, hatsu, ui, so-meru\n"
+    "readings": "ショ, はじ-め, はじ-めて, はつ, うい, そ-めるsho, haji-me, haji-mete, hatsu, ui, so-meru"
   },
   {
     "id": "945",
@@ -10392,7 +10392,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "place",
-    "readings": "ショ、ところsho, tokoro\n"
+    "readings": "ショ, ところsho, tokoro"
   },
   {
     "id": "946",
@@ -10403,7 +10403,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "write",
-    "readings": "ショ、か-くsho, ka-ku\n"
+    "readings": "ショ, か-くsho, ka-ku"
   },
   {
     "id": "947",
@@ -10414,29 +10414,29 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "commoner",
-    "readings": "ショsho\n"
+    "readings": "ショsho"
   },
   {
     "id": "948",
     "new_shinjitai": "暑",
-    "old_kyujitai": "暑 [4]",
+    "old_kyujitai": "暑 [4]",
     "radical": "日",
     "strokes": "12",
     "grade": "3",
     "year_added": "",
     "english_meaning": "hot",
-    "readings": "ショ、あつ-いsho, atsu-i\n"
+    "readings": "ショ, あつ-いsho, atsu-i"
   },
   {
     "id": "949",
     "new_shinjitai": "署",
-    "old_kyujitai": "署 [4]",
+    "old_kyujitai": "署 [4]",
     "radical": "网",
     "strokes": "13",
     "grade": "6",
     "year_added": "",
     "english_meaning": "government office",
-    "readings": "ショsho\n"
+    "readings": "ショsho"
   },
   {
     "id": "950",
@@ -10447,18 +10447,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "thong",
-    "readings": "ショ、（チョ）、おsho, (cho), o\n"
+    "readings": "ショ, （チョ）, おsho, (cho), o"
   },
   {
     "id": "951",
     "new_shinjitai": "諸",
-    "old_kyujitai": "諸 [4]",
+    "old_kyujitai": "諸 [4]",
     "radical": "言",
     "strokes": "15",
     "grade": "6",
     "year_added": "",
     "english_meaning": "various",
-    "readings": "ショsho\n"
+    "readings": "ショsho"
   },
   {
     "id": "952",
@@ -10469,7 +10469,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "woman",
-    "readings": "ジョ、ニョ、（ニョウ）、おんな、めjo, nyo, (nyō), onna, me\n"
+    "readings": "ジョ, ニョ, （ニョウ）, おんな, めjo, nyo, (nyō), onna, me"
   },
   {
     "id": "953",
@@ -10480,7 +10480,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "likeness",
-    "readings": "ジョ、ニョjo, nyo\n"
+    "readings": "ジョ, ニョjo, nyo"
   },
   {
     "id": "954",
@@ -10491,7 +10491,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "help",
-    "readings": "ジョ、たす-ける、たす-かる、すけjo, tasu-keru, tasu-karu, suke\n"
+    "readings": "ジョ, たす-ける, たす-かる, すけjo, tasu-keru, tasu-karu, suke"
   },
   {
     "id": "955",
@@ -10502,7 +10502,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "preface",
-    "readings": "ジョjo\n"
+    "readings": "ジョjo"
   },
   {
     "id": "956",
@@ -10513,7 +10513,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "confer",
-    "readings": "ジョjo\n"
+    "readings": "ジョjo"
   },
   {
     "id": "957",
@@ -10524,7 +10524,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "gradually",
-    "readings": "ジョjo\n"
+    "readings": "ジョjo"
   },
   {
     "id": "958",
@@ -10535,7 +10535,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "exclude",
-    "readings": "ジョ、（ジ）、のぞ-くjo, (ji), nozo-ku\n"
+    "readings": "ジョ, （ジ）, のぞ-くjo, (ji), nozo-ku"
   },
   {
     "id": "959",
@@ -10546,7 +10546,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "small",
-    "readings": "ショウ、ちい-さい、こ、おshō, chii-sai, ko, o\n"
+    "readings": "ショウ, ちい-さい, こ, おshō, chii-sai, ko, o"
   },
   {
     "id": "960",
@@ -10557,7 +10557,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "measuring box",
-    "readings": "ショウ、ますshō, masu\n"
+    "readings": "ショウ, ますshō, masu"
   },
   {
     "id": "961",
@@ -10568,7 +10568,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "few",
-    "readings": "ショウ、すく-ない、すこ-しshō, suku-nai, suko-shi\n"
+    "readings": "ショウ, すく-ない, すこ-しshō, suku-nai, suko-shi"
   },
   {
     "id": "962",
@@ -10579,7 +10579,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "summon",
-    "readings": "ショウ、め-すshō, me-su\n"
+    "readings": "ショウ, め-すshō, me-su"
   },
   {
     "id": "963",
@@ -10590,7 +10590,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "artisan",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "964",
@@ -10601,7 +10601,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bed",
-    "readings": "ショウ、とこ、ゆかshō, toko, yuka\n"
+    "readings": "ショウ, とこ, ゆかshō, toko, yuka"
   },
   {
     "id": "965",
@@ -10612,7 +10612,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "extract",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "966",
@@ -10623,7 +10623,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "resemblance",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "967",
@@ -10634,7 +10634,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "esteem",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "968",
@@ -10645,7 +10645,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "beckon",
-    "readings": "ショウ、まね-くshō, mane-ku\n"
+    "readings": "ショウ, まね-くshō, mane-ku"
   },
   {
     "id": "969",
@@ -10656,7 +10656,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "acquiesce",
-    "readings": "ショウ、うけたまわ-るshō, uketamawa-ru\n"
+    "readings": "ショウ, うけたまわ-るshō, uketamawa-ru"
   },
   {
     "id": "970",
@@ -10667,7 +10667,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rise up",
-    "readings": "ショウ、のぼ-るshō, nobo-ru\n"
+    "readings": "ショウ, のぼ-るshō, nobo-ru"
   },
   {
     "id": "971",
@@ -10678,7 +10678,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "pine",
-    "readings": "ショウ、まつshō, matsu\n"
+    "readings": "ショウ, まつshō, matsu"
   },
   {
     "id": "972",
@@ -10689,7 +10689,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "marsh",
-    "readings": "ショウ、ぬまshō, numa\n"
+    "readings": "ショウ, ぬまshō, numa"
   },
   {
     "id": "973",
@@ -10700,7 +10700,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "shining",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "974",
@@ -10711,7 +10711,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "wee hours",
-    "readings": "ショウ、よいshō, yoi\n"
+    "readings": "ショウ, よいshō, yoi"
   },
   {
     "id": "975",
@@ -10722,7 +10722,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "leader",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "976",
@@ -10733,7 +10733,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "extinguish",
-    "readings": "ショウ、き-える、け-すshō, ki-eru, ke-su\n"
+    "readings": "ショウ, き-える, け-すshō, ki-eru, ke-su"
   },
   {
     "id": "977",
@@ -10744,18 +10744,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "symptoms",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "978",
     "new_shinjitai": "祥",
-    "old_kyujitai": "祥 [4]",
+    "old_kyujitai": "祥 [4]",
     "radical": "示",
     "strokes": "10",
     "grade": "S",
     "year_added": "",
     "english_meaning": "auspicious",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "979",
@@ -10766,7 +10766,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "appellation",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "980",
@@ -10777,7 +10777,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "laugh",
-    "readings": "ショウ、わら-う、え-むshō, wara-u, e-mu\n"
+    "readings": "ショウ, わら-う, え-むshō, wara-u, e-mu"
   },
   {
     "id": "981",
@@ -10788,7 +10788,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "chant",
-    "readings": "ショウ、とな-えるshō, tona-eru\n"
+    "readings": "ショウ, とな-えるshō, tona-eru"
   },
   {
     "id": "982",
@@ -10799,7 +10799,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "sell",
-    "readings": "ショウ、あきな-うshō, akina-u\n"
+    "readings": "ショウ, あきな-うshō, akina-u"
   },
   {
     "id": "983",
@@ -10810,7 +10810,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ford",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "984",
@@ -10821,7 +10821,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "chapter",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "985",
@@ -10832,7 +10832,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "introduce",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "986",
@@ -10843,7 +10843,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sue",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "987",
@@ -10854,7 +10854,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "win",
-    "readings": "ショウ、か-つ、まさ-るshō, ka-tsu, masa-ru\n"
+    "readings": "ショウ, か-つ, まさ-るshō, ka-tsu, masa-ru"
   },
   {
     "id": "988",
@@ -10865,7 +10865,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "manipulate",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "989",
@@ -10876,7 +10876,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sparkle",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "990",
@@ -10887,7 +10887,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "bake",
-    "readings": "ショウ、や-く、や-けるshō, ya-ku, ya-keru\n"
+    "readings": "ショウ, や-く, や-けるshō, ya-ku, ya-keru"
   },
   {
     "id": "991",
@@ -10898,7 +10898,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "char",
-    "readings": "ショウ、こ-げる、こ-がす、こ-がれる、あせ-るshō, ko-geru, ko-gasu, ko-gareru, ase-ru\n"
+    "readings": "ショウ, こ-げる, こ-がす, こ-がれる, あせ-るshō, ko-geru, ko-gasu, ko-gareru, ase-ru"
   },
   {
     "id": "992",
@@ -10909,7 +10909,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "nitrate",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "993",
@@ -10920,7 +10920,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cosmetics",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "994",
@@ -10931,7 +10931,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "imperial edict",
-    "readings": "ショウ、みことのりshō, mikotonori\n"
+    "readings": "ショウ, みことのりshō, mikotonori"
   },
   {
     "id": "995",
@@ -10942,7 +10942,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "evidence",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "996",
@@ -10953,7 +10953,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "elephant",
-    "readings": "ショウ、ゾウshō, zō\n"
+    "readings": "ショウ, ゾウshō, zō"
   },
   {
     "id": "997",
@@ -10964,7 +10964,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "wound",
-    "readings": "ショウ、きず、いた-む、いた-めるshō, kizu, ita-mu, ita-meru\n"
+    "readings": "ショウ, きず, いた-む, いた-めるshō, kizu, ita-mu, ita-meru"
   },
   {
     "id": "998",
@@ -10975,7 +10975,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "exhort",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "999",
@@ -10986,7 +10986,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "illuminate",
-    "readings": "ショウ、て-る、て-らす、て-れるshō, te-ru, te-rasu, te-reru\n"
+    "readings": "ショウ, て-る, て-らす, て-れるshō, te-ru, te-rasu, te-reru"
   },
   {
     "id": "1000",
@@ -10997,7 +10997,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "detailed",
-    "readings": "ショウ、くわ-しいshō, kuwa-shii\n"
+    "readings": "ショウ, くわ-しいshō, kuwa-shii"
   },
   {
     "id": "1001",
@@ -11008,7 +11008,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "patent",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "1002",
@@ -11019,7 +11019,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "hurt",
-    "readings": "ショウ、さわ-るshō, sawa-ru\n"
+    "readings": "ショウ, さわ-るshō, sawa-ru"
   },
   {
     "id": "1003",
@@ -11030,7 +11030,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "desire",
-    "readings": "ショウ、あこが-れるshō, akoga-reru\n"
+    "readings": "ショウ, あこが-れるshō, akoga-reru"
   },
   {
     "id": "1004",
@@ -11041,7 +11041,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "collide",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "1005",
@@ -11052,7 +11052,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "prize",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "1006",
@@ -11063,7 +11063,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "reparation",
-    "readings": "ショウ、つぐな-うshō, tsuguna-u\n"
+    "readings": "ショウ, つぐな-うshō, tsuguna-u"
   },
   {
     "id": "1007",
@@ -11074,7 +11074,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "reef",
-    "readings": "ショウshō\n"
+    "readings": "ショウshō"
   },
   {
     "id": "1008",
@@ -11085,7 +11085,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bell",
-    "readings": "ショウ、かねshō, kane\n"
+    "readings": "ショウ, かねshō, kane"
   },
   {
     "id": "1009",
@@ -11096,7 +11096,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "up",
-    "readings": "ジョウ、（ショウ）、うえ、（うわ）、かみ、あ-げる、あ-がる、のぼ-る、のぼ-せる、のぼ-すjō, (shō), ue, (uwa), kami, a-geru, a-garu, nobo-ru, nobo-seru, nobo-su\n"
+    "readings": "ジョウ, （ショウ）, うえ, （うわ）, かみ, あ-げる, あ-がる, のぼ-る, のぼ-せる, のぼ-すjō, (shō), ue, (uwa), kami, a-geru, a-garu, nobo-ru, nobo-seru, nobo-su"
   },
   {
     "id": "1010",
@@ -11107,7 +11107,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "length",
-    "readings": "ジョウ、たけjō, take\n"
+    "readings": "ジョウ, たけjō, take"
   },
   {
     "id": "1011",
@@ -11118,7 +11118,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "superfluous",
-    "readings": "ジョウjō\n"
+    "readings": "ジョウjō"
   },
   {
     "id": "1012",
@@ -11129,7 +11129,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "clause",
-    "readings": "ジョウjō\n"
+    "readings": "ジョウjō"
   },
   {
     "id": "1013",
@@ -11140,7 +11140,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "form",
-    "readings": "ジョウjō\n"
+    "readings": "ジョウjō"
   },
   {
     "id": "1014",
@@ -11151,7 +11151,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "ride",
-    "readings": "ジョウ、の-る、の-せるjō, no-ru, no-seru\n"
+    "readings": "ジョウ, の-る, の-せるjō, no-ru, no-seru"
   },
   {
     "id": "1015",
@@ -11162,7 +11162,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "castle",
-    "readings": "ジョウ、しろjō, shiro\n"
+    "readings": "ジョウ, しろjō, shiro"
   },
   {
     "id": "1016",
@@ -11173,7 +11173,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "clean",
-    "readings": "ジョウjō\n"
+    "readings": "ジョウjō"
   },
   {
     "id": "1017",
@@ -11184,7 +11184,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "surplus",
-    "readings": "ジョウjō\n"
+    "readings": "ジョウjō"
   },
   {
     "id": "1018",
@@ -11195,7 +11195,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "normal",
-    "readings": "ジョウ、つね、とこjō, tsune, toko\n"
+    "readings": "ジョウ, つね, とこjō, tsune, toko"
   },
   {
     "id": "1019",
@@ -11206,7 +11206,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "feelings",
-    "readings": "ジョウ、（セイ）、なさ-けjō, (sei), nasa-ke\n"
+    "readings": "ジョウ, （セイ）, なさ-けjō, (sei), nasa-ke"
   },
   {
     "id": "1020",
@@ -11217,7 +11217,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "place",
-    "readings": "ジョウ、ばjō, ba\n"
+    "readings": "ジョウ, ばjō, ba"
   },
   {
     "id": "1021",
@@ -11228,7 +11228,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tatami mat",
-    "readings": "ジョウ、たた-む、たたみjō, tata-mu, tatami\n"
+    "readings": "ジョウ, たた-む, たたみjō, tata-mu, tatami"
   },
   {
     "id": "1022",
@@ -11239,7 +11239,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "steam",
-    "readings": "ジョウ、む-す、む-れる、む-らすjō, mu-su, mu-reru, mu-rasu\n"
+    "readings": "ジョウ, む-す, む-れる, む-らすjō, mu-su, mu-reru, mu-rasu"
   },
   {
     "id": "1023",
@@ -11250,7 +11250,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "1981",
     "english_meaning": "straw rope",
-    "readings": "ジョウ、なわjō, nawa\n"
+    "readings": "ジョウ, なわjō, nawa"
   },
   {
     "id": "1024",
@@ -11261,7 +11261,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "lot",
-    "readings": "ジョウjō\n"
+    "readings": "ジョウjō"
   },
   {
     "id": "1025",
@@ -11272,7 +11272,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lass",
-    "readings": "ジョウjō\n"
+    "readings": "ジョウjō"
   },
   {
     "id": "1026",
@@ -11283,7 +11283,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lock",
-    "readings": "ジョウjō\n"
+    "readings": "ジョウjō"
   },
   {
     "id": "1027",
@@ -11294,7 +11294,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "defer",
-    "readings": "ジョウ、ゆず-るjō, yuzu-ru\n"
+    "readings": "ジョウ, ゆず-るjō, yuzu-ru"
   },
   {
     "id": "1028",
@@ -11305,7 +11305,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "brew",
-    "readings": "ジョウ、かも-すjō, kamo-su\n"
+    "readings": "ジョウ, かも-すjō, kamo-su"
   },
   {
     "id": "1029",
@@ -11316,7 +11316,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "color",
-    "readings": "ショク、シキ、いろshoku, shiki, iro\n"
+    "readings": "ショク, シキ, いろshoku, shiki, iro"
   },
   {
     "id": "1030",
@@ -11327,7 +11327,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "wipe",
-    "readings": "ショク、ふ-く、ぬぐ-うshoku, fu-ku, nugu-u\n"
+    "readings": "ショク, ふ-く, ぬぐ-うshoku, fu-ku, nugu-u"
   },
   {
     "id": "1031",
@@ -11338,7 +11338,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "eat, meal",
-    "readings": "ショク、（ジキ）、く-う、く-らう、た-べるshoku, (jiki), ku-u, ku-rau, ta-beru\n"
+    "readings": "ショク, （ジキ）, く-う, く-らう, た-べるshoku, (jiki), ku-u, ku-rau, ta-beru"
   },
   {
     "id": "1032",
@@ -11349,7 +11349,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "plant",
-    "readings": "ショク、う-える、う-わるshoku, u-eru, u-waru\n"
+    "readings": "ショク, う-える, う-わるshoku, u-eru, u-waru"
   },
   {
     "id": "1033",
@@ -11360,7 +11360,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "augment",
-    "readings": "ショク、ふ-える、ふ-やすshoku, fu-eru, fu-yasu\n"
+    "readings": "ショク, ふ-える, ふ-やすshoku, fu-eru, fu-yasu"
   },
   {
     "id": "1034",
@@ -11371,7 +11371,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "decorate",
-    "readings": "ショク、かざ-るshoku, kaza-ru\n"
+    "readings": "ショク, かざ-るshoku, kaza-ru"
   },
   {
     "id": "1035",
@@ -11382,7 +11382,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "contact",
-    "readings": "ショク、ふ-れる、さわ-るshoku, fu-reru, sawa-ru\n"
+    "readings": "ショク, ふ-れる, さわ-るshoku, fu-reru, sawa-ru"
   },
   {
     "id": "1036",
@@ -11393,7 +11393,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "entrust",
-    "readings": "ショクshoku\n"
+    "readings": "ショクshoku"
   },
   {
     "id": "1037",
@@ -11404,7 +11404,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "weave",
-    "readings": "ショク、シキ、お-るshoku, shiki, o-ru\n"
+    "readings": "ショク, シキ, お-るshoku, shiki, o-ru"
   },
   {
     "id": "1038",
@@ -11415,7 +11415,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "employment",
-    "readings": "ショクshoku\n"
+    "readings": "ショクshoku"
   },
   {
     "id": "1039",
@@ -11426,7 +11426,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "embarrass",
-    "readings": "ジョク、はずかし-めるjoku, hazukashi-meru\n"
+    "readings": "ジョク, はずかし-めるjoku, hazukashi-meru"
   },
   {
     "id": "1040",
@@ -11437,7 +11437,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "buttocks",
-    "readings": "しりshiri\n"
+    "readings": "しりshiri"
   },
   {
     "id": "1041",
@@ -11448,7 +11448,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "heart",
-    "readings": "シン、こころshin, kokoro\n"
+    "readings": "シン, こころshin, kokoro"
   },
   {
     "id": "1042",
@@ -11459,7 +11459,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "say",
-    "readings": "シン、もう-すshin, mō-su\n"
+    "readings": "シン, もう-すshin, mō-su"
   },
   {
     "id": "1043",
@@ -11470,7 +11470,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lengthen",
-    "readings": "シン、の-びる、の-ばす、の-べるshin, no-biru, no-basu, no-beru\n"
+    "readings": "シン, の-びる, の-ばす, の-べるshin, no-biru, no-basu, no-beru"
   },
   {
     "id": "1044",
@@ -11481,7 +11481,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "retainer",
-    "readings": "シン、ジンshin, jin\n"
+    "readings": "シン, ジンshin, jin"
   },
   {
     "id": "1045",
@@ -11492,7 +11492,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "core",
-    "readings": "シンshin\n"
+    "readings": "シンshin"
   },
   {
     "id": "1046",
@@ -11503,7 +11503,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "body",
-    "readings": "シン、みshin, mi\n"
+    "readings": "シン, みshin, mi"
   },
   {
     "id": "1047",
@@ -11514,7 +11514,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "spicy",
-    "readings": "シン、から-いshin, kara-i\n"
+    "readings": "シン, から-いshin, kara-i"
   },
   {
     "id": "1048",
@@ -11525,7 +11525,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "encroach",
-    "readings": "シン、おか-すshin, oka-su\n"
+    "readings": "シン, おか-すshin, oka-su"
   },
   {
     "id": "1049",
@@ -11536,7 +11536,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "trust",
-    "readings": "シンshin\n"
+    "readings": "シンshin"
   },
   {
     "id": "1050",
@@ -11547,18 +11547,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "haven",
-    "readings": "シン、つshin, tsu\n"
+    "readings": "シン, つshin, tsu"
   },
   {
     "id": "1051",
     "new_shinjitai": "神",
-    "old_kyujitai": "神 [4]",
+    "old_kyujitai": "神 [4]",
     "radical": "示",
     "strokes": "9",
     "grade": "3",
     "year_added": "",
     "english_meaning": "god",
-    "readings": "シン、ジン、かみ、（かん）、（こう）shin, jin, kami, (kan), (kō)\n"
+    "readings": "シン, ジン, かみ, （かん）, （こう）shin, jin, kami, (kan), (kō)"
   },
   {
     "id": "1052",
@@ -11569,7 +11569,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "lips",
-    "readings": "シン、くちびるshin, kuchibiru\n"
+    "readings": "シン, くちびるshin, kuchibiru"
   },
   {
     "id": "1053",
@@ -11580,7 +11580,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "with child",
-    "readings": "シンshin\n"
+    "readings": "シンshin"
   },
   {
     "id": "1054",
@@ -11591,7 +11591,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "shake",
-    "readings": "シン、ふ-る、ふ-るう、ふ-れるshin, fu-ru, fu-rū, fu-reru\n"
+    "readings": "シン, ふ-る, ふ-るう, ふ-れるshin, fu-ru, fu-rū, fu-reru"
   },
   {
     "id": "1055",
@@ -11602,7 +11602,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "immersed",
-    "readings": "シン、ひた-す、ひた-るshin, hita-su, hita-ru\n"
+    "readings": "シン, ひた-す, ひた-るshin, hita-su, hita-ru"
   },
   {
     "id": "1056",
@@ -11613,7 +11613,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "true",
-    "readings": "シン、まshin, ma\n"
+    "readings": "シン, まshin, ma"
   },
   {
     "id": "1057",
@@ -11624,7 +11624,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "needle",
-    "readings": "シン、はりshin, hari\n"
+    "readings": "シン, はりshin, hari"
   },
   {
     "id": "1058",
@@ -11635,7 +11635,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "deep",
-    "readings": "シン、ふか-い、ふか-まる、ふか-めるshin, fuka-i, fuka-maru, fuka-meru\n"
+    "readings": "シン, ふか-い, ふか-まる, ふか-めるshin, fuka-i, fuka-maru, fuka-meru"
   },
   {
     "id": "1059",
@@ -11646,7 +11646,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sire",
-    "readings": "シンshin\n"
+    "readings": "シンshin"
   },
   {
     "id": "1060",
@@ -11657,7 +11657,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "advance",
-    "readings": "シン、すす-む、すす-めるshin, susu-mu, susu-meru\n"
+    "readings": "シン, すす-む, すす-めるshin, susu-mu, susu-meru"
   },
   {
     "id": "1061",
@@ -11668,7 +11668,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "forest",
-    "readings": "シン、もりshin, mori\n"
+    "readings": "シン, もりshin, mori"
   },
   {
     "id": "1062",
@@ -11679,7 +11679,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "checkup",
-    "readings": "シン、み-るshin, mi-ru\n"
+    "readings": "シン, み-るshin, mi-ru"
   },
   {
     "id": "1063",
@@ -11690,7 +11690,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lie down",
-    "readings": "シン、ね-る、ね-かすshin, ne-ru, ne-kasu\n"
+    "readings": "シン, ね-る, ね-かすshin, ne-ru, ne-kasu"
   },
   {
     "id": "1064",
@@ -11701,7 +11701,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "humility",
-    "readings": "シン、つつし-むshin, tsutsushi-mu\n"
+    "readings": "シン, つつし-むshin, tsutsushi-mu"
   },
   {
     "id": "1065",
@@ -11712,7 +11712,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "new",
-    "readings": "シン、あたら-しい、あら-た、にいshin, atara-shii, ara-ta, nii\n"
+    "readings": "シン, あたら-しい, あら-た, にいshin, atara-shii, ara-ta, nii"
   },
   {
     "id": "1066",
@@ -11723,7 +11723,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "examine",
-    "readings": "シンshin\n"
+    "readings": "シンshin"
   },
   {
     "id": "1067",
@@ -11734,7 +11734,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "quake",
-    "readings": "シン、ふる-う、ふる-えるshin, furu-u, furu-eru\n"
+    "readings": "シン, ふる-う, ふる-えるshin, furu-u, furu-eru"
   },
   {
     "id": "1068",
@@ -11745,7 +11745,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fuel",
-    "readings": "シン、たきぎshin, takigi\n"
+    "readings": "シン, たきぎshin, takigi"
   },
   {
     "id": "1069",
@@ -11756,7 +11756,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "parent",
-    "readings": "シン、おや、した-しい、した-しむshin, oya, shita-shii, shita-shimu\n"
+    "readings": "シン, おや, した-しい, した-しむshin, oya, shita-shii, shita-shimu"
   },
   {
     "id": "1070",
@@ -11767,7 +11767,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "person",
-    "readings": "ジン、ニン、ひとjin, nin, hito\n"
+    "readings": "ジン, ニン, ひとjin, nin, hito"
   },
   {
     "id": "1071",
@@ -11778,7 +11778,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "blade",
-    "readings": "ジン、はjin, ha\n"
+    "readings": "ジン, はjin, ha"
   },
   {
     "id": "1072",
@@ -11789,7 +11789,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "humanity",
-    "readings": "ジン、（ニ）jin, (ni)\n"
+    "readings": "ジン, （ニ）jin, (ni)"
   },
   {
     "id": "1073",
@@ -11800,7 +11800,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "exhaust",
-    "readings": "ジン、つ-くす、つ-きる、つ-かすjin, tsu-kusu, tsu-kiru, tsu-kasu\n"
+    "readings": "ジン, つ-くす, つ-きる, つ-かすjin, tsu-kusu, tsu-kiru, tsu-kasu"
   },
   {
     "id": "1074",
@@ -11811,7 +11811,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "swift",
-    "readings": "ジンjin\n"
+    "readings": "ジンjin"
   },
   {
     "id": "1075",
@@ -11822,7 +11822,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "tremendously",
-    "readings": "ジン、はなは-だ、はなは-だしいjin, hanaha-da, hanaha-dashii\n"
+    "readings": "ジン, はなは-だ, はなは-だしいjin, hanaha-da, hanaha-dashii"
   },
   {
     "id": "1076",
@@ -11833,7 +11833,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "camp",
-    "readings": "ジンjin\n"
+    "readings": "ジンjin"
   },
   {
     "id": "1077",
@@ -11844,7 +11844,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "inquire",
-    "readings": "ジン、たず-ねるjin, tazu-neru\n"
+    "readings": "ジン, たず-ねるjin, tazu-neru"
   },
   {
     "id": "1078",
@@ -11855,7 +11855,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "kidney",
-    "readings": "ジンjin\n"
+    "readings": "ジンjin"
   },
   {
     "id": "1079",
@@ -11866,7 +11866,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "by all means",
-    "readings": "スsu\n"
+    "readings": "スsu"
   },
   {
     "id": "1080",
@@ -11877,7 +11877,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "diagram",
-    "readings": "ズ、ト、はか-るzu, to, haka-ru\n"
+    "readings": "ズ, ト, はか-るzu, to, haka-ru"
   },
   {
     "id": "1081",
@@ -11888,7 +11888,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "water",
-    "readings": "スイ、みずsui, mizu\n"
+    "readings": "スイ, みずsui, mizu"
   },
   {
     "id": "1082",
@@ -11899,7 +11899,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "blow",
-    "readings": "スイ、ふ-くsui, fu-ku\n"
+    "readings": "スイ, ふ-くsui, fu-ku"
   },
   {
     "id": "1083",
@@ -11910,7 +11910,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "droop",
-    "readings": "スイ、た-れる、た-らすsui, ta-reru, ta-rasu\n"
+    "readings": "スイ, た-れる, た-らすsui, ta-reru, ta-rasu"
   },
   {
     "id": "1084",
@@ -11921,7 +11921,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cook",
-    "readings": "スイ、た-くsui, ta-ku\n"
+    "readings": "スイ, た-くsui, ta-ku"
   },
   {
     "id": "1085",
@@ -11932,7 +11932,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "commander",
-    "readings": "スイsui\n"
+    "readings": "スイsui"
   },
   {
     "id": "1086",
@@ -11943,7 +11943,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "chic",
-    "readings": "スイ、いきsui, iki\n"
+    "readings": "スイ, いきsui, iki"
   },
   {
     "id": "1087",
@@ -11954,7 +11954,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "decline",
-    "readings": "スイ、おとろ-えるsui, otoro-eru\n"
+    "readings": "スイ, おとろ-えるsui, otoro-eru"
   },
   {
     "id": "1088",
@@ -11965,7 +11965,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "infer",
-    "readings": "スイ、お-すsui, o-su\n"
+    "readings": "スイ, お-すsui, o-su"
   },
   {
     "id": "1089",
@@ -11976,7 +11976,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "drunk",
-    "readings": "スイ、よ-うsui, yo-u\n"
+    "readings": "スイ, よ-うsui, yo-u"
   },
   {
     "id": "1090",
@@ -11987,7 +11987,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "consummate",
-    "readings": "スイ、と-げるsui, to-geru\n"
+    "readings": "スイ, と-げるsui, to-geru"
   },
   {
     "id": "1091",
@@ -11998,7 +11998,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "drowsy",
-    "readings": "スイsui\n"
+    "readings": "スイsui"
   },
   {
     "id": "1092",
@@ -12009,7 +12009,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ear",
-    "readings": "スイ、ほsui, ho\n"
+    "readings": "スイ, ほsui, ho"
   },
   {
     "id": "1093",
@@ -12020,7 +12020,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "follow",
-    "readings": "ズイzui\n"
+    "readings": "ズイzui"
   },
   {
     "id": "1094",
@@ -12031,7 +12031,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "marrow",
-    "readings": "ズイzui\n"
+    "readings": "ズイzui"
   },
   {
     "id": "1095",
@@ -12042,7 +12042,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hinge",
-    "readings": "スウsū\n"
+    "readings": "スウsū"
   },
   {
     "id": "1096",
@@ -12053,7 +12053,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "adore",
-    "readings": "スウsū\n"
+    "readings": "スウsū"
   },
   {
     "id": "1097",
@@ -12064,7 +12064,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "number",
-    "readings": "スウ、（ス）、かず、かぞ-えるsū, (su), kazu, kazo-eru\n"
+    "readings": "スウ, （ス）, かず, かぞ-えるsū, (su), kazu, kazo-eru"
   },
   {
     "id": "1098",
@@ -12075,7 +12075,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "set",
-    "readings": "す-える、す-わるsu-eru, su-waru\n"
+    "readings": "す-える, す-わるsu-eru, su-waru"
   },
   {
     "id": "1099",
@@ -12086,7 +12086,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "cedar",
-    "readings": "すぎsugi\n"
+    "readings": "すぎsugi"
   },
   {
     "id": "1100",
@@ -12097,7 +12097,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "cuff",
-    "readings": "すそsuso\n"
+    "readings": "すそsuso"
   },
   {
     "id": "1101",
@@ -12108,7 +12108,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "measurement",
-    "readings": "スンsun\n"
+    "readings": "スンsun"
   },
   {
     "id": "1102",
@@ -12119,7 +12119,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rapids",
-    "readings": "せse\n"
+    "readings": "せse"
   },
   {
     "id": "1103",
@@ -12130,7 +12130,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "just so",
-    "readings": "ゼze\n"
+    "readings": "ゼze"
   },
   {
     "id": "1104",
@@ -12141,7 +12141,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "well",
-    "readings": "セイ、（ショウ）、いsei, (shō), i\n"
+    "readings": "セイ, （ショウ）, いsei, (shō), i"
   },
   {
     "id": "1105",
@@ -12152,7 +12152,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "world",
-    "readings": "セイ、セ、よsei, se, yo\n"
+    "readings": "セイ, セ, よsei, se, yo"
   },
   {
     "id": "1106",
@@ -12163,7 +12163,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "correct",
-    "readings": "セイ、ショウ、ただ-しい、ただ-す、まさsei, shō, tada-shii, tada-su, masa\n"
+    "readings": "セイ, ショウ, ただ-しい, ただ-す, まさsei, shō, tada-shii, tada-su, masa"
   },
   {
     "id": "1107",
@@ -12174,7 +12174,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "life",
-    "readings": "セイ、ショウ、い-きる、い-かす、い-ける、う-まれる、う-む、お-う、は-える、は-やす、き、なまsei, shō, i-kiru, i-kasu, i-keru, u-mareru, u-mu, o-u, ha-eru, ha-yasu, ki, nama\n"
+    "readings": "セイ, ショウ, い-きる, い-かす, い-ける, う-まれる, う-む, お-う, は-える, は-やす, き, なまsei, shō, i-kiru, i-kasu, i-keru, u-mareru, u-mu, o-u, ha-eru, ha-yasu, ki, nama"
   },
   {
     "id": "1108",
@@ -12185,7 +12185,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "become",
-    "readings": "セイ、（ジョウ）、な-る、な-すsei, (jō), na-ru, na-su\n"
+    "readings": "セイ, （ジョウ）, な-る, な-すsei, (jō), na-ru, na-su"
   },
   {
     "id": "1109",
@@ -12196,7 +12196,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "west",
-    "readings": "セイ、サイ、にしsei, sai, nishi\n"
+    "readings": "セイ, サイ, にしsei, sai, nishi"
   },
   {
     "id": "1110",
@@ -12207,7 +12207,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "voice",
-    "readings": "セイ、（ショウ）、こえ、（こわ）sei, (shō), koe, (kowa)\n"
+    "readings": "セイ, （ショウ）, こえ, （こわ）sei, (shō), koe, (kowa)"
   },
   {
     "id": "1111",
@@ -12218,7 +12218,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "control",
-    "readings": "セイsei\n"
+    "readings": "セイsei"
   },
   {
     "id": "1112",
@@ -12229,7 +12229,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "surname",
-    "readings": "セイ、ショウsei, shō\n"
+    "readings": "セイ, ショウsei, shō"
   },
   {
     "id": "1113",
@@ -12240,7 +12240,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "subjugate",
-    "readings": "セイsei\n"
+    "readings": "セイsei"
   },
   {
     "id": "1114",
@@ -12251,7 +12251,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "gender",
-    "readings": "セイ、ショウsei, shō\n"
+    "readings": "セイ, ショウsei, shō"
   },
   {
     "id": "1115",
@@ -12262,7 +12262,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "blue",
-    "readings": "セイ、（ショウ）、あお、あお-いsei, (shō), ao, ao-i\n"
+    "readings": "セイ, （ショウ）, あお, あお-いsei, (shō), ao, ao-i"
   },
   {
     "id": "1116",
@@ -12273,7 +12273,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "adjusted",
-    "readings": "セイsei\n"
+    "readings": "セイsei"
   },
   {
     "id": "1117",
@@ -12284,7 +12284,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "politics",
-    "readings": "セイ、（ショウ）、まつりごとsei, (shō), matsurigoto\n"
+    "readings": "セイ, （ショウ）, まつりごとsei, (shō), matsurigoto"
   },
   {
     "id": "1118",
@@ -12295,7 +12295,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "star",
-    "readings": "セイ、（ショウ）、ほしsei, (shō), hoshi\n"
+    "readings": "セイ, （ショウ）, ほしsei, (shō), hoshi"
   },
   {
     "id": "1119",
@@ -12306,7 +12306,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "animal sacrifice",
-    "readings": "セイsei\n"
+    "readings": "セイsei"
   },
   {
     "id": "1120",
@@ -12317,7 +12317,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "government ministry",
-    "readings": "セイ、ショウ、かえり-みる、はぶ-くsei, shō, kaeri-miru, habu-ku\n"
+    "readings": "セイ, ショウ, かえり-みる, はぶ-くsei, shō, kaeri-miru, habu-ku"
   },
   {
     "id": "1121",
@@ -12328,7 +12328,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "uncanny",
-    "readings": "セイsei\n"
+    "readings": "セイsei"
   },
   {
     "id": "1122",
@@ -12339,7 +12339,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "departed",
-    "readings": "セイ、ゆ-く、い-くsei, yu-ku, i-ku\n"
+    "readings": "セイ, ゆ-く, い-くsei, yu-ku, i-ku"
   },
   {
     "id": "1123",
@@ -12350,7 +12350,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "pure",
-    "readings": "セイ、（ショウ）、きよ-い、きよ-まる、きよ-めるsei, (shō), kiyo-i, kiyo-maru, kiyo-meru\n"
+    "readings": "セイ, （ショウ）, きよ-い, きよ-まる, きよ-めるsei, (shō), kiyo-i, kiyo-maru, kiyo-meru"
   },
   {
     "id": "1124",
@@ -12361,7 +12361,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "prosper",
-    "readings": "セイ、（ジョウ）、も-る、さか-る、さか-んsei, (jō), mo-ru, saka-ru, saka-n\n"
+    "readings": "セイ, （ジョウ）, も-る, さか-る, さか-んsei, (jō), mo-ru, saka-ru, saka-n"
   },
   {
     "id": "1125",
@@ -12372,7 +12372,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bridegroom",
-    "readings": "セイ、むこsei, muko\n"
+    "readings": "セイ, むこsei, muko"
   },
   {
     "id": "1126",
@@ -12383,7 +12383,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "clear up",
-    "readings": "セイ、は-れる、は-らすsei, ha-reru, ha-rasu\n"
+    "readings": "セイ, は-れる, は-らすsei, ha-reru, ha-rasu"
   },
   {
     "id": "1127",
@@ -12394,7 +12394,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "power",
-    "readings": "セイ、いきお-いsei, ikio-i\n"
+    "readings": "セイ, いきお-いsei, ikio-i"
   },
   {
     "id": "1128",
@@ -12405,7 +12405,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "holy",
-    "readings": "セイsei\n"
+    "readings": "セイsei"
   },
   {
     "id": "1129",
@@ -12416,7 +12416,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "sincerity",
-    "readings": "セイ、まことsei, makoto\n"
+    "readings": "セイ, まことsei, makoto"
   },
   {
     "id": "1130",
@@ -12427,7 +12427,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "refined",
-    "readings": "セイ、（ショウ）sei, (shō)\n"
+    "readings": "セイ, （ショウ）sei, (shō)"
   },
   {
     "id": "1131",
@@ -12438,7 +12438,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "manufacture",
-    "readings": "セイsei\n"
+    "readings": "セイsei"
   },
   {
     "id": "1132",
@@ -12449,7 +12449,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "vow",
-    "readings": "セイ、ちか-うsei, chika-u\n"
+    "readings": "セイ, ちか-うsei, chika-u"
   },
   {
     "id": "1133",
@@ -12460,7 +12460,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "quiet",
-    "readings": "セイ、（ジョウ）、しず、しず-か、しず-まる、しず-めるsei, (jō), shizu, shizu-ka, shizu-maru, shizu-meru\n"
+    "readings": "セイ, （ジョウ）, しず, しず-か, しず-まる, しず-めるsei, (jō), shizu, shizu-ka, shizu-maru, shizu-meru"
   },
   {
     "id": "1134",
@@ -12471,7 +12471,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "solicit",
-    "readings": "セイ、（シン）、こ-う、う-けるsei, (shin), ko-u, u-keru\n"
+    "readings": "セイ, （シン）, こ-う, う-けるsei, (shin), ko-u, u-keru"
   },
   {
     "id": "1135",
@@ -12482,7 +12482,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "put in order",
-    "readings": "セイ、ととの-える、ととの-うsei, totono-eru, totono-u\n"
+    "readings": "セイ, ととの-える, ととの-うsei, totono-eru, totono-u"
   },
   {
     "id": "1136",
@@ -12493,7 +12493,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "be disillusioned",
-    "readings": "セイsei\n"
+    "readings": "セイsei"
   },
   {
     "id": "1137",
@@ -12504,7 +12504,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "tax",
-    "readings": "ゼイzei\n"
+    "readings": "ゼイzei"
   },
   {
     "id": "1138",
@@ -12515,7 +12515,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "evening",
-    "readings": "セキ、ゆうseki, yū\n"
+    "readings": "セキ, ゆうseki, yū"
   },
   {
     "id": "1139",
@@ -12526,7 +12526,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "reject",
-    "readings": "セキseki\n"
+    "readings": "セキseki"
   },
   {
     "id": "1140",
@@ -12537,7 +12537,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "stone",
-    "readings": "セキ、（シャク）、（コク）、いしseki, (shaku), (koku), ishi\n"
+    "readings": "セキ, （シャク）, （コク）, いしseki, (shaku), (koku), ishi"
   },
   {
     "id": "1141",
@@ -12548,7 +12548,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "red",
-    "readings": "セキ、（シャク）、あか、あか-い、あか-らむ、あか-らめるseki, (shaku), aka, aka-i, aka-ramu, aka-rameru\n"
+    "readings": "セキ, （シャク）, あか, あか-い, あか-らむ, あか-らめるseki, (shaku), aka, aka-i, aka-ramu, aka-rameru"
   },
   {
     "id": "1142",
@@ -12559,7 +12559,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "long ago",
-    "readings": "セキ、（シャク）、むかしseki, (shaku), mukashi\n"
+    "readings": "セキ, （シャク）, むかしseki, (shaku), mukashi"
   },
   {
     "id": "1143",
@@ -12570,7 +12570,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "chop",
-    "readings": "セキseki\n"
+    "readings": "セキseki"
   },
   {
     "id": "1144",
@@ -12581,7 +12581,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "seat",
-    "readings": "セキseki\n"
+    "readings": "セキseki"
   },
   {
     "id": "1145",
@@ -12592,7 +12592,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "stature",
-    "readings": "セキseki\n"
+    "readings": "セキseki"
   },
   {
     "id": "1146",
@@ -12603,7 +12603,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "vessels",
-    "readings": "セキseki\n"
+    "readings": "セキseki"
   },
   {
     "id": "1147",
@@ -12614,7 +12614,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pity",
-    "readings": "セキ、お-しい、お-しむseki, o-shii, o-shimu\n"
+    "readings": "セキ, お-しい, お-しむseki, o-shii, o-shimu"
   },
   {
     "id": "1148",
@@ -12625,7 +12625,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "grieve",
-    "readings": "セキseki\n"
+    "readings": "セキseki"
   },
   {
     "id": "1149",
@@ -12636,7 +12636,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "blame",
-    "readings": "セキ、せ-めるseki, se-meru\n"
+    "readings": "セキ, せ-めるseki, se-meru"
   },
   {
     "id": "1150",
@@ -12647,7 +12647,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tracks",
-    "readings": "セキ、あとseki, ato\n"
+    "readings": "セキ, あとseki, ato"
   },
   {
     "id": "1151",
@@ -12658,7 +12658,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "accumulate",
-    "readings": "セキ、つ-む、つ-もるseki, tsu-mu, tsu-moru\n"
+    "readings": "セキ, つ-む, つ-もるseki, tsu-mu, tsu-moru"
   },
   {
     "id": "1152",
@@ -12669,7 +12669,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "exploits",
-    "readings": "セキseki\n"
+    "readings": "セキseki"
   },
   {
     "id": "1153",
@@ -12680,7 +12680,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "enroll",
-    "readings": "セキseki\n"
+    "readings": "セキseki"
   },
   {
     "id": "1154",
@@ -12691,7 +12691,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "cut",
-    "readings": "セツ、（サイ）、き-る、き-れるsetsu, (sai), ki-ru, ki-reru\n"
+    "readings": "セツ, （サイ）, き-る, き-れるsetsu, (sai), ki-ru, ki-reru"
   },
   {
     "id": "1155",
@@ -12702,7 +12702,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "fold",
-    "readings": "セツ、お-る、おり、お-れるsetsu, o-ru, ori, o-reru\n"
+    "readings": "セツ, お-る, おり, お-れるsetsu, o-ru, ori, o-reru"
   },
   {
     "id": "1156",
@@ -12713,7 +12713,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bungling",
-    "readings": "セツ、つたな-いsetsu, tsutana-i\n"
+    "readings": "セツ, つたな-いsetsu, tsutana-i"
   },
   {
     "id": "1157",
@@ -12724,7 +12724,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "stealth",
-    "readings": "セツsetsu\n"
+    "readings": "セツsetsu"
   },
   {
     "id": "1158",
@@ -12735,7 +12735,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "contact",
-    "readings": "セツ、つ-ぐsetsu, tsu-gu\n"
+    "readings": "セツ, つ-ぐsetsu, tsu-gu"
   },
   {
     "id": "1159",
@@ -12746,7 +12746,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "establish",
-    "readings": "セツ、もう-けるsetsu, mō-keru\n"
+    "readings": "セツ, もう-けるsetsu, mō-keru"
   },
   {
     "id": "1160",
@@ -12757,7 +12757,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "snow",
-    "readings": "セツ、ゆきsetsu, yuki\n"
+    "readings": "セツ, ゆきsetsu, yuki"
   },
   {
     "id": "1161",
@@ -12768,18 +12768,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "vicarious",
-    "readings": "セツsetsu\n"
+    "readings": "セツsetsu"
   },
   {
     "id": "1162",
     "new_shinjitai": "節",
-    "old_kyujitai": "節 [4]",
+    "old_kyujitai": "節 [4]",
     "radical": "竹",
     "strokes": "13",
     "grade": "4",
     "year_added": "",
     "english_meaning": "node",
-    "readings": "セツ、（セチ）、ふしsetsu, (sechi), fushi\n"
+    "readings": "セツ, （セチ）, ふしsetsu, (sechi), fushi"
   },
   {
     "id": "1163",
@@ -12790,7 +12790,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "theory",
-    "readings": "セツ、（ゼイ）、と-くsetsu, (zei), to-ku\n"
+    "readings": "セツ, （ゼイ）, と-くsetsu, (zei), to-ku"
   },
   {
     "id": "1164",
@@ -12801,7 +12801,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "tongue",
-    "readings": "ゼツ、したzetsu, shita\n"
+    "readings": "ゼツ, したzetsu, shita"
   },
   {
     "id": "1165",
@@ -12812,7 +12812,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "discontinue",
-    "readings": "ゼツ、た-える、た-やす、た-つzetsu, ta-eru, ta-yasu, ta-tsu\n"
+    "readings": "ゼツ, た-える, た-やす, た-つzetsu, ta-eru, ta-yasu, ta-tsu"
   },
   {
     "id": "1166",
@@ -12823,7 +12823,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "thousand",
-    "readings": "セン、ちsen, chi\n"
+    "readings": "セン, ちsen, chi"
   },
   {
     "id": "1167",
@@ -12834,7 +12834,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "river",
-    "readings": "セン、かわsen, kawa\n"
+    "readings": "セン, かわsen, kawa"
   },
   {
     "id": "1168",
@@ -12845,7 +12845,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "hermit",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1169",
@@ -12856,7 +12856,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fortune telling",
-    "readings": "セン、し-める、うらな-うsen, shi-meru, urana-u\n"
+    "readings": "セン, し-める, うらな-うsen, shi-meru, urana-u"
   },
   {
     "id": "1170",
@@ -12867,7 +12867,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "previous",
-    "readings": "セン、さきsen, saki\n"
+    "readings": "セン, さきsen, saki"
   },
   {
     "id": "1171",
@@ -12878,7 +12878,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "proclaim",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1172",
@@ -12889,7 +12889,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "specialty",
-    "readings": "セン、もっぱ-らsen, moppa-ra\n"
+    "readings": "セン, もっぱ-らsen, moppa-ra"
   },
   {
     "id": "1173",
@@ -12900,7 +12900,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "spring",
-    "readings": "セン、いずみsen, izumi\n"
+    "readings": "セン, いずみsen, izumi"
   },
   {
     "id": "1174",
@@ -12911,7 +12911,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "shallow",
-    "readings": "セン、あさ-いsen, asa-i\n"
+    "readings": "セン, あさ-いsen, asa-i"
   },
   {
     "id": "1175",
@@ -12922,7 +12922,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "wash",
-    "readings": "セン、あら-うsen, ara-u\n"
+    "readings": "セン, あら-うsen, ara-u"
   },
   {
     "id": "1176",
@@ -12933,7 +12933,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "dye",
-    "readings": "セン、そ-める、そ-まる、し-みる、し-みsen, so-meru, so-maru, shi-miru, shi-mi\n"
+    "readings": "セン, そ-める, そ-まる, し-みる, し-みsen, so-meru, so-maru, shi-miru, shi-mi"
   },
   {
     "id": "1177",
@@ -12944,7 +12944,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fan",
-    "readings": "セン、おうぎsen, ōgi\n"
+    "readings": "セン, おうぎsen, ōgi"
   },
   {
     "id": "1178",
@@ -12955,7 +12955,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "plug",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1179",
@@ -12966,7 +12966,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rotation",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1180",
@@ -12977,7 +12977,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "boat",
-    "readings": "セン、ふね、（ふな）sen, fune, (funa)\n"
+    "readings": "セン, ふね, （ふな）sen, fune, (funa)"
   },
   {
     "id": "1181",
@@ -12988,18 +12988,18 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "war",
-    "readings": "セン、いくさ、たたか-うsen, ikusa, tataka-u\n"
+    "readings": "セン, いくさ, たたか-うsen, ikusa, tataka-u"
   },
   {
     "id": "1182",
-    "new_shinjitai": "煎 [7]",
+    "new_shinjitai": "煎",
     "old_kyujitai": "",
     "radical": "火",
     "strokes": "13",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "broil",
-    "readings": "セン、い-るsen, i-ru\n"
+    "readings": "セン, い-るsen, i-ru"
   },
   {
     "id": "1183",
@@ -13010,7 +13010,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "envy",
-    "readings": "セン、うらや-む、うらや-ましいsen, uraya-mu, uraya-mashii\n"
+    "readings": "セン, うらや-む, うらや-ましいsen, uraya-mu, uraya-mashii"
   },
   {
     "id": "1184",
@@ -13021,18 +13021,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "gland",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1185",
-    "new_shinjitai": "詮 [7]",
+    "new_shinjitai": "詮",
     "old_kyujitai": "",
     "radical": "言",
     "strokes": "13",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "discussion",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1186",
@@ -13043,7 +13043,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tread",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1187",
@@ -13054,7 +13054,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "paper",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1188",
@@ -13065,7 +13065,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "coin",
-    "readings": "セン、ぜにsen, zeni\n"
+    "readings": "セン, ぜにsen, zeni"
   },
   {
     "id": "1189",
@@ -13076,7 +13076,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "submerge",
-    "readings": "セン、ひそ-む、もぐ-るsen, hiso-mu, mogu-ru\n"
+    "readings": "セン, ひそ-む, もぐ-るsen, hiso-mu, mogu-ru"
   },
   {
     "id": "1190",
@@ -13087,7 +13087,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "line",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1191",
@@ -13098,7 +13098,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "transition",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1192",
@@ -13109,7 +13109,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "choose",
-    "readings": "セン、えら-ぶsen, era-bu\n"
+    "readings": "セン, えら-ぶsen, era-bu"
   },
   {
     "id": "1193",
@@ -13120,7 +13120,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "recommend",
-    "readings": "セン、すす-めるsen, susu-meru\n"
+    "readings": "セン, すす-めるsen, susu-meru"
   },
   {
     "id": "1194",
@@ -13131,7 +13131,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "slender",
-    "readings": "センsen\n"
+    "readings": "センsen"
   },
   {
     "id": "1195",
@@ -13142,7 +13142,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fresh",
-    "readings": "セン、あざ-やかsen, aza-yaka\n"
+    "readings": "セン, あざ-やかsen, aza-yaka"
   },
   {
     "id": "1196",
@@ -13153,7 +13153,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "whole",
-    "readings": "ゼン、まった-く、すべ-てzen, matta-ku, sube-te\n"
+    "readings": "ゼン, まった-く, すべ-てzen, matta-ku, sube-te"
   },
   {
     "id": "1197",
@@ -13164,7 +13164,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "in front",
-    "readings": "ゼン、まえzen, mae\n"
+    "readings": "ゼン, まえzen, mae"
   },
   {
     "id": "1198",
@@ -13175,7 +13175,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "good",
-    "readings": "ゼン、よ-いzen, yo-i\n"
+    "readings": "ゼン, よ-いzen, yo-i"
   },
   {
     "id": "1199",
@@ -13186,7 +13186,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "so",
-    "readings": "ゼン、ネンzen, nen\n"
+    "readings": "ゼン, ネンzen, nen"
   },
   {
     "id": "1200",
@@ -13197,7 +13197,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "Zen",
-    "readings": "ゼンzen\n"
+    "readings": "ゼンzen"
   },
   {
     "id": "1201",
@@ -13208,7 +13208,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "steadily",
-    "readings": "ゼンzen\n"
+    "readings": "ゼンzen"
   },
   {
     "id": "1202",
@@ -13219,7 +13219,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "tray",
-    "readings": "ゼンzen\n"
+    "readings": "ゼンzen"
   },
   {
     "id": "1203",
@@ -13230,7 +13230,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "darning",
-    "readings": "ゼン、つくろ-うzen, tsukuro-u\n"
+    "readings": "ゼン, つくろ-うzen, tsukuro-u"
   },
   {
     "id": "1204",
@@ -13241,7 +13241,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "aim at",
-    "readings": "ソ、ねら-うso, nera-u\n"
+    "readings": "ソ, ねら-うso, nera-u"
   },
   {
     "id": "1205",
@@ -13252,18 +13252,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "thwart",
-    "readings": "ソ、はば-むso, haba-mu\n"
+    "readings": "ソ, はば-むso, haba-mu"
   },
   {
     "id": "1206",
     "new_shinjitai": "祖",
-    "old_kyujitai": "祖 [4]",
+    "old_kyujitai": "祖 [4]",
     "radical": "示",
     "strokes": "9",
     "grade": "5",
     "year_added": "",
     "english_meaning": "ancestor",
-    "readings": "ソso\n"
+    "readings": "ソso"
   },
   {
     "id": "1207",
@@ -13274,7 +13274,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tariff",
-    "readings": "ソso\n"
+    "readings": "ソso"
   },
   {
     "id": "1208",
@@ -13285,7 +13285,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "elementary",
-    "readings": "ソ、スso, su\n"
+    "readings": "ソ, スso, su"
   },
   {
     "id": "1209",
@@ -13296,7 +13296,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "set aside",
-    "readings": "ソso\n"
+    "readings": "ソso"
   },
   {
     "id": "1210",
@@ -13307,7 +13307,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "coarse",
-    "readings": "ソ、あら-いso, ara-i\n"
+    "readings": "ソ, あら-いso, ara-i"
   },
   {
     "id": "1211",
@@ -13318,7 +13318,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "association",
-    "readings": "ソ、く-む、くみso, ku-mu, kumi\n"
+    "readings": "ソ, く-む, くみso, ku-mu, kumi"
   },
   {
     "id": "1212",
@@ -13329,7 +13329,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "alienate",
-    "readings": "ソ、うと-い、うと-むso, uto-i, uto-mu\n"
+    "readings": "ソ, うと-い, うと-むso, uto-i, uto-mu"
   },
   {
     "id": "1213",
@@ -13340,7 +13340,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sue",
-    "readings": "ソ、うった-えるso, utta-eru\n"
+    "readings": "ソ, うった-えるso, utta-eru"
   },
   {
     "id": "1214",
@@ -13351,18 +13351,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "model",
-    "readings": "ソso\n"
+    "readings": "ソso"
   },
   {
     "id": "1215",
-    "new_shinjitai": "遡 [8]",
+    "new_shinjitai": "遡",
     "old_kyujitai": "",
     "radical": "辵",
     "strokes": "14",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "go upstream",
-    "readings": "ソ、さかのぼ-るso, sakanobo-ru\n"
+    "readings": "ソ, さかのぼ-るso, sakanobo-ru"
   },
   {
     "id": "1216",
@@ -13373,7 +13373,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cornerstone",
-    "readings": "ソ、いしずえso, ishizue\n"
+    "readings": "ソ, いしずえso, ishizue"
   },
   {
     "id": "1217",
@@ -13384,7 +13384,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pair",
-    "readings": "ソウ、ふたsō, futa\n"
+    "readings": "ソウ, ふたsō, futa"
   },
   {
     "id": "1218",
@@ -13395,7 +13395,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "robust",
-    "readings": "ソウsō\n"
+    "readings": "ソウsō"
   },
   {
     "id": "1219",
@@ -13406,7 +13406,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "early",
-    "readings": "ソウ、（サッ）、はや-い、はや-まる、はや-めるsō, (sa'), haya-i, haya-maru, haya-meru\n"
+    "readings": "ソウ, （サッ）, はや-い, はや-まる, はや-めるsō, (sa'), haya-i, haya-maru, haya-meru"
   },
   {
     "id": "1220",
@@ -13417,7 +13417,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "conflict",
-    "readings": "ソウ、あらそ-うsō, araso-u\n"
+    "readings": "ソウ, あらそ-うsō, araso-u"
   },
   {
     "id": "1221",
@@ -13428,7 +13428,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "run",
-    "readings": "ソウ、はし-るsō, hashi-ru\n"
+    "readings": "ソウ, はし-るsō, hashi-ru"
   },
   {
     "id": "1222",
@@ -13439,7 +13439,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "play music",
-    "readings": "ソウ、かな-でるsō, kana-deru\n"
+    "readings": "ソウ, かな-でるsō, kana-deru"
   },
   {
     "id": "1223",
@@ -13450,7 +13450,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "mutual",
-    "readings": "ソウ、ショウ、あいsō, shō, ai\n"
+    "readings": "ソウ, ショウ, あいsō, shō, ai"
   },
   {
     "id": "1224",
@@ -13461,7 +13461,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "villa",
-    "readings": "ソウsō\n"
+    "readings": "ソウsō"
   },
   {
     "id": "1225",
@@ -13472,7 +13472,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "grass",
-    "readings": "ソウ、くさsō, kusa\n"
+    "readings": "ソウ, くさsō, kusa"
   },
   {
     "id": "1226",
@@ -13483,7 +13483,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "send",
-    "readings": "ソウ、おく-るsō, oku-ru\n"
+    "readings": "ソウ, おく-るsō, oku-ru"
   },
   {
     "id": "1227",
@@ -13494,7 +13494,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "warehouse",
-    "readings": "ソウ、くらsō, kura\n"
+    "readings": "ソウ, くらsō, kura"
   },
   {
     "id": "1228",
@@ -13505,7 +13505,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "search",
-    "readings": "ソウ、さが-すsō, saga-su\n"
+    "readings": "ソウ, さが-すsō, saga-su"
   },
   {
     "id": "1229",
@@ -13516,7 +13516,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "insert",
-    "readings": "ソウ、さ-すsō, sa-su\n"
+    "readings": "ソウ, さ-すsō, sa-su"
   },
   {
     "id": "1230",
@@ -13527,7 +13527,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mulberry",
-    "readings": "ソウ、くわsō, kuwa\n"
+    "readings": "ソウ, くわsō, kuwa"
   },
   {
     "id": "1231",
@@ -13538,7 +13538,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "nest",
-    "readings": "ソウ、すsō, su\n"
+    "readings": "ソウ, すsō, su"
   },
   {
     "id": "1232",
@@ -13549,7 +13549,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sweep",
-    "readings": "ソウ、は-くsō, ha-ku\n"
+    "readings": "ソウ, は-くsō, ha-ku"
   },
   {
     "id": "1233",
@@ -13560,7 +13560,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "cadet",
-    "readings": "ソウsō\n"
+    "readings": "ソウsō"
   },
   {
     "id": "1234",
@@ -13571,7 +13571,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "formerly",
-    "readings": "ソウ、（ゾ）sō, (zo)\n"
+    "readings": "ソウ, （ゾ）sō, (zo)"
   },
   {
     "id": "1235",
@@ -13582,7 +13582,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "refreshing",
-    "readings": "ソウ、さわ-やかsō, sawa-yaka\n"
+    "readings": "ソウ, さわ-やかsō, sawa-yaka"
   },
   {
     "id": "1236",
@@ -13593,7 +13593,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "window",
-    "readings": "ソウ、まどsō, mado\n"
+    "readings": "ソウ, まどsō, mado"
   },
   {
     "id": "1237",
@@ -13604,7 +13604,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "create",
-    "readings": "ソウ、つく-るsō, tsuku-ru\n"
+    "readings": "ソウ, つく-るsō, tsuku-ru"
   },
   {
     "id": "1238",
@@ -13615,7 +13615,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "miss",
-    "readings": "ソウ、もsō, mo\n"
+    "readings": "ソウ, もsō, mo"
   },
   {
     "id": "1239",
@@ -13626,7 +13626,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "get thin",
-    "readings": "ソウ、や-せるsō, ya-seru\n"
+    "readings": "ソウ, や-せるsō, ya-seru"
   },
   {
     "id": "1240",
@@ -13637,7 +13637,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "interment",
-    "readings": "ソウ、ほうむ-るsō, hōmu-ru\n"
+    "readings": "ソウ, ほうむ-るsō, hōmu-ru"
   },
   {
     "id": "1241",
@@ -13648,18 +13648,18 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "attire",
-    "readings": "ソウ、ショウ、よそお-うsō, shō, yosoo-u\n"
+    "readings": "ソウ, ショウ, よそお-うsō, shō, yosoo-u"
   },
   {
     "id": "1242",
     "new_shinjitai": "僧",
-    "old_kyujitai": "僧 [4]",
+    "old_kyujitai": "僧 [4]",
     "radical": "人",
     "strokes": "13",
     "grade": "S",
     "year_added": "",
     "english_meaning": "Buddhist priest",
-    "readings": "ソウsō\n"
+    "readings": "ソウsō"
   },
   {
     "id": "1243",
@@ -13670,18 +13670,18 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "concept",
-    "readings": "ソウ、（ソ）sō, (so)\n"
+    "readings": "ソウ, （ソ）sō, (so)"
   },
   {
     "id": "1244",
     "new_shinjitai": "層",
-    "old_kyujitai": "層 [4]",
+    "old_kyujitai": "層 [4]",
     "radical": "尸",
     "strokes": "14",
     "grade": "6",
     "year_added": "",
     "english_meaning": "stratum",
-    "readings": "ソウsō\n"
+    "readings": "ソウsō"
   },
   {
     "id": "1245",
@@ -13692,7 +13692,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "whole",
-    "readings": "ソウsō\n"
+    "readings": "ソウsō"
   },
   {
     "id": "1246",
@@ -13703,7 +13703,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "encounter",
-    "readings": "ソウ、あ-うsō, a-u\n"
+    "readings": "ソウ, あ-うsō, a-u"
   },
   {
     "id": "1247",
@@ -13714,7 +13714,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "vat",
-    "readings": "ソウsō\n"
+    "readings": "ソウsō"
   },
   {
     "id": "1248",
@@ -13725,7 +13725,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "remains",
-    "readings": "ソウsō\n"
+    "readings": "ソウsō"
   },
   {
     "id": "1249",
@@ -13736,7 +13736,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "maneuver",
-    "readings": "ソウ、みさお、あやつ-るsō, misao, ayatsu-ru\n"
+    "readings": "ソウ, みさお, あやつ-るsō, misao, ayatsu-ru"
   },
   {
     "id": "1250",
@@ -13747,7 +13747,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "parch",
-    "readings": "ソウsō\n"
+    "readings": "ソウsō"
   },
   {
     "id": "1251",
@@ -13758,7 +13758,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "frost",
-    "readings": "ソウ、しもsō, shimo\n"
+    "readings": "ソウ, しもsō, shimo"
   },
   {
     "id": "1252",
@@ -13769,7 +13769,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "boisterous",
-    "readings": "ソウ、さわ-ぐsō, sawa-gu\n"
+    "readings": "ソウ, さわ-ぐsō, sawa-gu"
   },
   {
     "id": "1253",
@@ -13780,7 +13780,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "seaweed",
-    "readings": "ソウ、もsō, mo\n"
+    "readings": "ソウ, もsō, mo"
   },
   {
     "id": "1254",
@@ -13791,7 +13791,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "create",
-    "readings": "ゾウ、つく-るzō, tsuku-ru\n"
+    "readings": "ゾウ, つく-るzō, tsuku-ru"
   },
   {
     "id": "1255",
@@ -13802,7 +13802,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "statue",
-    "readings": "ゾウzō\n"
+    "readings": "ゾウzō"
   },
   {
     "id": "1256",
@@ -13813,18 +13813,18 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "increase",
-    "readings": "ゾウ、ま-す、ふ-える、ふ-やすzō, ma-su, fu-eru, fu-yasu\n"
+    "readings": "ゾウ, ま-す, ふ-える, ふ-やすzō, ma-su, fu-eru, fu-yasu"
   },
   {
     "id": "1257",
     "new_shinjitai": "憎",
-    "old_kyujitai": "憎 [4]",
+    "old_kyujitai": "憎 [4]",
     "radical": "心",
     "strokes": "14",
     "grade": "S",
     "year_added": "",
     "english_meaning": "hate",
-    "readings": "ゾウ、にく-む、にく-い、にく-らしい、にく-しみzō, niku-mu, niku-i, niku-rashii, niku-shimi\n"
+    "readings": "ゾウ, にく-む, にく-い, にく-らしい, にく-しみzō, niku-mu, niku-i, niku-rashii, niku-shimi"
   },
   {
     "id": "1258",
@@ -13835,18 +13835,18 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "warehouse",
-    "readings": "ゾウ、くらzō, kura\n"
+    "readings": "ゾウ, くらzō, kura"
   },
   {
     "id": "1259",
     "new_shinjitai": "贈",
-    "old_kyujitai": "贈 [4]",
+    "old_kyujitai": "贈 [4]",
     "radical": "貝",
     "strokes": "18",
     "grade": "S",
     "year_added": "",
     "english_meaning": "presents",
-    "readings": "ゾウ、（ソウ）、おく-るzō, (sō), oku-ru\n"
+    "readings": "ゾウ, （ソウ）, おく-るzō, (sō), oku-ru"
   },
   {
     "id": "1260",
@@ -13857,7 +13857,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "entrails",
-    "readings": "ゾウzō\n"
+    "readings": "ゾウzō"
   },
   {
     "id": "1261",
@@ -13868,7 +13868,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "instant",
-    "readings": "ソクsoku\n"
+    "readings": "ソクsoku"
   },
   {
     "id": "1262",
@@ -13879,7 +13879,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "bundle",
-    "readings": "ソク、たばsoku, taba\n"
+    "readings": "ソク, たばsoku, taba"
   },
   {
     "id": "1263",
@@ -13890,7 +13890,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "foot",
-    "readings": "ソク、あし、た-りる、た-る、た-すsoku, ashi, ta-riru, ta-ru, ta-su\n"
+    "readings": "ソク, あし, た-りる, た-る, た-すsoku, ashi, ta-riru, ta-ru, ta-su"
   },
   {
     "id": "1264",
@@ -13901,7 +13901,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "stimulate",
-    "readings": "ソク、うなが-すsoku, unaga-su\n"
+    "readings": "ソク, うなが-すsoku, unaga-su"
   },
   {
     "id": "1265",
@@ -13912,7 +13912,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "rule",
-    "readings": "ソクsoku\n"
+    "readings": "ソクsoku"
   },
   {
     "id": "1266",
@@ -13923,7 +13923,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "breath",
-    "readings": "ソク、いきsoku, iki\n"
+    "readings": "ソク, いきsoku, iki"
   },
   {
     "id": "1267",
@@ -13934,7 +13934,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "capture",
-    "readings": "ソク、とら-えるsoku, tora-eru\n"
+    "readings": "ソク, とら-えるsoku, tora-eru"
   },
   {
     "id": "1268",
@@ -13945,7 +13945,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "fast",
-    "readings": "ソク、はや-い、はや-める、はや-まる、すみ-やかsoku, haya-i, haya-meru, haya-maru, sumi-yaka\n"
+    "readings": "ソク, はや-い, はや-める, はや-まる, すみ-やかsoku, haya-i, haya-meru, haya-maru, sumi-yaka"
   },
   {
     "id": "1269",
@@ -13956,7 +13956,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "side",
-    "readings": "ソク、がわsoku, gawa\n"
+    "readings": "ソク, がわsoku, gawa"
   },
   {
     "id": "1270",
@@ -13967,7 +13967,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "fathom",
-    "readings": "ソク、はか-るsoku, haka-ru\n"
+    "readings": "ソク, はか-るsoku, haka-ru"
   },
   {
     "id": "1271",
@@ -13978,7 +13978,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "vulgar",
-    "readings": "ゾクzoku\n"
+    "readings": "ゾクzoku"
   },
   {
     "id": "1272",
@@ -13989,7 +13989,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "tribe",
-    "readings": "ゾクzoku\n"
+    "readings": "ゾクzoku"
   },
   {
     "id": "1273",
@@ -14000,7 +14000,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "belong",
-    "readings": "ゾクzoku\n"
+    "readings": "ゾクzoku"
   },
   {
     "id": "1274",
@@ -14011,7 +14011,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "burglar",
-    "readings": "ゾクzoku\n"
+    "readings": "ゾクzoku"
   },
   {
     "id": "1275",
@@ -14022,7 +14022,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "continue",
-    "readings": "ゾク、つづ-く、つづ-けるzoku, tsuzu-ku, tsuzu-keru\n"
+    "readings": "ゾク, つづ-く, つづ-けるzoku, tsuzu-ku, tsuzu-keru"
   },
   {
     "id": "1276",
@@ -14033,7 +14033,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "graduate",
-    "readings": "ソツsotsu\n"
+    "readings": "ソツsotsu"
   },
   {
     "id": "1277",
@@ -14044,7 +14044,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "rate",
-    "readings": "ソツ、リツ、ひき-いるsotsu, ritsu, hiki-iru\n"
+    "readings": "ソツ, リツ, ひき-いるsotsu, ritsu, hiki-iru"
   },
   {
     "id": "1278",
@@ -14055,7 +14055,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "suppose",
-    "readings": "ソン、ゾンson, zon\n"
+    "readings": "ソン, ゾンson, zon"
   },
   {
     "id": "1279",
@@ -14066,7 +14066,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "village",
-    "readings": "ソン、むらson, mura\n"
+    "readings": "ソン, むらson, mura"
   },
   {
     "id": "1280",
@@ -14077,7 +14077,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "grandchild",
-    "readings": "ソン、まごson, mago\n"
+    "readings": "ソン, まごson, mago"
   },
   {
     "id": "1281",
@@ -14088,7 +14088,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "revered",
-    "readings": "ソン、たっと-い、とうと-い、たっと-ぶ、とうと-ぶson, tatto-i, tōto-i, tatto-bu, tōto-bu\n"
+    "readings": "ソン, たっと-い, とうと-い, たっと-ぶ, とうと-ぶson, tatto-i, tōto-i, tatto-bu, tōto-bu"
   },
   {
     "id": "1282",
@@ -14099,18 +14099,18 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "loss",
-    "readings": "ソン、そこ-なう、そこ-ねるson, soko-nau, soko-neru\n"
+    "readings": "ソン, そこ-なう, そこ-ねるson, soko-nau, soko-neru"
   },
   {
     "id": "1283",
-    "new_shinjitai": "遜 [8]",
+    "new_shinjitai": "遜",
     "old_kyujitai": "",
     "radical": "辵",
     "strokes": "14",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "humble",
-    "readings": "ソンson\n"
+    "readings": "ソンson"
   },
   {
     "id": "1284",
@@ -14121,7 +14121,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "other",
-    "readings": "タ、ほかta, hoka\n"
+    "readings": "タ, ほかta, hoka"
   },
   {
     "id": "1285",
@@ -14132,7 +14132,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "many",
-    "readings": "タ、おお-いta, oo-i\n"
+    "readings": "タ, おお-いta, oo-i"
   },
   {
     "id": "1286",
@@ -14143,7 +14143,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "luxury",
-    "readings": "タta\n"
+    "readings": "タta"
   },
   {
     "id": "1287",
@@ -14154,7 +14154,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "hit",
-    "readings": "ダ、う-つda, u-tsu\n"
+    "readings": "ダ, う-つda, u-tsu"
   },
   {
     "id": "1288",
@@ -14165,7 +14165,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "gentle",
-    "readings": "ダda\n"
+    "readings": "ダda"
   },
   {
     "id": "1289",
@@ -14176,7 +14176,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "saliva",
-    "readings": "ダ、つばda, tsuba\n"
+    "readings": "ダ, つばda, tsuba"
   },
   {
     "id": "1290",
@@ -14187,7 +14187,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "degenerate",
-    "readings": "ダda\n"
+    "readings": "ダda"
   },
   {
     "id": "1291",
@@ -14198,7 +14198,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lazy",
-    "readings": "ダda\n"
+    "readings": "ダda"
   },
   {
     "id": "1292",
@@ -14209,7 +14209,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "burdensome",
-    "readings": "ダda\n"
+    "readings": "ダda"
   },
   {
     "id": "1293",
@@ -14220,7 +14220,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "thick",
-    "readings": "タイ、タ、ふと-い、ふと-るtai, ta, futo-i, futo-ru\n"
+    "readings": "タイ, タ, ふと-い, ふと-るtai, ta, futo-i, futo-ru"
   },
   {
     "id": "1294",
@@ -14231,7 +14231,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "opposite",
-    "readings": "タイ、ツイtai, tsui\n"
+    "readings": "タイ, ツイtai, tsui"
   },
   {
     "id": "1295",
@@ -14242,7 +14242,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "body",
-    "readings": "タイ、テイ、からだtai, tei, karada\n"
+    "readings": "タイ, テイ, からだtai, tei, karada"
   },
   {
     "id": "1296",
@@ -14253,7 +14253,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "resistant",
-    "readings": "タイ、た-えるtai, ta-eru\n"
+    "readings": "タイ, た-えるtai, ta-eru"
   },
   {
     "id": "1297",
@@ -14264,7 +14264,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "wait",
-    "readings": "タイ、ま-つtai, ma-tsu\n"
+    "readings": "タイ, ま-つtai, ma-tsu"
   },
   {
     "id": "1298",
@@ -14275,7 +14275,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "neglect",
-    "readings": "タイ、おこた-る、なま-けるtai, okota-ru, nama-keru\n"
+    "readings": "タイ, おこた-る, なま-けるtai, okota-ru, nama-keru"
   },
   {
     "id": "1299",
@@ -14286,7 +14286,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "womb",
-    "readings": "タイtai\n"
+    "readings": "タイtai"
   },
   {
     "id": "1300",
@@ -14297,7 +14297,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "retreat",
-    "readings": "タイ、しりぞ-く、しりぞ-けるtai, shirizo-ku, shirizo-keru\n"
+    "readings": "タイ, しりぞ-く, しりぞ-けるtai, shirizo-ku, shirizo-keru"
   },
   {
     "id": "1301",
@@ -14308,7 +14308,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "sash",
-    "readings": "タイ、お-びる、おびtai, o-biru, obi\n"
+    "readings": "タイ, お-びる, おびtai, o-biru, obi"
   },
   {
     "id": "1302",
@@ -14319,7 +14319,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "peaceful",
-    "readings": "タイtai\n"
+    "readings": "タイtai"
   },
   {
     "id": "1303",
@@ -14330,7 +14330,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "piled high",
-    "readings": "タイtai\n"
+    "readings": "タイtai"
   },
   {
     "id": "1304",
@@ -14341,7 +14341,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sack",
-    "readings": "タイ、ふくろtai, fukuro\n"
+    "readings": "タイ, ふくろtai, fukuro"
   },
   {
     "id": "1305",
@@ -14352,7 +14352,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "apprehend",
-    "readings": "タイtai\n"
+    "readings": "タイtai"
   },
   {
     "id": "1306",
@@ -14363,7 +14363,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "exchange",
-    "readings": "タイ、か-える、か-わるtai, ka-eru, ka-waru\n"
+    "readings": "タイ, か-える, か-わるtai, ka-eru, ka-waru"
   },
   {
     "id": "1307",
@@ -14374,7 +14374,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "lend",
-    "readings": "タイ、か-すtai, ka-su\n"
+    "readings": "タイ, か-すtai, ka-su"
   },
   {
     "id": "1308",
@@ -14385,7 +14385,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "group",
-    "readings": "タイtai\n"
+    "readings": "タイtai"
   },
   {
     "id": "1309",
@@ -14396,7 +14396,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "stagnate",
-    "readings": "タイ、とどこお-るtai, todokoo-ru\n"
+    "readings": "タイ, とどこお-るtai, todokoo-ru"
   },
   {
     "id": "1310",
@@ -14407,7 +14407,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "condition",
-    "readings": "タイtai\n"
+    "readings": "タイtai"
   },
   {
     "id": "1311",
@@ -14418,7 +14418,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "be crowned with",
-    "readings": "タイtai\n"
+    "readings": "タイtai"
   },
   {
     "id": "1312",
@@ -14429,7 +14429,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "large",
-    "readings": "ダイ、タイ、おお、おお-きい、おお-いにdai, tai, oo, oo-kii, oo-ini\n"
+    "readings": "ダイ, タイ, おお, おお-きい, おお-いにdai, tai, oo, oo-kii, oo-ini"
   },
   {
     "id": "1313",
@@ -14440,7 +14440,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "substitute",
-    "readings": "ダイ、タイ、か-わる、か-える、よ、しろdai, tai, ka-waru, ka-eru, yo, shiro\n"
+    "readings": "ダイ, タイ, か-わる, か-える, よ, しろdai, tai, ka-waru, ka-eru, yo, shiro"
   },
   {
     "id": "1314",
@@ -14451,7 +14451,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "pedestal",
-    "readings": "ダイ、タイdai, tai\n"
+    "readings": "ダイ, タイdai, tai"
   },
   {
     "id": "1315",
@@ -14462,7 +14462,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "ordinal number prefix",
-    "readings": "ダイdai\n"
+    "readings": "ダイdai"
   },
   {
     "id": "1316",
@@ -14473,7 +14473,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "topic",
-    "readings": "ダイdai\n"
+    "readings": "ダイdai"
   },
   {
     "id": "1317",
@@ -14484,7 +14484,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "waterfall",
-    "readings": "たきtaki\n"
+    "readings": "たきtaki"
   },
   {
     "id": "1318",
@@ -14495,7 +14495,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "home",
-    "readings": "タクtaku\n"
+    "readings": "タクtaku"
   },
   {
     "id": "1319",
@@ -14506,7 +14506,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "choose",
-    "readings": "タクtaku\n"
+    "readings": "タクtaku"
   },
   {
     "id": "1320",
@@ -14517,7 +14517,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "swamp",
-    "readings": "タク、さわtaku, sawa\n"
+    "readings": "タク, さわtaku, sawa"
   },
   {
     "id": "1321",
@@ -14528,7 +14528,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "eminent",
-    "readings": "タクtaku\n"
+    "readings": "タクtaku"
   },
   {
     "id": "1322",
@@ -14539,7 +14539,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "clear (the land)",
-    "readings": "タクtaku\n"
+    "readings": "タクtaku"
   },
   {
     "id": "1323",
@@ -14550,7 +14550,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "consign",
-    "readings": "タクtaku\n"
+    "readings": "タクtaku"
   },
   {
     "id": "1324",
@@ -14561,7 +14561,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "laundry",
-    "readings": "タクtaku\n"
+    "readings": "タクtaku"
   },
   {
     "id": "1325",
@@ -14572,7 +14572,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "consent",
-    "readings": "ダクdaku\n"
+    "readings": "ダクdaku"
   },
   {
     "id": "1326",
@@ -14583,7 +14583,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "voiced",
-    "readings": "ダク、にご-る、にご-すdaku, nigo-ru, nigo-su\n"
+    "readings": "ダク, にご-る, にご-すdaku, nigo-ru, nigo-su"
   },
   {
     "id": "1327",
@@ -14594,7 +14594,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "however",
-    "readings": "ただ-しtada-shi\n"
+    "readings": "ただ-しtada-shi"
   },
   {
     "id": "1328",
@@ -14605,7 +14605,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "attain",
-    "readings": "タツtatsu\n"
+    "readings": "タツtatsu"
   },
   {
     "id": "1329",
@@ -14616,7 +14616,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "undress",
-    "readings": "ダツ、ぬ-ぐ、ぬ-げるdatsu, nu-gu, nu-geru\n"
+    "readings": "ダツ, ぬ-ぐ, ぬ-げるdatsu, nu-gu, nu-geru"
   },
   {
     "id": "1330",
@@ -14627,7 +14627,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rob",
-    "readings": "ダツ、うば-うdatsu, uba-u\n"
+    "readings": "ダツ, うば-うdatsu, uba-u"
   },
   {
     "id": "1331",
@@ -14638,7 +14638,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "shelf",
-    "readings": "たなtana\n"
+    "readings": "たなtana"
   },
   {
     "id": "1332",
@@ -14649,7 +14649,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "who (question word)",
-    "readings": "だれdare\n"
+    "readings": "だれdare"
   },
   {
     "id": "1333",
@@ -14660,7 +14660,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cinnabar",
-    "readings": "タンtan\n"
+    "readings": "タンtan"
   },
   {
     "id": "1334",
@@ -14671,7 +14671,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "daybreak",
-    "readings": "タン、ダンtan, dan\n"
+    "readings": "タン, ダンtan, dan"
   },
   {
     "id": "1335",
@@ -14682,7 +14682,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "shouldering",
-    "readings": "タン、かつ-ぐ、にな-うtan, katsu-gu, nina-u\n"
+    "readings": "タン, かつ-ぐ, にな-うtan, katsu-gu, nina-u"
   },
   {
     "id": "1336",
@@ -14693,7 +14693,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "simple",
-    "readings": "タンtan\n"
+    "readings": "タンtan"
   },
   {
     "id": "1337",
@@ -14704,7 +14704,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "charcoal",
-    "readings": "タン、すみtan, sumi\n"
+    "readings": "タン, すみtan, sumi"
   },
   {
     "id": "1338",
@@ -14715,7 +14715,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "gall bladder",
-    "readings": "タンtan\n"
+    "readings": "タンtan"
   },
   {
     "id": "1339",
@@ -14726,7 +14726,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "grope",
-    "readings": "タン、さぐ-る、さが-すtan, sagu-ru, saga-su\n"
+    "readings": "タン, さぐ-る, さが-すtan, sagu-ru, saga-su"
   },
   {
     "id": "1340",
@@ -14737,7 +14737,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "thin",
-    "readings": "タン、あわ-いtan, awa-i\n"
+    "readings": "タン, あわ-いtan, awa-i"
   },
   {
     "id": "1341",
@@ -14748,18 +14748,18 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "short",
-    "readings": "タン、みじか-いtan, mijika-i\n"
+    "readings": "タン, みじか-いtan, mijika-i"
   },
   {
     "id": "1342",
     "new_shinjitai": "嘆",
-    "old_kyujitai": "嘆 [4]",
+    "old_kyujitai": "嘆 [4]",
     "radical": "口",
     "strokes": "13",
     "grade": "S",
     "year_added": "",
     "english_meaning": "sigh",
-    "readings": "タン、なげ-く、なげ-かわしいtan, nage-ku, nage-kawashii\n"
+    "readings": "タン, なげ-く, なげ-かわしいtan, nage-ku, nage-kawashii"
   },
   {
     "id": "1343",
@@ -14770,7 +14770,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "edge",
-    "readings": "タン、はし、は、はたtan, hashi, ha, hata\n"
+    "readings": "タン, はし, は, はたtan, hashi, ha, hata"
   },
   {
     "id": "1344",
@@ -14781,7 +14781,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "rip",
-    "readings": "タン、ほころ-びるtan, hokoro-biru\n"
+    "readings": "タン, ほころ-びるtan, hokoro-biru"
   },
   {
     "id": "1345",
@@ -14792,7 +14792,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "nativity",
-    "readings": "タンtan\n"
+    "readings": "タンtan"
   },
   {
     "id": "1346",
@@ -14803,7 +14803,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "forge",
-    "readings": "タン、きた-えるtan, kita-eru\n"
+    "readings": "タン, きた-えるtan, kita-eru"
   },
   {
     "id": "1347",
@@ -14814,7 +14814,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "group",
-    "readings": "ダン、（トン）dan, (ton)\n"
+    "readings": "ダン, （トン）dan, (ton)"
   },
   {
     "id": "1348",
@@ -14825,7 +14825,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "male",
-    "readings": "ダン、ナン、おとこdan, nan, otoko\n"
+    "readings": "ダン, ナン, おとこdan, nan, otoko"
   },
   {
     "id": "1349",
@@ -14836,7 +14836,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "steps",
-    "readings": "ダンdan\n"
+    "readings": "ダンdan"
   },
   {
     "id": "1350",
@@ -14847,7 +14847,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "cut off",
-    "readings": "ダン、た-つ、ことわ-るdan, ta-tsu, kotowa-ru\n"
+    "readings": "ダン, た-つ, ことわ-るdan, ta-tsu, kotowa-ru"
   },
   {
     "id": "1351",
@@ -14858,7 +14858,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bullet",
-    "readings": "ダン、ひ-く、はず-む、たまdan, hi-ku, hazu-mu, tama\n"
+    "readings": "ダン, ひ-く, はず-む, たまdan, hi-ku, hazu-mu, tama"
   },
   {
     "id": "1352",
@@ -14869,7 +14869,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "warmth",
-    "readings": "ダン、あたた-か、あたた-かい、あたた-まる、あたた-めるdan, atata-ka, atata-kai, atata-maru, atata-meru\n"
+    "readings": "ダン, あたた-か, あたた-かい, あたた-まる, あたた-めるdan, atata-ka, atata-kai, atata-maru, atata-meru"
   },
   {
     "id": "1353",
@@ -14880,7 +14880,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "discuss",
-    "readings": "ダンdan\n"
+    "readings": "ダンdan"
   },
   {
     "id": "1354",
@@ -14891,7 +14891,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "podium",
-    "readings": "ダン、（タン）dan, (tan)\n"
+    "readings": "ダン, （タン）dan, (tan)"
   },
   {
     "id": "1355",
@@ -14902,7 +14902,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "ground",
-    "readings": "チ、ジchi, ji\n"
+    "readings": "チ, ジchi, ji"
   },
   {
     "id": "1356",
@@ -14913,7 +14913,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "pond",
-    "readings": "チ、いけchi, ike\n"
+    "readings": "チ, いけchi, ike"
   },
   {
     "id": "1357",
@@ -14924,7 +14924,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "know",
-    "readings": "チ、し-るchi, shi-ru\n"
+    "readings": "チ, し-るchi, shi-ru"
   },
   {
     "id": "1358",
@@ -14935,7 +14935,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "value",
-    "readings": "チ、ね、あたいchi, ne, atai\n"
+    "readings": "チ, ね, あたいchi, ne, atai"
   },
   {
     "id": "1359",
@@ -14946,7 +14946,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "shame",
-    "readings": "チ、は-じる、はじ、は-じらう、は-ずかしいchi, ha-jiru, haji, ha-jirau, ha-zukashii\n"
+    "readings": "チ, は-じる, はじ, は-じらう, は-ずかしいchi, ha-jiru, haji, ha-jirau, ha-zukashii"
   },
   {
     "id": "1360",
@@ -14957,7 +14957,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "(to) do",
-    "readings": "チ、いた-すchi, ita-su\n"
+    "readings": "チ, いた-すchi, ita-su"
   },
   {
     "id": "1361",
@@ -14968,7 +14968,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "slow",
-    "readings": "チ、おく-れる、おく-らす、おそ-いchi, oku-reru, oku-rasu, oso-i\n"
+    "readings": "チ, おく-れる, おく-らす, おそ-いchi, oku-reru, oku-rasu, oso-i"
   },
   {
     "id": "1362",
@@ -14979,7 +14979,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "stupid",
-    "readings": "チchi\n"
+    "readings": "チchi"
   },
   {
     "id": "1363",
@@ -14990,7 +14990,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "immature",
-    "readings": "チchi\n"
+    "readings": "チchi"
   },
   {
     "id": "1364",
@@ -15001,7 +15001,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "put",
-    "readings": "チ、お-くchi, o-ku\n"
+    "readings": "チ, お-くchi, o-ku"
   },
   {
     "id": "1365",
@@ -15012,7 +15012,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "fine (not coarse)",
-    "readings": "チchi\n"
+    "readings": "チchi"
   },
   {
     "id": "1366",
@@ -15023,7 +15023,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "bamboo",
-    "readings": "チク、たけchiku, take\n"
+    "readings": "チク, たけchiku, take"
   },
   {
     "id": "1367",
@@ -15034,7 +15034,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "livestock",
-    "readings": "チクchiku\n"
+    "readings": "チクchiku"
   },
   {
     "id": "1368",
@@ -15045,7 +15045,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pursue",
-    "readings": "チクchiku\n"
+    "readings": "チクchiku"
   },
   {
     "id": "1369",
@@ -15056,7 +15056,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "amass",
-    "readings": "チク、たくわ-えるchiku, takuwa-eru\n"
+    "readings": "チク, たくわ-えるchiku, takuwa-eru"
   },
   {
     "id": "1370",
@@ -15067,7 +15067,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "fabricate",
-    "readings": "チク、きず-くchiku, kizu-ku\n"
+    "readings": "チク, きず-くchiku, kizu-ku"
   },
   {
     "id": "1371",
@@ -15078,7 +15078,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "regularity",
-    "readings": "チツchitsu\n"
+    "readings": "チツchitsu"
   },
   {
     "id": "1372",
@@ -15089,7 +15089,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "plug up",
-    "readings": "チツchitsu\n"
+    "readings": "チツchitsu"
   },
   {
     "id": "1373",
@@ -15100,7 +15100,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "tea",
-    "readings": "チャ、サcha, sa\n"
+    "readings": "チャ, サcha, sa"
   },
   {
     "id": "1374",
@@ -15111,7 +15111,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "wear",
-    "readings": "チャク、（ジャク）、き-る、き-せる、つ-く、つ-けるchaku, (jaku), ki-ru, ki-seru, tsu-ku, tsu-keru\n"
+    "readings": "チャク, （ジャク）, き-る, き-せる, つ-く, つ-けるchaku, (jaku), ki-ru, ki-seru, tsu-ku, tsu-keru"
   },
   {
     "id": "1375",
@@ -15122,7 +15122,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "legitimate wife",
-    "readings": "チャクchaku\n"
+    "readings": "チャクchaku"
   },
   {
     "id": "1376",
@@ -15133,7 +15133,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "middle",
-    "readings": "チュウ、（ジュウ）、なかchū, (jū), naka\n"
+    "readings": "チュウ, （ジュウ）, なかchū, (jū), naka"
   },
   {
     "id": "1377",
@@ -15144,7 +15144,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "relationship",
-    "readings": "チュウ、なかchū, naka\n"
+    "readings": "チュウ, なかchū, naka"
   },
   {
     "id": "1378",
@@ -15155,7 +15155,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "insect",
-    "readings": "チュウ、むしchū, mushi\n"
+    "readings": "チュウ, むしchū, mushi"
   },
   {
     "id": "1379",
@@ -15166,7 +15166,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "open sea",
-    "readings": "チュウ、おきchū, oki\n"
+    "readings": "チュウ, おきchū, oki"
   },
   {
     "id": "1380",
@@ -15177,7 +15177,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "mid-air",
-    "readings": "チュウchū\n"
+    "readings": "チュウchū"
   },
   {
     "id": "1381",
@@ -15188,7 +15188,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "loyalty",
-    "readings": "チュウchū\n"
+    "readings": "チュウchū"
   },
   {
     "id": "1382",
@@ -15199,7 +15199,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pluck",
-    "readings": "チュウchū\n"
+    "readings": "チュウchū"
   },
   {
     "id": "1383",
@@ -15210,7 +15210,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "pour",
-    "readings": "チュウ、そそ-ぐchū, soso-gu\n"
+    "readings": "チュウ, そそ-ぐchū, soso-gu"
   },
   {
     "id": "1384",
@@ -15221,7 +15221,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "daytime",
-    "readings": "チュウ、ひるchū, hiru\n"
+    "readings": "チュウ, ひるchū, hiru"
   },
   {
     "id": "1385",
@@ -15232,7 +15232,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "pillar",
-    "readings": "チュウ、はしらchū, hashira\n"
+    "readings": "チュウ, はしらchū, hashira"
   },
   {
     "id": "1386",
@@ -15243,7 +15243,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "inmost",
-    "readings": "チュウchū\n"
+    "readings": "チュウchū"
   },
   {
     "id": "1387",
@@ -15254,7 +15254,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "sake",
-    "readings": "チュウchū\n"
+    "readings": "チュウchū"
   },
   {
     "id": "1388",
@@ -15265,7 +15265,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "casting",
-    "readings": "チュウ、い-るchū, i-ru\n"
+    "readings": "チュウ, い-るchū, i-ru"
   },
   {
     "id": "1389",
@@ -15276,18 +15276,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "stop-over",
-    "readings": "チュウchū\n"
+    "readings": "チュウchū"
   },
   {
     "id": "1390",
     "new_shinjitai": "著",
-    "old_kyujitai": "著 [4]",
+    "old_kyujitai": "著 [4]",
     "radical": "艸",
     "strokes": "11",
     "grade": "6",
     "year_added": "",
     "english_meaning": "renowned",
-    "readings": "チョ、あらわ-す、いちじる-しいcho, arawa-su, ichijiru-shii\n"
+    "readings": "チョ, あらわ-す, いちじる-しいcho, arawa-su, ichijiru-shii"
   },
   {
     "id": "1391",
@@ -15298,7 +15298,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "savings",
-    "readings": "チョcho\n"
+    "readings": "チョcho"
   },
   {
     "id": "1392",
@@ -15309,7 +15309,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "ward",
-    "readings": "チョウ、テイchō, tei\n"
+    "readings": "チョウ, テイchō, tei"
   },
   {
     "id": "1393",
@@ -15320,7 +15320,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "condolences",
-    "readings": "チョウ、とむら-うchō, tomura-u\n"
+    "readings": "チョウ, とむら-うchō, tomura-u"
   },
   {
     "id": "1394",
@@ -15331,7 +15331,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "government office",
-    "readings": "チョウchō\n"
+    "readings": "チョウchō"
   },
   {
     "id": "1395",
@@ -15342,7 +15342,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "portent, trillion",
-    "readings": "チョウ、きざ-す、きざ-しchō, kiza-su, kiza-shi\n"
+    "readings": "チョウ, きざ-す, きざ-しchō, kiza-su, kiza-shi"
   },
   {
     "id": "1396",
@@ -15353,7 +15353,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "town",
-    "readings": "チョウ、まちchō, machi\n"
+    "readings": "チョウ, まちchō, machi"
   },
   {
     "id": "1397",
@@ -15364,7 +15364,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "long",
-    "readings": "チョウ、なが-いchō, naga-i\n"
+    "readings": "チョウ, なが-いchō, naga-i"
   },
   {
     "id": "1398",
@@ -15375,7 +15375,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "challenge",
-    "readings": "チョウ、いど-むchō, ido-mu\n"
+    "readings": "チョウ, いど-むchō, ido-mu"
   },
   {
     "id": "1399",
@@ -15386,7 +15386,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "account book",
-    "readings": "チョウchō\n"
+    "readings": "チョウchō"
   },
   {
     "id": "1400",
@@ -15397,7 +15397,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "stretch",
-    "readings": "チョウ、は-るchō, ha-ru\n"
+    "readings": "チョウ, は-るchō, ha-ru"
   },
   {
     "id": "1401",
@@ -15408,7 +15408,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "carve",
-    "readings": "チョウ、ほ-るchō, ho-ru\n"
+    "readings": "チョウ, ほ-るchō, ho-ru"
   },
   {
     "id": "1402",
@@ -15419,7 +15419,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "stare",
-    "readings": "チョウ、なが-めるchō, naga-meru\n"
+    "readings": "チョウ, なが-めるchō, naga-meru"
   },
   {
     "id": "1403",
@@ -15430,7 +15430,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "angling",
-    "readings": "チョウ、つ-るchō, tsu-ru\n"
+    "readings": "チョウ, つ-るchō, tsu-ru"
   },
   {
     "id": "1404",
@@ -15441,7 +15441,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "place on the head",
-    "readings": "チョウ、いただ-く、いただきchō, itada-ku, itadaki\n"
+    "readings": "チョウ, いただ-く, いただきchō, itada-ku, itadaki"
   },
   {
     "id": "1405",
@@ -15452,7 +15452,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "bird",
-    "readings": "チョウ、とりchō, tori\n"
+    "readings": "チョウ, とりchō, tori"
   },
   {
     "id": "1406",
@@ -15463,7 +15463,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "morning",
-    "readings": "チョウ、あさchō, asa\n"
+    "readings": "チョウ, あさchō, asa"
   },
   {
     "id": "1407",
@@ -15474,7 +15474,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "paste",
-    "readings": "チョウ、は-るchō, ha-ru\n"
+    "readings": "チョウ, は-るchō, ha-ru"
   },
   {
     "id": "1408",
@@ -15485,7 +15485,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "transcend",
-    "readings": "チョウ、こ-える、こ-すchō, ko-eru, ko-su\n"
+    "readings": "チョウ, こ-える, こ-すchō, ko-eru, ko-su"
   },
   {
     "id": "1409",
@@ -15496,7 +15496,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "intestines",
-    "readings": "チョウchō\n"
+    "readings": "チョウchō"
   },
   {
     "id": "1410",
@@ -15507,7 +15507,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hop",
-    "readings": "チョウ、は-ねる、と-ぶchō, ha-neru, to-bu\n"
+    "readings": "チョウ, は-ねる, と-ぶchō, ha-neru, to-bu"
   },
   {
     "id": "1411",
@@ -15518,18 +15518,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "indications",
-    "readings": "チョウchō\n"
+    "readings": "チョウchō"
   },
   {
     "id": "1412",
-    "new_shinjitai": "嘲 [7]",
+    "new_shinjitai": "嘲",
     "old_kyujitai": "",
     "radical": "口",
     "strokes": "15",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "ridicule",
-    "readings": "チョウ、あざけ-るchō, azake-ru\n"
+    "readings": "チョウ, あざけ-るchō, azake-ru"
   },
   {
     "id": "1413",
@@ -15540,7 +15540,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "tide",
-    "readings": "チョウ、しおchō, shio\n"
+    "readings": "チョウ, しおchō, shio"
   },
   {
     "id": "1414",
@@ -15551,7 +15551,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lucidity",
-    "readings": "チョウ、す-む、す-ますchō, su-mu, su-masu\n"
+    "readings": "チョウ, す-む, す-ますchō, su-mu, su-masu"
   },
   {
     "id": "1415",
@@ -15562,7 +15562,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "investigate",
-    "readings": "チョウ、しら-べる、ととの-う、ととの-えるchō, shira-beru, totono-u, totono-eru\n"
+    "readings": "チョウ, しら-べる, ととの-う, ととの-えるchō, shira-beru, totono-u, totono-eru"
   },
   {
     "id": "1416",
@@ -15573,18 +15573,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "listen",
-    "readings": "チョウ、き-くchō, ki-ku\n"
+    "readings": "チョウ, き-くchō, ki-ku"
   },
   {
     "id": "1417",
     "new_shinjitai": "懲",
-    "old_kyujitai": "懲 [4]",
+    "old_kyujitai": "懲 [4]",
     "radical": "心",
     "strokes": "18",
     "grade": "S",
     "year_added": "",
     "english_meaning": "penal",
-    "readings": "チョウ、こ-りる、こ-らす、こ-らしめるchō, ko-riru, ko-rasu, ko-rashimeru\n"
+    "readings": "チョウ, こ-りる, こ-らす, こ-らしめるchō, ko-riru, ko-rasu, ko-rashimeru"
   },
   {
     "id": "1418",
@@ -15595,7 +15595,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "straight",
-    "readings": "チョク、ジキ、ただ-ちに、なお-す、なお-るchoku, jiki, tada-chini, nao-su, nao-ru\n"
+    "readings": "チョク, ジキ, ただ-ちに, なお-す, なお-るchoku, jiki, tada-chini, nao-su, nao-ru"
   },
   {
     "id": "1419",
@@ -15606,18 +15606,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "imperial order",
-    "readings": "チョクchoku\n"
+    "readings": "チョクchoku"
   },
   {
     "id": "1420",
-    "new_shinjitai": "捗 [7]",
+    "new_shinjitai": "捗",
     "old_kyujitai": "",
     "radical": "手",
     "strokes": "10",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "make progress",
-    "readings": "チョクchoku\n"
+    "readings": "チョクchoku"
   },
   {
     "id": "1421",
@@ -15628,7 +15628,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sink",
-    "readings": "チン、しず-む、しず-めるchin, shizu-mu, shizu-meru\n"
+    "readings": "チン, しず-む, しず-めるchin, shizu-mu, shizu-meru"
   },
   {
     "id": "1422",
@@ -15639,7 +15639,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rare",
-    "readings": "チン、めずら-しいchin, mezura-shii\n"
+    "readings": "チン, めずら-しいchin, mezura-shii"
   },
   {
     "id": "1423",
@@ -15650,7 +15650,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "majestic plural",
-    "readings": "チンchin\n"
+    "readings": "チンchin"
   },
   {
     "id": "1424",
@@ -15661,7 +15661,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "exhibit",
-    "readings": "チンchin\n"
+    "readings": "チンchin"
   },
   {
     "id": "1425",
@@ -15672,7 +15672,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "fare",
-    "readings": "チンchin\n"
+    "readings": "チンchin"
   },
   {
     "id": "1426",
@@ -15683,7 +15683,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tranquilize",
-    "readings": "チン、しず-める、しず-まるchin, shizu-meru, shizu-maru\n"
+    "readings": "チン, しず-める, しず-まるchin, shizu-meru, shizu-maru"
   },
   {
     "id": "1427",
@@ -15694,7 +15694,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "follow",
-    "readings": "ツイ、お-うtsui, o-u\n"
+    "readings": "ツイ, お-うtsui, o-u"
   },
   {
     "id": "1428",
@@ -15705,7 +15705,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "oak",
-    "readings": "ツイtsui\n"
+    "readings": "ツイtsui"
   },
   {
     "id": "1429",
@@ -15716,7 +15716,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "crash",
-    "readings": "ツイtsui\n"
+    "readings": "ツイtsui"
   },
   {
     "id": "1430",
@@ -15727,7 +15727,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "pass through",
-    "readings": "ツウ、（ツ）、とお-る、とお-す、かよ-うtsū, (tsu), too-ru, too-su, kayo-u\n"
+    "readings": "ツウ, （ツ）, とお-る, とお-す, かよ-うtsū, (tsu), too-ru, too-su, kayo-u"
   },
   {
     "id": "1431",
@@ -15738,18 +15738,18 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "pain",
-    "readings": "ツウ、いた-い、いた-む、いた-めるtsū, ita-i, ita-mu, ita-meru\n"
+    "readings": "ツウ, いた-い, いた-む, いた-めるtsū, ita-i, ita-mu, ita-meru"
   },
   {
     "id": "1432",
     "new_shinjitai": "塚",
-    "old_kyujitai": "塚 [4]",
+    "old_kyujitai": "塚 [4]",
     "radical": "土",
     "strokes": "12",
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "hillock",
-    "readings": "つかtsuka\n"
+    "readings": "つかtsuka"
   },
   {
     "id": "1433",
@@ -15760,7 +15760,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "pickling",
-    "readings": "つ-ける、つ-かるtsu-keru, tsu-karu\n"
+    "readings": "つ-ける, つ-かるtsu-keru, tsu-karu"
   },
   {
     "id": "1434",
@@ -15771,7 +15771,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "two-mat area",
-    "readings": "つぼtsubo\n"
+    "readings": "つぼtsubo"
   },
   {
     "id": "1435",
@@ -15782,7 +15782,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "claw",
-    "readings": "つめ、（つま）tsume, (tsuma)\n"
+    "readings": "つめ, （つま）tsume, (tsuma)"
   },
   {
     "id": "1436",
@@ -15793,7 +15793,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "crane",
-    "readings": "つるtsuru\n"
+    "readings": "つるtsuru"
   },
   {
     "id": "1437",
@@ -15804,7 +15804,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "low",
-    "readings": "テイ、ひく-い、ひく-める、ひく-まるtei, hiku-i, hiku-meru, hiku-maru\n"
+    "readings": "テイ, ひく-い, ひく-める, ひく-まるtei, hiku-i, hiku-meru, hiku-maru"
   },
   {
     "id": "1438",
@@ -15815,7 +15815,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "display",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1439",
@@ -15826,7 +15826,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "courts",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1440",
@@ -15837,7 +15837,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "younger brother",
-    "readings": "テイ、（ダイ）、（デ）、おとうとtei, (dai), (de), otōto\n"
+    "readings": "テイ, （ダイ）, （デ）, おとうとtei, (dai), (de), otōto"
   },
   {
     "id": "1441",
@@ -15848,7 +15848,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "decide",
-    "readings": "テイ、ジョウ、さだ-める、さだ-まる、さだ-かtei, jō, sada-meru, sada-maru, sada-ka\n"
+    "readings": "テイ, ジョウ, さだ-める, さだ-まる, さだ-かtei, jō, sada-meru, sada-maru, sada-ka"
   },
   {
     "id": "1442",
@@ -15859,7 +15859,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "bottom",
-    "readings": "テイ、そこtei, soko\n"
+    "readings": "テイ, そこtei, soko"
   },
   {
     "id": "1443",
@@ -15870,7 +15870,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "resist",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1444",
@@ -15881,7 +15881,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "residence",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1445",
@@ -15892,7 +15892,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "pavilion",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1446",
@@ -15903,7 +15903,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "upright",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1447",
@@ -15914,7 +15914,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sovereign",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1448",
@@ -15925,7 +15925,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "revise",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1449",
@@ -15936,7 +15936,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "garden",
-    "readings": "テイ、にわtei, niwa\n"
+    "readings": "テイ, にわtei, niwa"
   },
   {
     "id": "1450",
@@ -15947,7 +15947,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "relay",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1451",
@@ -15958,7 +15958,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "halt",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1452",
@@ -15969,7 +15969,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "spy",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1453",
@@ -15980,7 +15980,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dike",
-    "readings": "テイ、つつみtei, tsutsumi\n"
+    "readings": "テイ, つつみtei, tsutsumi"
   },
   {
     "id": "1454",
@@ -15991,7 +15991,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "present",
-    "readings": "テイ、さ-げるtei, sa-geru\n"
+    "readings": "テイ, さ-げるtei, sa-geru"
   },
   {
     "id": "1455",
@@ -16002,7 +16002,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "extent",
-    "readings": "テイ、ほどtei, hodo\n"
+    "readings": "テイ, ほどtei, hodo"
   },
   {
     "id": "1456",
@@ -16013,7 +16013,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rowboat",
-    "readings": "テイtei\n"
+    "readings": "テイtei"
   },
   {
     "id": "1457",
@@ -16024,7 +16024,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tighten",
-    "readings": "テイ、し-まる、し-めるtei, shi-maru, shi-meru\n"
+    "readings": "テイ, し-まる, し-めるtei, shi-maru, shi-meru"
   },
   {
     "id": "1458",
@@ -16035,7 +16035,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "abandon",
-    "readings": "テイ、あきら-めるtei, akira-meru\n"
+    "readings": "テイ, あきら-めるtei, akira-meru"
   },
   {
     "id": "1459",
@@ -16046,7 +16046,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "mud",
-    "readings": "デイ、どろdei, doro\n"
+    "readings": "デイ, どろdei, doro"
   },
   {
     "id": "1460",
@@ -16057,7 +16057,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "target",
-    "readings": "テキ、まとteki, mato\n"
+    "readings": "テキ, まとteki, mato"
   },
   {
     "id": "1461",
@@ -16068,7 +16068,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "flute",
-    "readings": "テキ、ふえteki, fue\n"
+    "readings": "テキ, ふえteki, fue"
   },
   {
     "id": "1462",
@@ -16079,7 +16079,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pinch",
-    "readings": "テキ、つ-むteki, tsu-mu\n"
+    "readings": "テキ, つ-むteki, tsu-mu"
   },
   {
     "id": "1463",
@@ -16090,7 +16090,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "drip",
-    "readings": "テキ、しずく、したた-るteki, shizuku, shitata-ru\n"
+    "readings": "テキ, しずく, したた-るteki, shizuku, shitata-ru"
   },
   {
     "id": "1464",
@@ -16101,7 +16101,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "suitable",
-    "readings": "テキteki\n"
+    "readings": "テキteki"
   },
   {
     "id": "1465",
@@ -16112,18 +16112,18 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "enemy",
-    "readings": "テキ、かたきteki, kataki\n"
+    "readings": "テキ, かたきteki, kataki"
   },
   {
     "id": "1466",
-    "new_shinjitai": "溺 [7]",
+    "new_shinjitai": "溺",
     "old_kyujitai": "",
     "radical": "水",
     "strokes": "13",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "drown",
-    "readings": "デキ、おぼ-れるdeki, obo-reru\n"
+    "readings": "デキ, おぼ-れるdeki, obo-reru"
   },
   {
     "id": "1467",
@@ -16134,7 +16134,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "transfer",
-    "readings": "テツtetsu\n"
+    "readings": "テツtetsu"
   },
   {
     "id": "1468",
@@ -16145,7 +16145,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "philosophy",
-    "readings": "テツtetsu\n"
+    "readings": "テツtetsu"
   },
   {
     "id": "1469",
@@ -16156,7 +16156,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "iron",
-    "readings": "テツtetsu\n"
+    "readings": "テツtetsu"
   },
   {
     "id": "1470",
@@ -16167,7 +16167,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "penetrate",
-    "readings": "テツtetsu\n"
+    "readings": "テツtetsu"
   },
   {
     "id": "1471",
@@ -16178,7 +16178,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "remove",
-    "readings": "テツtetsu\n"
+    "readings": "テツtetsu"
   },
   {
     "id": "1472",
@@ -16189,7 +16189,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "heaven",
-    "readings": "テン、あめ、（あま）ten, ame, (ama)\n"
+    "readings": "テン, あめ, （あま）ten, ame, (ama)"
   },
   {
     "id": "1473",
@@ -16200,7 +16200,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "code",
-    "readings": "テンten\n"
+    "readings": "テンten"
   },
   {
     "id": "1474",
@@ -16211,7 +16211,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "shop",
-    "readings": "テン、みせten, mise\n"
+    "readings": "テン, みせten, mise"
   },
   {
     "id": "1475",
@@ -16222,7 +16222,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "point",
-    "readings": "テンten\n"
+    "readings": "テンten"
   },
   {
     "id": "1476",
@@ -16233,7 +16233,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "expand",
-    "readings": "テンten\n"
+    "readings": "テンten"
   },
   {
     "id": "1477",
@@ -16244,7 +16244,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "annexed",
-    "readings": "テン、そ-える、そ-うten, so-eru, so-u\n"
+    "readings": "テン, そ-える, そ-うten, so-eru, so-u"
   },
   {
     "id": "1478",
@@ -16255,18 +16255,18 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "revolve",
-    "readings": "テン、ころ-がる、ころ-げる、ころ-がす、ころ-ぶten, koro-garu, koro-geru, koro-gasu, koro-bu\n"
+    "readings": "テン, ころ-がる, ころ-げる, ころ-がす, ころ-ぶten, koro-garu, koro-geru, koro-gasu, koro-bu"
   },
   {
     "id": "1479",
-    "new_shinjitai": "塡 [7]",
+    "new_shinjitai": "塡",
     "old_kyujitai": "",
     "radical": "土",
     "strokes": "13",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "fill in",
-    "readings": "テンten\n"
+    "readings": "テンten"
   },
   {
     "id": "1480",
@@ -16277,7 +16277,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "rice paddy",
-    "readings": "デン、たden, ta\n"
+    "readings": "デン, たden, ta"
   },
   {
     "id": "1481",
@@ -16288,7 +16288,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "transmit",
-    "readings": "デン、つた-わる、つた-える、つた-うden, tsuta-waru, tsuta-eru, tsuta-u\n"
+    "readings": "デン, つた-わる, つた-える, つた-うden, tsuta-waru, tsuta-eru, tsuta-u"
   },
   {
     "id": "1482",
@@ -16299,7 +16299,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "Mr.",
-    "readings": "デン、テン、との、どのden, ten, tono, dono\n"
+    "readings": "デン, テン, との, どのden, ten, tono, dono"
   },
   {
     "id": "1483",
@@ -16310,7 +16310,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "electricity",
-    "readings": "デンden\n"
+    "readings": "デンden"
   },
   {
     "id": "1484",
@@ -16321,7 +16321,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "Big Dipper",
-    "readings": "トto\n"
+    "readings": "トto"
   },
   {
     "id": "1485",
@@ -16332,7 +16332,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "spit",
-    "readings": "ト、は-くto, ha-ku\n"
+    "readings": "ト, は-くto, ha-ku"
   },
   {
     "id": "1486",
@@ -16343,7 +16343,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "jealousy",
-    "readings": "ト、ねた-むto, neta-mu\n"
+    "readings": "ト, ねた-むto, neta-mu"
   },
   {
     "id": "1487",
@@ -16354,7 +16354,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "junior",
-    "readings": "トto\n"
+    "readings": "トto"
   },
   {
     "id": "1488",
@@ -16365,18 +16365,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "route",
-    "readings": "トto\n"
+    "readings": "トto"
   },
   {
     "id": "1489",
     "new_shinjitai": "都",
-    "old_kyujitai": "都 [4]",
+    "old_kyujitai": "都 [4]",
     "radical": "邑",
     "strokes": "11",
     "grade": "3",
     "year_added": "",
     "english_meaning": "metropolis",
-    "readings": "ト、ツ、みやこto, tsu, miyako\n"
+    "readings": "ト, ツ, みやこto, tsu, miyako"
   },
   {
     "id": "1490",
@@ -16387,7 +16387,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "transit",
-    "readings": "ト、わた-る、わた-すto, wata-ru, wata-su\n"
+    "readings": "ト, わた-る, わた-すto, wata-ru, wata-su"
   },
   {
     "id": "1491",
@@ -16398,18 +16398,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "paint",
-    "readings": "ト、ぬ-るto, nu-ru\n"
+    "readings": "ト, ぬ-るto, nu-ru"
   },
   {
     "id": "1492",
-    "new_shinjitai": "賭 [7]",
+    "new_shinjitai": "賭",
     "old_kyujitai": "",
     "radical": "貝",
     "strokes": "16",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "gamble",
-    "readings": "ト、か-けるto, ka-keru\n"
+    "readings": "ト, か-けるto, ka-keru"
   },
   {
     "id": "1493",
@@ -16420,7 +16420,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "soil",
-    "readings": "ド、ト、つちdo, to, tsuchi\n"
+    "readings": "ド, ト, つちdo, to, tsuchi"
   },
   {
     "id": "1494",
@@ -16431,7 +16431,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "guy",
-    "readings": "ドdo\n"
+    "readings": "ドdo"
   },
   {
     "id": "1495",
@@ -16442,7 +16442,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "toil",
-    "readings": "ド、つと-めるdo, tsuto-meru\n"
+    "readings": "ド, つと-めるdo, tsuto-meru"
   },
   {
     "id": "1496",
@@ -16453,7 +16453,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "degrees",
-    "readings": "ド、（ト）、（タク）、たびdo, (to), (taku), tabi\n"
+    "readings": "ド, （ト）, （タク）, たびdo, (to), (taku), tabi"
   },
   {
     "id": "1497",
@@ -16464,7 +16464,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "angry",
-    "readings": "ド、いか-る、おこ-るdo, ika-ru, oko-ru\n"
+    "readings": "ド, いか-る, おこ-るdo, ika-ru, oko-ru"
   },
   {
     "id": "1498",
@@ -16475,7 +16475,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "sword",
-    "readings": "トウ、かたなtō, katana\n"
+    "readings": "トウ, かたなtō, katana"
   },
   {
     "id": "1499",
@@ -16486,7 +16486,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "winter",
-    "readings": "トウ、ふゆtō, fuyu\n"
+    "readings": "トウ, ふゆtō, fuyu"
   },
   {
     "id": "1500",
@@ -16497,7 +16497,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "lamp",
-    "readings": "トウ、ひtō, hi\n"
+    "readings": "トウ, ひtō, hi"
   },
   {
     "id": "1501",
@@ -16508,7 +16508,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "hit",
-    "readings": "トウ、あ-たる、あ-てるtō, a-taru, a-teru\n"
+    "readings": "トウ, あ-たる, あ-てるtō, a-taru, a-teru"
   },
   {
     "id": "1502",
@@ -16519,7 +16519,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "throw",
-    "readings": "トウ、な-げるtō, na-geru\n"
+    "readings": "トウ, な-げるtō, na-geru"
   },
   {
     "id": "1503",
@@ -16530,7 +16530,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "beans",
-    "readings": "トウ、（ズ）、まめtō, (zu), mame\n"
+    "readings": "トウ, （ズ）, まめtō, (zu), mame"
   },
   {
     "id": "1504",
@@ -16541,7 +16541,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "east",
-    "readings": "トウ、ひがしtō, higashi\n"
+    "readings": "トウ, ひがしtō, higashi"
   },
   {
     "id": "1505",
@@ -16552,7 +16552,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "arrival",
-    "readings": "トウtō\n"
+    "readings": "トウtō"
   },
   {
     "id": "1506",
@@ -16563,7 +16563,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "escape",
-    "readings": "トウ、に-げる、に-がす、のが-す、のが-れるtō, ni-geru, ni-gasu, noga-su, noga-reru\n"
+    "readings": "トウ, に-げる, に-がす, のが-す, のが-れるtō, ni-geru, ni-gasu, noga-su, noga-reru"
   },
   {
     "id": "1507",
@@ -16574,7 +16574,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "overthrow",
-    "readings": "トウ、たお-れる、たお-すtō, tao-reru, tao-su\n"
+    "readings": "トウ, たお-れる, たお-すtō, tao-reru, tao-su"
   },
   {
     "id": "1508",
@@ -16585,7 +16585,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "frozen",
-    "readings": "トウ、こお-る、こご-えるtō, koo-ru, kogo-eru\n"
+    "readings": "トウ, こお-る, こご-えるtō, koo-ru, kogo-eru"
   },
   {
     "id": "1509",
@@ -16596,7 +16596,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "T'ang",
-    "readings": "トウ、からtō, kara\n"
+    "readings": "トウ, からtō, kara"
   },
   {
     "id": "1510",
@@ -16607,7 +16607,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "island",
-    "readings": "トウ、しまtō, shima\n"
+    "readings": "トウ, しまtō, shima"
   },
   {
     "id": "1511",
@@ -16618,7 +16618,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "peach tree",
-    "readings": "トウ、ももtō, momo\n"
+    "readings": "トウ, ももtō, momo"
   },
   {
     "id": "1512",
@@ -16629,7 +16629,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "chastise",
-    "readings": "トウ、う-つtō, u-tsu\n"
+    "readings": "トウ, う-つtō, u-tsu"
   },
   {
     "id": "1513",
@@ -16640,7 +16640,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "transparent",
-    "readings": "トウ、す-く、す-かす、す-けるtō, su-ku, su-kasu, su-keru\n"
+    "readings": "トウ, す-く, す-かす, す-けるtō, su-ku, su-kasu, su-keru"
   },
   {
     "id": "1514",
@@ -16651,7 +16651,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "group",
-    "readings": "トウtō\n"
+    "readings": "トウtō"
   },
   {
     "id": "1515",
@@ -16662,7 +16662,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lament",
-    "readings": "トウ、いた-むtō, ita-mu\n"
+    "readings": "トウ, いた-むtō, ita-mu"
   },
   {
     "id": "1516",
@@ -16673,7 +16673,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "steal",
-    "readings": "トウ、ぬす-むtō, nusu-mu\n"
+    "readings": "トウ, ぬす-むtō, nusu-mu"
   },
   {
     "id": "1517",
@@ -16684,7 +16684,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pottery",
-    "readings": "トウtō\n"
+    "readings": "トウtō"
   },
   {
     "id": "1518",
@@ -16695,7 +16695,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pagoda",
-    "readings": "トウtō\n"
+    "readings": "トウtō"
   },
   {
     "id": "1519",
@@ -16706,7 +16706,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "board",
-    "readings": "トウtō\n"
+    "readings": "トウtō"
   },
   {
     "id": "1520",
@@ -16717,7 +16717,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "ridgepole",
-    "readings": "トウ、むね、（むな）tō, mune, (muna)\n"
+    "readings": "トウ, むね, （むな）tō, mune, (muna)"
   },
   {
     "id": "1521",
@@ -16728,7 +16728,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "hot water",
-    "readings": "トウ、ゆtō, yu\n"
+    "readings": "トウ, ゆtō, yu"
   },
   {
     "id": "1522",
@@ -16739,7 +16739,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pox",
-    "readings": "トウtō\n"
+    "readings": "トウtō"
   },
   {
     "id": "1523",
@@ -16750,7 +16750,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "climb",
-    "readings": "トウ、ト、のぼ-るtō, to, nobo-ru\n"
+    "readings": "トウ, ト, のぼ-るtō, to, nobo-ru"
   },
   {
     "id": "1524",
@@ -16761,7 +16761,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "answer",
-    "readings": "トウ、こた-える、こた-えtō, kota-eru, kota-e\n"
+    "readings": "トウ, こた-える, こた-えtō, kota-eru, kota-e"
   },
   {
     "id": "1525",
@@ -16772,7 +16772,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "class",
-    "readings": "トウ、ひと-しいtō, hito-shii\n"
+    "readings": "トウ, ひと-しいtō, hito-shii"
   },
   {
     "id": "1526",
@@ -16783,7 +16783,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cylinder",
-    "readings": "トウ、つつtō, tsutsu\n"
+    "readings": "トウ, つつtō, tsutsu"
   },
   {
     "id": "1527",
@@ -16794,7 +16794,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "unite",
-    "readings": "トウ、す-べるtō, su-beru\n"
+    "readings": "トウ, す-べるtō, su-beru"
   },
   {
     "id": "1528",
@@ -16805,7 +16805,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rice plant",
-    "readings": "トウ、いね、（いな）tō, ine, (ina)\n"
+    "readings": "トウ, いね, （いな）tō, ine, (ina)"
   },
   {
     "id": "1529",
@@ -16816,7 +16816,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "step",
-    "readings": "トウ、ふ-む、ふ-まえるtō, fu-mu, fu-maeru\n"
+    "readings": "トウ, ふ-む, ふ-まえるtō, fu-mu, fu-maeru"
   },
   {
     "id": "1530",
@@ -16827,7 +16827,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "sugar",
-    "readings": "トウtō\n"
+    "readings": "トウtō"
   },
   {
     "id": "1531",
@@ -16838,7 +16838,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "head",
-    "readings": "トウ、ズ、（ト）、あたま、かしらtō, zu, (to), atama, kashira\n"
+    "readings": "トウ, ズ, （ト）, あたま, かしらtō, zu, (to), atama, kashira"
   },
   {
     "id": "1532",
@@ -16849,7 +16849,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mimeograph",
-    "readings": "トウtō\n"
+    "readings": "トウtō"
   },
   {
     "id": "1533",
@@ -16860,7 +16860,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "wisteria",
-    "readings": "トウ、ふじtō, fuji\n"
+    "readings": "トウ, ふじtō, fuji"
   },
   {
     "id": "1534",
@@ -16871,7 +16871,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fight",
-    "readings": "トウ、たたか-うtō, tataka-u\n"
+    "readings": "トウ, たたか-うtō, tataka-u"
   },
   {
     "id": "1535",
@@ -16882,7 +16882,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "inflation",
-    "readings": "トウtō\n"
+    "readings": "トウtō"
   },
   {
     "id": "1536",
@@ -16893,7 +16893,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "same",
-    "readings": "ドウ、おな-じdō, ona-ji\n"
+    "readings": "ドウ, おな-じdō, ona-ji"
   },
   {
     "id": "1537",
@@ -16904,7 +16904,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "den",
-    "readings": "ドウ、ほらdō, hora\n"
+    "readings": "ドウ, ほらdō, hora"
   },
   {
     "id": "1538",
@@ -16915,7 +16915,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "trunk",
-    "readings": "ドウdō\n"
+    "readings": "ドウdō"
   },
   {
     "id": "1539",
@@ -16926,7 +16926,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "move",
-    "readings": "ドウ、うご-く、うご-かすdō, ugo-ku, ugo-kasu\n"
+    "readings": "ドウ, うご-く, うご-かすdō, ugo-ku, ugo-kasu"
   },
   {
     "id": "1540",
@@ -16937,7 +16937,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "public chamber",
-    "readings": "ドウdō\n"
+    "readings": "ドウdō"
   },
   {
     "id": "1541",
@@ -16948,7 +16948,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "juvenile",
-    "readings": "ドウ、わらべdō, warabe\n"
+    "readings": "ドウ, わらべdō, warabe"
   },
   {
     "id": "1542",
@@ -16959,7 +16959,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "road",
-    "readings": "ドウ、（トウ）、みちdō, (tō), michi\n"
+    "readings": "ドウ, （トウ）, みちdō, (tō), michi"
   },
   {
     "id": "1543",
@@ -16970,7 +16970,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "work",
-    "readings": "ドウ、はたら-くdō, hatara-ku\n"
+    "readings": "ドウ, はたら-くdō, hatara-ku"
   },
   {
     "id": "1544",
@@ -16981,7 +16981,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "copper",
-    "readings": "ドウdō\n"
+    "readings": "ドウdō"
   },
   {
     "id": "1545",
@@ -16992,7 +16992,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "guide",
-    "readings": "ドウ、みちび-くdō, michibi-ku\n"
+    "readings": "ドウ, みちび-くdō, michibi-ku"
   },
   {
     "id": "1546",
@@ -17003,7 +17003,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "pupil",
-    "readings": "ドウ、ひとみdō, hitomi\n"
+    "readings": "ドウ, ひとみdō, hitomi"
   },
   {
     "id": "1547",
@@ -17014,7 +17014,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mountain peak",
-    "readings": "とうげtōge\n"
+    "readings": "とうげtōge"
   },
   {
     "id": "1548",
@@ -17025,7 +17025,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hide",
-    "readings": "トクtoku\n"
+    "readings": "トクtoku"
   },
   {
     "id": "1549",
@@ -17036,7 +17036,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "special",
-    "readings": "トクtoku\n"
+    "readings": "トクtoku"
   },
   {
     "id": "1550",
@@ -17047,7 +17047,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "acquire",
-    "readings": "トク、え-る、う-るtoku, e-ru, u-ru\n"
+    "readings": "トク, え-る, う-るtoku, e-ru, u-ru"
   },
   {
     "id": "1551",
@@ -17058,7 +17058,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "coach",
-    "readings": "トクtoku\n"
+    "readings": "トクtoku"
   },
   {
     "id": "1552",
@@ -17069,7 +17069,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "benevolence",
-    "readings": "トクtoku\n"
+    "readings": "トクtoku"
   },
   {
     "id": "1553",
@@ -17080,7 +17080,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fervent",
-    "readings": "トクtoku\n"
+    "readings": "トクtoku"
   },
   {
     "id": "1554",
@@ -17091,7 +17091,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "poison",
-    "readings": "ドクdoku\n"
+    "readings": "ドクdoku"
   },
   {
     "id": "1555",
@@ -17102,7 +17102,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "alone",
-    "readings": "ドク、ひと-りdoku, hito-ri\n"
+    "readings": "ドク, ひと-りdoku, hito-ri"
   },
   {
     "id": "1556",
@@ -17113,18 +17113,18 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "read",
-    "readings": "ドク、トク、（トウ）、よ-むdoku, toku, (tō), yo-mu\n"
+    "readings": "ドク, トク, （トウ）, よ-むdoku, toku, (tō), yo-mu"
   },
   {
     "id": "1557",
-    "new_shinjitai": "栃 [5]",
+    "new_shinjitai": "栃",
     "old_kyujitai": "",
     "radical": "木",
     "strokes": "9",
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "horse chestnut",
-    "readings": "（とち）[6](tochi)\n"
+    "readings": "（とち）[6](tochi)"
   },
   {
     "id": "1558",
@@ -17135,18 +17135,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "convex",
-    "readings": "トツtotsu\n"
+    "readings": "トツtotsu"
   },
   {
     "id": "1559",
     "new_shinjitai": "突",
-    "old_kyujitai": "突 [4]",
+    "old_kyujitai": "突 [4]",
     "radical": "穴",
     "strokes": "8",
     "grade": "S",
     "year_added": "",
     "english_meaning": "stab",
-    "readings": "トツ、つ-くtotsu, tsu-ku\n"
+    "readings": "トツ, つ-くtotsu, tsu-ku"
   },
   {
     "id": "1560",
@@ -17157,7 +17157,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "deliver",
-    "readings": "とど-ける、とど-くtodo-keru, todo-ku\n"
+    "readings": "とど-ける, とど-くtodo-keru, todo-ku"
   },
   {
     "id": "1561",
@@ -17168,7 +17168,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "barracks",
-    "readings": "トンton\n"
+    "readings": "トンton"
   },
   {
     "id": "1562",
@@ -17179,7 +17179,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pork",
-    "readings": "トン、ぶたton, buta\n"
+    "readings": "トン, ぶたton, buta"
   },
   {
     "id": "1563",
@@ -17190,7 +17190,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "suddenly",
-    "readings": "トンton\n"
+    "readings": "トンton"
   },
   {
     "id": "1564",
@@ -17201,7 +17201,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "covet",
-    "readings": "ドン、むさぼ-るdon, musabo-ru\n"
+    "readings": "ドン, むさぼ-るdon, musabo-ru"
   },
   {
     "id": "1565",
@@ -17212,7 +17212,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dull",
-    "readings": "ドン、にぶ-い、にぶ-るdon, nibu-i, nibu-ru\n"
+    "readings": "ドン, にぶ-い, にぶ-るdon, nibu-i, nibu-ru"
   },
   {
     "id": "1566",
@@ -17223,7 +17223,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cloudy weather",
-    "readings": "ドン、くも-るdon, kumo-ru\n"
+    "readings": "ドン, くも-るdon, kumo-ru"
   },
   {
     "id": "1567",
@@ -17234,7 +17234,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "bowl of food",
-    "readings": "どんぶり、（どん）donburi, (don)\n"
+    "readings": "どんぶり, （どん）donburi, (don)"
   },
   {
     "id": "1568",
@@ -17245,7 +17245,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "what",
-    "readings": "ナna\n"
+    "readings": "ナna"
   },
   {
     "id": "1569",
@@ -17256,7 +17256,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "what",
-    "readings": "ナna\n"
+    "readings": "ナna"
   },
   {
     "id": "1570",
@@ -17267,7 +17267,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "inside",
-    "readings": "ナイ、（ダイ）、うちnai, (dai), uchi\n"
+    "readings": "ナイ, （ダイ）, うちnai, (dai), uchi"
   },
   {
     "id": "1571",
@@ -17278,18 +17278,18 @@ const kanjis = [
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "pear tree",
-    "readings": "なしnashi\n"
+    "readings": "なしnashi"
   },
   {
     "id": "1572",
-    "new_shinjitai": "謎 [8]",
+    "new_shinjitai": "謎",
     "old_kyujitai": "",
     "radical": "言",
     "strokes": "17",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "riddle",
-    "readings": "なぞnazo\n"
+    "readings": "なぞnazo"
   },
   {
     "id": "1573",
@@ -17300,7 +17300,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "pot",
-    "readings": "なべnabe\n"
+    "readings": "なべnabe"
   },
   {
     "id": "1574",
@@ -17311,7 +17311,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "south",
-    "readings": "ナン、（ナ）、みなみnan, (na), minami\n"
+    "readings": "ナン, （ナ）, みなみnan, (na), minami"
   },
   {
     "id": "1575",
@@ -17322,18 +17322,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "soft",
-    "readings": "ナン、やわ-らか、やわ-らかいnan, yawa-raka, yawa-rakai\n"
+    "readings": "ナン, やわ-らか, やわ-らかいnan, yawa-raka, yawa-rakai"
   },
   {
     "id": "1576",
     "new_shinjitai": "難",
-    "old_kyujitai": "難 [4]",
+    "old_kyujitai": "難 [4]",
     "radical": "隹",
     "strokes": "18",
     "grade": "6",
     "year_added": "",
     "english_meaning": "difficult",
-    "readings": "ナン、かた-い、むずか-しいnan, kata-i, muzuka-shii\n"
+    "readings": "ナン, かた-い, むずか-しいnan, kata-i, muzuka-shii"
   },
   {
     "id": "1577",
@@ -17344,7 +17344,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "two",
-    "readings": "ニ、ふた、ふた-つni, futa, futa-tsu\n"
+    "readings": "ニ, ふた, ふた-つni, futa, futa-tsu"
   },
   {
     "id": "1578",
@@ -17355,7 +17355,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "nun",
-    "readings": "ニ、あまni, ama\n"
+    "readings": "ニ, あまni, ama"
   },
   {
     "id": "1579",
@@ -17366,7 +17366,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "two (falsification prevention)",
-    "readings": "ニni\n"
+    "readings": "ニni"
   },
   {
     "id": "1580",
@@ -17377,7 +17377,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "scent",
-    "readings": "にお-うnio-u\n"
+    "readings": "にお-うnio-u"
   },
   {
     "id": "1581",
@@ -17388,7 +17388,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "meat",
-    "readings": "ニクniku\n"
+    "readings": "ニクniku"
   },
   {
     "id": "1582",
@@ -17399,7 +17399,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "rainbow",
-    "readings": "にじniji\n"
+    "readings": "にじniji"
   },
   {
     "id": "1583",
@@ -17410,7 +17410,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "day",
-    "readings": "ニチ、ジツ、ひ、かnichi, jitsu, hi, ka\n"
+    "readings": "ニチ, ジツ, ひ, かnichi, jitsu, hi, ka"
   },
   {
     "id": "1584",
@@ -17421,7 +17421,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "enter",
-    "readings": "ニュウ、い-る、い-れる、はい-るnyū, i-ru, i-reru, hai-ru\n"
+    "readings": "ニュウ, い-る, い-れる, はい-るnyū, i-ru, i-reru, hai-ru"
   },
   {
     "id": "1585",
@@ -17432,7 +17432,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "milk",
-    "readings": "ニュウ、ちち、ちnyū, chichi, chi\n"
+    "readings": "ニュウ, ちち, ちnyū, chichi, chi"
   },
   {
     "id": "1586",
@@ -17443,7 +17443,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "urine",
-    "readings": "ニョウnyō\n"
+    "readings": "ニョウnyō"
   },
   {
     "id": "1587",
@@ -17454,7 +17454,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "responsibility",
-    "readings": "ニン、まか-せる、まか-すnin, maka-seru, maka-su\n"
+    "readings": "ニン, まか-せる, まか-すnin, maka-seru, maka-su"
   },
   {
     "id": "1588",
@@ -17465,7 +17465,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pregnancy",
-    "readings": "ニンnin\n"
+    "readings": "ニンnin"
   },
   {
     "id": "1589",
@@ -17476,7 +17476,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "endure",
-    "readings": "ニン、しの-ぶ、しの-ばせるnin, shino-bu, shino-baseru\n"
+    "readings": "ニン, しの-ぶ, しの-ばせるnin, shino-bu, shino-baseru"
   },
   {
     "id": "1590",
@@ -17487,7 +17487,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "recognize",
-    "readings": "ニン、みと-めるnin, mito-meru\n"
+    "readings": "ニン, みと-めるnin, mito-meru"
   },
   {
     "id": "1591",
@@ -17498,7 +17498,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rather",
-    "readings": "ネイnei\n"
+    "readings": "ネイnei"
   },
   {
     "id": "1592",
@@ -17509,7 +17509,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "heat",
-    "readings": "ネツ、あつ-いnetsu, atsu-i\n"
+    "readings": "ネツ, あつ-いnetsu, atsu-i"
   },
   {
     "id": "1593",
@@ -17520,7 +17520,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "year",
-    "readings": "ネン、としnen, toshi\n"
+    "readings": "ネン, としnen, toshi"
   },
   {
     "id": "1594",
@@ -17531,7 +17531,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "thought",
-    "readings": "ネンnen\n"
+    "readings": "ネンnen"
   },
   {
     "id": "1595",
@@ -17542,7 +17542,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "twist",
-    "readings": "ネンnen\n"
+    "readings": "ネンnen"
   },
   {
     "id": "1596",
@@ -17553,7 +17553,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sticky",
-    "readings": "ネン、ねば-るnen, neba-ru\n"
+    "readings": "ネン, ねば-るnen, neba-ru"
   },
   {
     "id": "1597",
@@ -17564,7 +17564,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "burn",
-    "readings": "ネン、も-える、も-やす、も-すnen, mo-eru, mo-yasu, mo-su\n"
+    "readings": "ネン, も-える, も-やす, も-すnen, mo-eru, mo-yasu, mo-su"
   },
   {
     "id": "1598",
@@ -17575,7 +17575,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "trouble",
-    "readings": "ノウ、なや-む、なや-ますnō, naya-mu, naya-masu\n"
+    "readings": "ノウ, なや-む, なや-ますnō, naya-mu, naya-masu"
   },
   {
     "id": "1599",
@@ -17586,7 +17586,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "settlement",
-    "readings": "ノウ、（ナッ）、（ナ）、（ナン）、（トウ）、おさ-める、おさ-まるnō, (na'), (na), (nan), (tō), osa-meru, osa-maru\n"
+    "readings": "ノウ, （ナッ）, （ナ）, （ナン）, （トウ）, おさ-める, おさ-まるnō, (na'), (na), (nan), (tō), osa-meru, osa-maru"
   },
   {
     "id": "1600",
@@ -17597,7 +17597,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "ability",
-    "readings": "ノウnō\n"
+    "readings": "ノウnō"
   },
   {
     "id": "1601",
@@ -17608,7 +17608,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "brain",
-    "readings": "ノウnō\n"
+    "readings": "ノウnō"
   },
   {
     "id": "1602",
@@ -17619,7 +17619,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "farming",
-    "readings": "ノウnō\n"
+    "readings": "ノウnō"
   },
   {
     "id": "1603",
@@ -17630,7 +17630,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "concentrated",
-    "readings": "ノウ、こ-いnō, ko-i\n"
+    "readings": "ノウ, こ-いnō, ko-i"
   },
   {
     "id": "1604",
@@ -17641,7 +17641,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "grasp",
-    "readings": "ハha\n"
+    "readings": "ハha"
   },
   {
     "id": "1605",
@@ -17652,7 +17652,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "wave",
-    "readings": "ハ、なみha, nami\n"
+    "readings": "ハ, なみha, nami"
   },
   {
     "id": "1606",
@@ -17663,7 +17663,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "sect",
-    "readings": "ハha\n"
+    "readings": "ハha"
   },
   {
     "id": "1607",
@@ -17674,7 +17674,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "rend",
-    "readings": "ハ、やぶ-る、やぶ-れるha, yabu-ru, yabu-reru\n"
+    "readings": "ハ, やぶ-る, やぶ-れるha, yabu-ru, yabu-reru"
   },
   {
     "id": "1608",
@@ -17685,7 +17685,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "hegemony",
-    "readings": "ハha\n"
+    "readings": "ハha"
   },
   {
     "id": "1609",
@@ -17696,7 +17696,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "horse",
-    "readings": "バ、うま、（ま）ba, uma, (ma)\n"
+    "readings": "バ, うま, （ま）ba, uma, (ma)"
   },
   {
     "id": "1610",
@@ -17707,7 +17707,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "old woman",
-    "readings": "バba\n"
+    "readings": "バba"
   },
   {
     "id": "1611",
@@ -17718,7 +17718,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "insult",
-    "readings": "バ、ののし-るba, nonoshi-ru\n"
+    "readings": "バ, ののし-るba, nonoshi-ru"
   },
   {
     "id": "1612",
@@ -17729,7 +17729,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "worship",
-    "readings": "ハイ、おが-むhai, oga-mu\n"
+    "readings": "ハイ, おが-むhai, oga-mu"
   },
   {
     "id": "1613",
@@ -17740,7 +17740,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "counter for cupfuls",
-    "readings": "ハイ、さかずきhai, sakazuki\n"
+    "readings": "ハイ, さかずきhai, sakazuki"
   },
   {
     "id": "1614",
@@ -17751,7 +17751,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "back",
-    "readings": "ハイ、せ、せい、そむ-く、そむ-けるhai, se, sei, somu-ku, somu-keru\n"
+    "readings": "ハイ, せ, せい, そむ-く, そむ-けるhai, se, sei, somu-ku, somu-keru"
   },
   {
     "id": "1615",
@@ -17762,7 +17762,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "lungs",
-    "readings": "ハイhai\n"
+    "readings": "ハイhai"
   },
   {
     "id": "1616",
@@ -17773,7 +17773,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "haiku",
-    "readings": "ハイhai\n"
+    "readings": "ハイhai"
   },
   {
     "id": "1617",
@@ -17784,7 +17784,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "distribute",
-    "readings": "ハイ、くば-るhai, kuba-ru\n"
+    "readings": "ハイ, くば-るhai, kuba-ru"
   },
   {
     "id": "1618",
@@ -17795,7 +17795,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "repudiate",
-    "readings": "ハイhai\n"
+    "readings": "ハイhai"
   },
   {
     "id": "1619",
@@ -17806,7 +17806,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "failure",
-    "readings": "ハイ、やぶ-れるhai, yabu-reru\n"
+    "readings": "ハイ, やぶ-れるhai, yabu-reru"
   },
   {
     "id": "1620",
@@ -17817,7 +17817,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "abolish",
-    "readings": "ハイ、すた-れる、すた-るhai, suta-reru, suta-ru\n"
+    "readings": "ハイ, すた-れる, すた-るhai, suta-reru, suta-ru"
   },
   {
     "id": "1621",
@@ -17828,7 +17828,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "comrade",
-    "readings": "ハイhai\n"
+    "readings": "ハイhai"
   },
   {
     "id": "1622",
@@ -17839,7 +17839,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "sell",
-    "readings": "バイ、う-る、う-れるbai, u-ru, u-reru\n"
+    "readings": "バイ, う-る, う-れるbai, u-ru, u-reru"
   },
   {
     "id": "1623",
@@ -17850,18 +17850,18 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "double",
-    "readings": "バイbai\n"
+    "readings": "バイbai"
   },
   {
     "id": "1624",
     "new_shinjitai": "梅",
-    "old_kyujitai": "梅 [4]",
+    "old_kyujitai": "梅 [4]",
     "radical": "木",
     "strokes": "10",
     "grade": "4",
     "year_added": "",
     "english_meaning": "ume (Japanese apricot)",
-    "readings": "バイ、うめbai, ume\n"
+    "readings": "バイ, うめbai, ume"
   },
   {
     "id": "1625",
@@ -17872,7 +17872,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cultivate",
-    "readings": "バイ、つちか-うbai, tsuchika-u\n"
+    "readings": "バイ, つちか-うbai, tsuchika-u"
   },
   {
     "id": "1626",
@@ -17883,7 +17883,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "obeisance",
-    "readings": "バイbai\n"
+    "readings": "バイbai"
   },
   {
     "id": "1627",
@@ -17894,7 +17894,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mediator",
-    "readings": "バイbai\n"
+    "readings": "バイbai"
   },
   {
     "id": "1628",
@@ -17905,7 +17905,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "buy",
-    "readings": "バイ、か-うbai, ka-u\n"
+    "readings": "バイ, か-うbai, ka-u"
   },
   {
     "id": "1629",
@@ -17916,7 +17916,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "compensation",
-    "readings": "バイbai\n"
+    "readings": "バイbai"
   },
   {
     "id": "1630",
@@ -17927,7 +17927,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "white",
-    "readings": "ハク、ビャク、しろ、（しら）、しろ-いhaku, byaku, shiro, (shira), shiro-i\n"
+    "readings": "ハク, ビャク, しろ, （しら）, しろ-いhaku, byaku, shiro, (shira), shiro-i"
   },
   {
     "id": "1631",
@@ -17938,7 +17938,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "chief",
-    "readings": "ハクhaku\n"
+    "readings": "ハクhaku"
   },
   {
     "id": "1632",
@@ -17949,7 +17949,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "clap",
-    "readings": "ハク、（ヒョウ）haku, (hyō)\n"
+    "readings": "ハク, （ヒョウ）haku, (hyō)"
   },
   {
     "id": "1633",
@@ -17960,7 +17960,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "overnight",
-    "readings": "ハク、と-まる、と-めるhaku, to-maru, to-meru\n"
+    "readings": "ハク, と-まる, と-めるhaku, to-maru, to-meru"
   },
   {
     "id": "1634",
@@ -17971,18 +17971,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "urge",
-    "readings": "ハク、せま-るhaku, sema-ru\n"
+    "readings": "ハク, せま-るhaku, sema-ru"
   },
   {
     "id": "1635",
-    "new_shinjitai": "剝 [7]",
+    "new_shinjitai": "剝",
     "old_kyujitai": "",
     "radical": "刀",
     "strokes": "10",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "peel",
-    "readings": "ハク、は-がす、は-ぐ、は-がれる、は-げるhaku, ha-gasu, ha-gu, ha-gareru, ha-geru\n"
+    "readings": "ハク, は-がす, は-ぐ, は-がれる, は-げるhaku, ha-gasu, ha-gu, ha-gareru, ha-geru"
   },
   {
     "id": "1636",
@@ -17993,7 +17993,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "liner",
-    "readings": "ハクhaku\n"
+    "readings": "ハクhaku"
   },
   {
     "id": "1637",
@@ -18004,7 +18004,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "Dr.",
-    "readings": "ハク、（バク）haku, (baku)\n"
+    "readings": "ハク, （バク）haku, (baku)"
   },
   {
     "id": "1638",
@@ -18015,7 +18015,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dilute",
-    "readings": "ハク、うす-い、うす-める、うす-まる、うす-らぐ、うす-れるhaku, usu-i, usu-meru, usu-maru, usu-ragu, usu-reru\n"
+    "readings": "ハク, うす-い, うす-める, うす-まる, うす-らぐ, うす-れるhaku, usu-i, usu-meru, usu-maru, usu-ragu, usu-reru"
   },
   {
     "id": "1639",
@@ -18026,7 +18026,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "wheat",
-    "readings": "バク、むぎbaku, mugi\n"
+    "readings": "バク, むぎbaku, mugi"
   },
   {
     "id": "1640",
@@ -18037,7 +18037,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "vague",
-    "readings": "バクbaku\n"
+    "readings": "バクbaku"
   },
   {
     "id": "1641",
@@ -18048,7 +18048,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "truss",
-    "readings": "バク、しば-るbaku, shiba-ru\n"
+    "readings": "バク, しば-るbaku, shiba-ru"
   },
   {
     "id": "1642",
@@ -18059,7 +18059,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "explode",
-    "readings": "バクbaku\n"
+    "readings": "バクbaku"
   },
   {
     "id": "1643",
@@ -18070,18 +18070,18 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "box",
-    "readings": "はこhako\n"
+    "readings": "はこhako"
   },
   {
     "id": "1644",
-    "new_shinjitai": "箸 [7]",
+    "new_shinjitai": "箸",
     "old_kyujitai": "",
     "radical": "竹",
     "strokes": "15",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "chopsticks",
-    "readings": "はしhashi\n"
+    "readings": "はしhashi"
   },
   {
     "id": "1645",
@@ -18092,7 +18092,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "farm",
-    "readings": "はた、はたけhata, hatake\n"
+    "readings": "はた, はたけhata, hatake"
   },
   {
     "id": "1646",
@@ -18103,7 +18103,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "texture",
-    "readings": "はだhada\n"
+    "readings": "はだhada"
   },
   {
     "id": "1647",
@@ -18114,7 +18114,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "eight",
-    "readings": "ハチ、や、や-つ、やっ-つ、（よう）hachi, ya, ya-tsu, ya'-tsu, (yō)\n"
+    "readings": "ハチ, や, や-つ, やっ-つ, （よう）hachi, ya, ya-tsu, ya'-tsu, (yō)"
   },
   {
     "id": "1648",
@@ -18125,7 +18125,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "bowl",
-    "readings": "ハチ、（ハツ）hachi, (hatsu)\n"
+    "readings": "ハチ, （ハツ）hachi, (hatsu)"
   },
   {
     "id": "1649",
@@ -18136,7 +18136,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "departure",
-    "readings": "ハツ、ホツhatsu, hotsu\n"
+    "readings": "ハツ, ホツhatsu, hotsu"
   },
   {
     "id": "1650",
@@ -18147,7 +18147,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hair of the head",
-    "readings": "ハツ、かみhatsu, kami\n"
+    "readings": "ハツ, かみhatsu, kami"
   },
   {
     "id": "1651",
@@ -18158,7 +18158,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fell",
-    "readings": "バツbatsu\n"
+    "readings": "バツbatsu"
   },
   {
     "id": "1652",
@@ -18169,7 +18169,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "slip out",
-    "readings": "バツ、ぬ-く、ぬ-ける、ぬ-かす、ぬ-かるbatsu, nu-ku, nu-keru, nu-kasu, nu-karu\n"
+    "readings": "バツ, ぬ-く, ぬ-ける, ぬ-かす, ぬ-かるbatsu, nu-ku, nu-keru, nu-kasu, nu-karu"
   },
   {
     "id": "1653",
@@ -18180,7 +18180,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "penalty",
-    "readings": "バツ、バチbatsu, bachi\n"
+    "readings": "バツ, バチbatsu, bachi"
   },
   {
     "id": "1654",
@@ -18191,7 +18191,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "clique",
-    "readings": "バツbatsu\n"
+    "readings": "バツbatsu"
   },
   {
     "id": "1655",
@@ -18202,7 +18202,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "anti-",
-    "readings": "ハン、（ホン）、（タン）、そ-る、そ-らすhan, (hon), (tan), so-ru, so-rasu\n"
+    "readings": "ハン, （ホン）, （タン）, そ-る, そ-らすhan, (hon), (tan), so-ru, so-rasu"
   },
   {
     "id": "1656",
@@ -18213,7 +18213,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "half",
-    "readings": "ハン、なか-ばhan, naka-ba\n"
+    "readings": "ハン, なか-ばhan, naka-ba"
   },
   {
     "id": "1657",
@@ -18224,7 +18224,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "spread out",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1658",
@@ -18235,7 +18235,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "crime",
-    "readings": "ハン、おか-すhan, oka-su\n"
+    "readings": "ハン, おか-すhan, oka-su"
   },
   {
     "id": "1659",
@@ -18246,7 +18246,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sail",
-    "readings": "ハン、ほhan, ho\n"
+    "readings": "ハン, ほhan, ho"
   },
   {
     "id": "1660",
@@ -18257,7 +18257,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "pan-",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1661",
@@ -18268,7 +18268,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "consort",
-    "readings": "ハン、バン、ともな-うhan, ban, tomona-u\n"
+    "readings": "ハン, バン, ともな-うhan, ban, tomona-u"
   },
   {
     "id": "1662",
@@ -18279,7 +18279,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "judge",
-    "readings": "ハン、バンhan, ban\n"
+    "readings": "ハン, バンhan, ban"
   },
   {
     "id": "1663",
@@ -18290,7 +18290,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "slope",
-    "readings": "ハン、さかhan, saka\n"
+    "readings": "ハン, さかhan, saka"
   },
   {
     "id": "1664",
@@ -18301,7 +18301,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "heights",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1665",
@@ -18312,7 +18312,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "board",
-    "readings": "ハン、バン、いたhan, ban, ita\n"
+    "readings": "ハン, バン, いたhan, ban, ita"
   },
   {
     "id": "1666",
@@ -18323,7 +18323,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "printing block",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1667",
@@ -18334,7 +18334,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "squad",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1668",
@@ -18345,7 +18345,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "paddy-ridge",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1669",
@@ -18356,7 +18356,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "generally",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1670",
@@ -18367,7 +18367,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "marketing",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1671",
@@ -18378,7 +18378,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "blemish",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1672",
@@ -18389,7 +18389,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "meal",
-    "readings": "ハン、めしhan, meshi\n"
+    "readings": "ハン, めしhan, meshi"
   },
   {
     "id": "1673",
@@ -18400,7 +18400,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "conveyor",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1674",
@@ -18411,7 +18411,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "anxiety",
-    "readings": "ハン、（ボン）、わずら-う、わずら-わすhan, (bon), wazura-u, wazura-wasu\n"
+    "readings": "ハン, （ボン）, わずら-う, わずら-わすhan, (bon), wazura-u, wazura-wasu"
   },
   {
     "id": "1675",
@@ -18422,7 +18422,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "partition",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1676",
@@ -18433,18 +18433,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pattern",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1677",
     "new_shinjitai": "繁",
-    "old_kyujitai": "繁 [4]",
+    "old_kyujitai": "繁 [4]",
     "radical": "糸",
     "strokes": "16",
     "grade": "S",
     "year_added": "",
     "english_meaning": "luxuriant",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1678",
@@ -18455,7 +18455,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "clan",
-    "readings": "ハンhan\n"
+    "readings": "ハンhan"
   },
   {
     "id": "1679",
@@ -18466,7 +18466,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "nightfall",
-    "readings": "バンban\n"
+    "readings": "バンban"
   },
   {
     "id": "1680",
@@ -18477,7 +18477,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "one's turn",
-    "readings": "バンban\n"
+    "readings": "バンban"
   },
   {
     "id": "1681",
@@ -18488,7 +18488,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "barbarian",
-    "readings": "バンban\n"
+    "readings": "バンban"
   },
   {
     "id": "1682",
@@ -18499,7 +18499,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tray",
-    "readings": "バンban\n"
+    "readings": "バンban"
   },
   {
     "id": "1683",
@@ -18510,7 +18510,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "compare",
-    "readings": "ヒ、くら-べるhi, kura-beru\n"
+    "readings": "ヒ, くら-べるhi, kura-beru"
   },
   {
     "id": "1684",
@@ -18521,7 +18521,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "skin",
-    "readings": "ヒ、かわhi, kawa\n"
+    "readings": "ヒ, かわhi, kawa"
   },
   {
     "id": "1685",
@@ -18532,7 +18532,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "queen",
-    "readings": "ヒhi\n"
+    "readings": "ヒhi"
   },
   {
     "id": "1686",
@@ -18543,7 +18543,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "negate",
-    "readings": "ヒ、いなhi, ina\n"
+    "readings": "ヒ, いなhi, ina"
   },
   {
     "id": "1687",
@@ -18554,7 +18554,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "criticism",
-    "readings": "ヒhi\n"
+    "readings": "ヒhi"
   },
   {
     "id": "1688",
@@ -18565,7 +18565,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "he",
-    "readings": "ヒ、かれ、（かの）hi, kare, (kano)\n"
+    "readings": "ヒ, かれ, （かの）hi, kare, (kano)"
   },
   {
     "id": "1689",
@@ -18576,7 +18576,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "expose",
-    "readings": "ヒhi\n"
+    "readings": "ヒhi"
   },
   {
     "id": "1690",
@@ -18587,7 +18587,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "fertilizer",
-    "readings": "ヒ、こ-える、こえ、こ-やす、こ-やしhi, ko-eru, koe, ko-yasu, ko-yashi\n"
+    "readings": "ヒ, こ-える, こえ, こ-やす, こ-やしhi, ko-eru, koe, ko-yasu, ko-yashi"
   },
   {
     "id": "1691",
@@ -18598,18 +18598,18 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "negative",
-    "readings": "ヒhi\n"
+    "readings": "ヒhi"
   },
   {
     "id": "1692",
     "new_shinjitai": "卑",
-    "old_kyujitai": "卑 [4]",
+    "old_kyujitai": "卑 [4]",
     "radical": "十",
     "strokes": "9",
     "grade": "S",
     "year_added": "",
     "english_meaning": "lowly",
-    "readings": "ヒ、いや-しい、いや-しむ、いや-しめるhi, iya-shii, iya-shimu, iya-shimeru\n"
+    "readings": "ヒ, いや-しい, いや-しむ, いや-しめるhi, iya-shii, iya-shimu, iya-shimeru"
   },
   {
     "id": "1693",
@@ -18620,7 +18620,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "fly",
-    "readings": "ヒ、と-ぶ、と-ばすhi, to-bu, to-basu\n"
+    "readings": "ヒ, と-ぶ, と-ばすhi, to-bu, to-basu"
   },
   {
     "id": "1694",
@@ -18631,7 +18631,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "exhausted",
-    "readings": "ヒ、つか-れるhi, tsuka-reru\n"
+    "readings": "ヒ, つか-れるhi, tsuka-reru"
   },
   {
     "id": "1695",
@@ -18642,7 +18642,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "secret",
-    "readings": "ヒ、ひ-めるhi, hi-meru\n"
+    "readings": "ヒ, ひ-めるhi, hi-meru"
   },
   {
     "id": "1696",
@@ -18653,7 +18653,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "incur",
-    "readings": "ヒ、こうむ-るhi, kōmu-ru\n"
+    "readings": "ヒ, こうむ-るhi, kōmu-ru"
   },
   {
     "id": "1697",
@@ -18664,7 +18664,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "sad",
-    "readings": "ヒ、かな-しい、かな-しむhi, kana-shii, kana-shimu\n"
+    "readings": "ヒ, かな-しい, かな-しむhi, kana-shii, kana-shimu"
   },
   {
     "id": "1698",
@@ -18675,7 +18675,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "front door",
-    "readings": "ヒ、とびらhi, tobira\n"
+    "readings": "ヒ, とびらhi, tobira"
   },
   {
     "id": "1699",
@@ -18686,18 +18686,18 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "expense",
-    "readings": "ヒ、つい-やす、つい-えるhi, tsui-yasu, tsui-eru\n"
+    "readings": "ヒ, つい-やす, つい-えるhi, tsui-yasu, tsui-eru"
   },
   {
     "id": "1700",
     "new_shinjitai": "碑",
-    "old_kyujitai": "碑 [4]",
+    "old_kyujitai": "碑 [4]",
     "radical": "石",
     "strokes": "14",
     "grade": "S",
     "year_added": "",
     "english_meaning": "tombstone",
-    "readings": "ヒhi\n"
+    "readings": "ヒhi"
   },
   {
     "id": "1701",
@@ -18708,7 +18708,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "quit",
-    "readings": "ヒhi\n"
+    "readings": "ヒhi"
   },
   {
     "id": "1702",
@@ -18719,7 +18719,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "evade",
-    "readings": "ヒ、さ-けるhi, sa-keru\n"
+    "readings": "ヒ, さ-けるhi, sa-keru"
   },
   {
     "id": "1703",
@@ -18730,7 +18730,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tail",
-    "readings": "ビ、おbi, o\n"
+    "readings": "ビ, おbi, o"
   },
   {
     "id": "1704",
@@ -18741,7 +18741,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "eyebrow",
-    "readings": "ビ、（ミ）、まゆbi, (mi), mayu\n"
+    "readings": "ビ, （ミ）, まゆbi, (mi), mayu"
   },
   {
     "id": "1705",
@@ -18752,7 +18752,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "beauty",
-    "readings": "ビ、うつく-しいbi, utsuku-shii\n"
+    "readings": "ビ, うつく-しいbi, utsuku-shii"
   },
   {
     "id": "1706",
@@ -18763,7 +18763,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "provide",
-    "readings": "ビ、そな-える、そな-わるbi, sona-eru, sona-waru\n"
+    "readings": "ビ, そな-える, そな-わるbi, sona-eru, sona-waru"
   },
   {
     "id": "1707",
@@ -18774,7 +18774,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "delicate",
-    "readings": "ビbi\n"
+    "readings": "ビbi"
   },
   {
     "id": "1708",
@@ -18785,7 +18785,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "nose",
-    "readings": "ビ、はなbi, hana\n"
+    "readings": "ビ, はなbi, hana"
   },
   {
     "id": "1709",
@@ -18796,7 +18796,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "knee",
-    "readings": "ひざhiza\n"
+    "readings": "ひざhiza"
   },
   {
     "id": "1710",
@@ -18807,7 +18807,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "elbow",
-    "readings": "ひじhiji\n"
+    "readings": "ひじhiji"
   },
   {
     "id": "1711",
@@ -18818,7 +18818,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "equal",
-    "readings": "ヒツ、ひきhitsu, hiki\n"
+    "readings": "ヒツ, ひきhitsu, hiki"
   },
   {
     "id": "1712",
@@ -18829,7 +18829,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "without fail",
-    "readings": "ヒツ、かなら-ずhitsu, kanara-zu\n"
+    "readings": "ヒツ, かなら-ずhitsu, kanara-zu"
   },
   {
     "id": "1713",
@@ -18840,7 +18840,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ooze",
-    "readings": "ヒツ、ヒhitsu, hi\n"
+    "readings": "ヒツ, ヒhitsu, hi"
   },
   {
     "id": "1714",
@@ -18851,7 +18851,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "writing brush",
-    "readings": "ヒツ、ふでhitsu, fude\n"
+    "readings": "ヒツ, ふでhitsu, fude"
   },
   {
     "id": "1715",
@@ -18862,7 +18862,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "princess",
-    "readings": "ひめhime\n"
+    "readings": "ひめhime"
   },
   {
     "id": "1716",
@@ -18873,7 +18873,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "hundred",
-    "readings": "ヒャクhyaku\n"
+    "readings": "ヒャクhyaku"
   },
   {
     "id": "1717",
@@ -18884,7 +18884,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "ice",
-    "readings": "ヒョウ、こおり、ひhyō, koori, hi\n"
+    "readings": "ヒョウ, こおり, ひhyō, koori, hi"
   },
   {
     "id": "1718",
@@ -18895,7 +18895,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "express",
-    "readings": "ヒョウ、おもて、あらわ-す、あらわ-れるhyō, omote, arawa-su, arawa-reru\n"
+    "readings": "ヒョウ, おもて, あらわ-す, あらわ-れるhyō, omote, arawa-su, arawa-reru"
   },
   {
     "id": "1719",
@@ -18906,7 +18906,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "bag",
-    "readings": "ヒョウ、たわらhyō, tawara\n"
+    "readings": "ヒョウ, たわらhyō, tawara"
   },
   {
     "id": "1720",
@@ -18917,7 +18917,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "ballot",
-    "readings": "ヒョウhyō\n"
+    "readings": "ヒョウhyō"
   },
   {
     "id": "1721",
@@ -18928,7 +18928,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "evaluate",
-    "readings": "ヒョウhyō\n"
+    "readings": "ヒョウhyō"
   },
   {
     "id": "1722",
@@ -18939,7 +18939,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "drift",
-    "readings": "ヒョウ、ただよ-うhyō, tadayo-u\n"
+    "readings": "ヒョウ, ただよ-うhyō, tadayo-u"
   },
   {
     "id": "1723",
@@ -18950,7 +18950,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "signpost",
-    "readings": "ヒョウhyō\n"
+    "readings": "ヒョウhyō"
   },
   {
     "id": "1724",
@@ -18961,7 +18961,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "seedling",
-    "readings": "ビョウ、なえ、（なわ）byō, nae, (nawa)\n"
+    "readings": "ビョウ, なえ, （なわ）byō, nae, (nawa)"
   },
   {
     "id": "1725",
@@ -18972,7 +18972,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "second (part of time)",
-    "readings": "ビョウbyō\n"
+    "readings": "ビョウbyō"
   },
   {
     "id": "1726",
@@ -18983,7 +18983,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "sick",
-    "readings": "ビョウ、（ヘイ）、や-む、やまいbyō, (hei), ya-mu, yamai\n"
+    "readings": "ビョウ, （ヘイ）, や-む, やまいbyō, (hei), ya-mu, yamai"
   },
   {
     "id": "1727",
@@ -18994,7 +18994,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sketch",
-    "readings": "ビョウ、えが-く、か-くbyō, ega-ku, ka-ku\n"
+    "readings": "ビョウ, えが-く, か-くbyō, ega-ku, ka-ku"
   },
   {
     "id": "1728",
@@ -19005,7 +19005,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "cat",
-    "readings": "ビョウ、ねこbyō, neko\n"
+    "readings": "ビョウ, ねこbyō, neko"
   },
   {
     "id": "1729",
@@ -19016,7 +19016,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "article",
-    "readings": "ヒン、しなhin, shina\n"
+    "readings": "ヒン, しなhin, shina"
   },
   {
     "id": "1730",
@@ -19027,7 +19027,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "seacoast",
-    "readings": "ヒン、はまhin, hama\n"
+    "readings": "ヒン, はまhin, hama"
   },
   {
     "id": "1731",
@@ -19038,40 +19038,40 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "poor",
-    "readings": "ヒン、ビン、まず-しいhin, bin, mazu-shii\n"
+    "readings": "ヒン, ビン, まず-しいhin, bin, mazu-shii"
   },
   {
     "id": "1732",
     "new_shinjitai": "賓",
-    "old_kyujitai": "賓 [4]",
+    "old_kyujitai": "賓 [4]",
     "radical": "貝",
     "strokes": "15",
     "grade": "S",
     "year_added": "",
     "english_meaning": "V.I.P.",
-    "readings": "ヒンhin\n"
+    "readings": "ヒンhin"
   },
   {
     "id": "1733",
     "new_shinjitai": "頻",
-    "old_kyujitai": "頻 [4]",
+    "old_kyujitai": "頻 [4]",
     "radical": "頁",
     "strokes": "17",
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "repeatedly",
-    "readings": "ヒンhin\n"
+    "readings": "ヒンhin"
   },
   {
     "id": "1734",
     "new_shinjitai": "敏",
-    "old_kyujitai": "敏 [4]",
+    "old_kyujitai": "敏 [4]",
     "radical": "攴",
     "strokes": "10",
     "grade": "S",
     "year_added": "",
     "english_meaning": "cleverness",
-    "readings": "ビンbin\n"
+    "readings": "ビンbin"
   },
   {
     "id": "1735",
@@ -19082,7 +19082,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "flower pot",
-    "readings": "ビンbin\n"
+    "readings": "ビンbin"
   },
   {
     "id": "1736",
@@ -19093,7 +19093,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "non-",
-    "readings": "フ、ブfu, bu\n"
+    "readings": "フ, ブfu, bu"
   },
   {
     "id": "1737",
@@ -19104,7 +19104,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "husband",
-    "readings": "フ、（フウ）、おっとfu, (fū), otto\n"
+    "readings": "フ, （フウ）, おっとfu, (fū), otto"
   },
   {
     "id": "1738",
@@ -19115,7 +19115,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "father",
-    "readings": "フ、ちちfu, chichi\n"
+    "readings": "フ, ちちfu, chichi"
   },
   {
     "id": "1739",
@@ -19126,7 +19126,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "attach",
-    "readings": "フ、つ-ける、つ-くfu, tsu-keru, tsu-ku\n"
+    "readings": "フ, つ-ける, つ-くfu, tsu-keru, tsu-ku"
   },
   {
     "id": "1740",
@@ -19137,7 +19137,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "linen",
-    "readings": "フ、ぬのfu, nuno\n"
+    "readings": "フ, ぬのfu, nuno"
   },
   {
     "id": "1741",
@@ -19148,7 +19148,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "aid",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1742",
@@ -19159,7 +19159,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "urban prefecture",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1743",
@@ -19170,7 +19170,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dreadful",
-    "readings": "フ、こわ-いfu, kowa-i\n"
+    "readings": "フ, こわ-いfu, kowa-i"
   },
   {
     "id": "1744",
@@ -19181,7 +19181,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "2010",
     "english_meaning": "mound",
-    "readings": "（フ）[6](fu)\n"
+    "readings": "（フ）[6](fu)"
   },
   {
     "id": "1745",
@@ -19192,7 +19192,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "affixed",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1746",
@@ -19203,7 +19203,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "obituary",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1747",
@@ -19214,7 +19214,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "lose",
-    "readings": "フ、ま-ける、ま-かす、お-うfu, ma-keru, ma-kasu, o-u\n"
+    "readings": "フ, ま-ける, ま-かす, お-うfu, ma-keru, ma-kasu, o-u"
   },
   {
     "id": "1748",
@@ -19225,7 +19225,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "proceed",
-    "readings": "フ、おもむ-くfu, omomu-ku\n"
+    "readings": "フ, おもむ-くfu, omomu-ku"
   },
   {
     "id": "1749",
@@ -19236,7 +19236,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "floating",
-    "readings": "フ、う-く、う-かれる、う-かぶ、う-かべるfu, u-ku, u-kareru, u-kabu, u-kaberu\n"
+    "readings": "フ, う-く, う-かれる, う-かぶ, う-かべるfu, u-ku, u-kareru, u-kabu, u-kaberu"
   },
   {
     "id": "1750",
@@ -19247,7 +19247,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "lady",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1751",
@@ -19258,7 +19258,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "token",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1752",
@@ -19269,7 +19269,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "rich",
-    "readings": "フ、（フウ）、と-む、とみfu, (fū), to-mu, tomi\n"
+    "readings": "フ, （フウ）, と-む, とみfu, (fū), to-mu, tomi"
   },
   {
     "id": "1753",
@@ -19280,7 +19280,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "universal",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1754",
@@ -19291,7 +19291,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rot",
-    "readings": "フ、くさ-る、くさ-れる、くさ-らすfu, kusa-ru, kusa-reru, kusa-rasu\n"
+    "readings": "フ, くさ-る, くさ-れる, くさ-らすfu, kusa-ru, kusa-reru, kusa-rasu"
   },
   {
     "id": "1755",
@@ -19302,7 +19302,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "spread",
-    "readings": "フ、し-くfu, shi-ku\n"
+    "readings": "フ, し-くfu, shi-ku"
   },
   {
     "id": "1756",
@@ -19313,7 +19313,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "skin",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1757",
@@ -19324,7 +19324,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "levy",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1758",
@@ -19335,18 +19335,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "musical score",
-    "readings": "フfu\n"
+    "readings": "フfu"
   },
   {
     "id": "1759",
     "new_shinjitai": "侮",
-    "old_kyujitai": "侮 [4]",
+    "old_kyujitai": "侮 [4]",
     "radical": "人",
     "strokes": "8",
     "grade": "S",
     "year_added": "",
     "english_meaning": "scorn",
-    "readings": "ブ、あなど-るbu, anado-ru\n"
+    "readings": "ブ, あなど-るbu, anado-ru"
   },
   {
     "id": "1760",
@@ -19357,7 +19357,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "military",
-    "readings": "ブ、ムbu, mu\n"
+    "readings": "ブ, ムbu, mu"
   },
   {
     "id": "1761",
@@ -19368,7 +19368,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "part",
-    "readings": "ブbu\n"
+    "readings": "ブbu"
   },
   {
     "id": "1762",
@@ -19379,7 +19379,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dance",
-    "readings": "ブ、ま-う、まいbu, ma-u, mai\n"
+    "readings": "ブ, ま-う, まいbu, ma-u, mai"
   },
   {
     "id": "1763",
@@ -19390,7 +19390,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "seal",
-    "readings": "フウ、ホウfū, hō\n"
+    "readings": "フウ, ホウfū, hō"
   },
   {
     "id": "1764",
@@ -19401,7 +19401,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "wind",
-    "readings": "フウ、（フ）、かぜ、（かざ）fū, (fu), kaze, (kaza)\n"
+    "readings": "フウ, （フ）, かぜ, （かざ）fū, (fu), kaze, (kaza)"
   },
   {
     "id": "1765",
@@ -19412,7 +19412,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "prostrated",
-    "readings": "フク、ふ-せる、ふ-すfuku, fu-seru, fu-su\n"
+    "readings": "フク, ふ-せる, ふ-すfuku, fu-seru, fu-su"
   },
   {
     "id": "1766",
@@ -19423,7 +19423,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "clothes",
-    "readings": "フクfuku\n"
+    "readings": "フクfuku"
   },
   {
     "id": "1767",
@@ -19434,7 +19434,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "vice",
-    "readings": "フクfuku\n"
+    "readings": "フクfuku"
   },
   {
     "id": "1768",
@@ -19445,7 +19445,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "breadth",
-    "readings": "フク、はばfuku, haba\n"
+    "readings": "フク, はばfuku, haba"
   },
   {
     "id": "1769",
@@ -19456,18 +19456,18 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "again",
-    "readings": "フクfuku\n"
+    "readings": "フクfuku"
   },
   {
     "id": "1770",
     "new_shinjitai": "福",
-    "old_kyujitai": "福 [4]",
+    "old_kyujitai": "福 [4]",
     "radical": "示",
     "strokes": "13",
     "grade": "3",
     "year_added": "",
     "english_meaning": "luck",
-    "readings": "フクfuku\n"
+    "readings": "フクfuku"
   },
   {
     "id": "1771",
@@ -19478,7 +19478,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "abdomen",
-    "readings": "フク、はらfuku, hara\n"
+    "readings": "フク, はらfuku, hara"
   },
   {
     "id": "1772",
@@ -19489,7 +19489,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "duplicate",
-    "readings": "フクfuku\n"
+    "readings": "フクfuku"
   },
   {
     "id": "1773",
@@ -19500,7 +19500,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "capsize",
-    "readings": "フク、おお-う、くつがえ-す、くつがえ-るfuku, oo-u, kutsugae-su, kutsugae-ru\n"
+    "readings": "フク, おお-う, くつがえ-す, くつがえ-るfuku, oo-u, kutsugae-su, kutsugae-ru"
   },
   {
     "id": "1774",
@@ -19511,7 +19511,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pay",
-    "readings": "フツ、はら-うfutsu, hara-u\n"
+    "readings": "フツ, はら-うfutsu, hara-u"
   },
   {
     "id": "1775",
@@ -19522,7 +19522,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "seethe",
-    "readings": "フツ、わ-く、わ-かすfutsu, wa-ku, wa-kasu\n"
+    "readings": "フツ, わ-く, わ-かすfutsu, wa-ku, wa-kasu"
   },
   {
     "id": "1776",
@@ -19533,7 +19533,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "Buddha",
-    "readings": "ブツ、ほとけbutsu, hotoke\n"
+    "readings": "ブツ, ほとけbutsu, hotoke"
   },
   {
     "id": "1777",
@@ -19544,7 +19544,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "thing",
-    "readings": "ブツ、モツ、ものbutsu, motsu, mono\n"
+    "readings": "ブツ, モツ, ものbutsu, motsu, mono"
   },
   {
     "id": "1778",
@@ -19555,7 +19555,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "flour",
-    "readings": "フン、こ、こなfun, ko, kona\n"
+    "readings": "フン, こ, こなfun, ko, kona"
   },
   {
     "id": "1779",
@@ -19566,7 +19566,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "distract",
-    "readings": "フン、まぎ-れる、まぎ-らす、まぎ-らわす、まぎ-らわしいfun, magi-reru, magi-rasu, magi-rawasu, magi-rawashii\n"
+    "readings": "フン, まぎ-れる, まぎ-らす, まぎ-らわす, まぎ-らわしいfun, magi-reru, magi-rasu, magi-rawasu, magi-rawashii"
   },
   {
     "id": "1780",
@@ -19577,7 +19577,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "atmosphere",
-    "readings": "フンfun\n"
+    "readings": "フンfun"
   },
   {
     "id": "1781",
@@ -19588,7 +19588,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "erupt",
-    "readings": "フン、ふ-くfun, fu-ku\n"
+    "readings": "フン, ふ-くfun, fu-ku"
   },
   {
     "id": "1782",
@@ -19599,7 +19599,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tomb",
-    "readings": "フンfun\n"
+    "readings": "フンfun"
   },
   {
     "id": "1783",
@@ -19610,7 +19610,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "aroused",
-    "readings": "フン、いきどお-るfun, ikidoo-ru\n"
+    "readings": "フン, いきどお-るfun, ikidoo-ru"
   },
   {
     "id": "1784",
@@ -19621,7 +19621,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "stirred up",
-    "readings": "フン、ふる-うfun, furu-u\n"
+    "readings": "フン, ふる-うfun, furu-u"
   },
   {
     "id": "1785",
@@ -19632,7 +19632,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "part, minute of time",
-    "readings": "ブン、フン、ブ、わ-ける、わ-かれる、わ-かる、わ-かつbun, fun, bu, wa-keru, wa-kareru, wa-karu, wa-katsu\n"
+    "readings": "ブン, フン, ブ, わ-ける, わ-かれる, わ-かる, わ-かつbun, fun, bu, wa-keru, wa-kareru, wa-karu, wa-katsu"
   },
   {
     "id": "1786",
@@ -19643,7 +19643,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "writing",
-    "readings": "ブン、モン、ふみbun, mon, fumi\n"
+    "readings": "ブン, モン, ふみbun, mon, fumi"
   },
   {
     "id": "1787",
@@ -19654,7 +19654,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "hear",
-    "readings": "ブン、モン、き-く、き-こえるbun, mon, ki-ku, ki-koeru\n"
+    "readings": "ブン, モン, き-く, き-こえるbun, mon, ki-ku, ki-koeru"
   },
   {
     "id": "1788",
@@ -19665,7 +19665,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "third class",
-    "readings": "ヘイhei\n"
+    "readings": "ヘイhei"
   },
   {
     "id": "1789",
@@ -19676,7 +19676,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "flat",
-    "readings": "ヘイ、ビョウ、たい-ら、ひらhei, byō, tai-ra, hira\n"
+    "readings": "ヘイ, ビョウ, たい-ら, ひらhei, byō, tai-ra, hira"
   },
   {
     "id": "1790",
@@ -19687,7 +19687,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "soldier",
-    "readings": "ヘイ、ヒョウhei, hyō\n"
+    "readings": "ヘイ, ヒョウhei, hyō"
   },
   {
     "id": "1791",
@@ -19698,7 +19698,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "join",
-    "readings": "ヘイ、あわ-せるhei, awa-seru\n"
+    "readings": "ヘイ, あわ-せるhei, awa-seru"
   },
   {
     "id": "1792",
@@ -19709,7 +19709,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "line-up",
-    "readings": "ヘイ、なみ、なら-べる、なら-ぶ、なら-びにhei, nami, nara-beru, nara-bu, nara-bini\n"
+    "readings": "ヘイ, なみ, なら-べる, なら-ぶ, なら-びにhei, nami, nara-beru, nara-bu, nara-bini"
   },
   {
     "id": "1793",
@@ -19720,7 +19720,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "design",
-    "readings": "ヘイ、がら、えhei, gara, e\n"
+    "readings": "ヘイ, がら, えhei, gara, e"
   },
   {
     "id": "1794",
@@ -19731,7 +19731,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "highness",
-    "readings": "ヘイhei\n"
+    "readings": "ヘイhei"
   },
   {
     "id": "1795",
@@ -19742,18 +19742,18 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "closed",
-    "readings": "ヘイ、と-じる、と-ざす、し-める、し-まるhei, to-jiru, to-zasu, shi-meru, shi-maru\n"
+    "readings": "ヘイ, と-じる, と-ざす, し-める, し-まるhei, to-jiru, to-zasu, shi-meru, shi-maru"
   },
   {
     "id": "1796",
     "new_shinjitai": "塀",
-    "old_kyujitai": "塀 [4]",
+    "old_kyujitai": "塀 [4]",
     "radical": "土",
     "strokes": "12",
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "fence",
-    "readings": "ヘイhei\n"
+    "readings": "ヘイhei"
   },
   {
     "id": "1797",
@@ -19764,7 +19764,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cash",
-    "readings": "ヘイhei\n"
+    "readings": "ヘイhei"
   },
   {
     "id": "1798",
@@ -19775,29 +19775,29 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "abuse",
-    "readings": "ヘイhei\n"
+    "readings": "ヘイhei"
   },
   {
     "id": "1799",
-    "new_shinjitai": "蔽 [7]",
+    "new_shinjitai": "蔽",
     "old_kyujitai": "",
     "radical": "艸",
     "strokes": "15",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "cover",
-    "readings": "ヘイhei\n"
+    "readings": "ヘイhei"
   },
   {
     "id": "1800",
-    "new_shinjitai": "餅 [8]",
+    "new_shinjitai": "餅",
     "old_kyujitai": "餠",
     "radical": "食",
     "strokes": "15",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "mochi rice cake",
-    "readings": "ヘイ、もちhei, mochi\n"
+    "readings": "ヘイ, もちhei, mochi"
   },
   {
     "id": "1801",
@@ -19808,7 +19808,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "rice",
-    "readings": "ベイ、マイ、こめbei, mai, kome\n"
+    "readings": "ベイ, マイ, こめbei, mai, kome"
   },
   {
     "id": "1802",
@@ -19819,7 +19819,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wall",
-    "readings": "ヘキ、かべheki, kabe\n"
+    "readings": "ヘキ, かべheki, kabe"
   },
   {
     "id": "1803",
@@ -19830,7 +19830,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "sphere",
-    "readings": "ヘキheki\n"
+    "readings": "ヘキheki"
   },
   {
     "id": "1804",
@@ -19841,7 +19841,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mannerism",
-    "readings": "ヘキ、くせheki, kuse\n"
+    "readings": "ヘキ, くせheki, kuse"
   },
   {
     "id": "1805",
@@ -19852,7 +19852,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "separate",
-    "readings": "ベツ、わか-れるbetsu, waka-reru\n"
+    "readings": "ベツ, わか-れるbetsu, waka-reru"
   },
   {
     "id": "1806",
@@ -19863,7 +19863,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "ignore",
-    "readings": "ベツ、さげす-むbetsu, sagesu-mu\n"
+    "readings": "ベツ, さげす-むbetsu, sagesu-mu"
   },
   {
     "id": "1807",
@@ -19874,7 +19874,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "one-sided",
-    "readings": "ヘン、かたhen, kata\n"
+    "readings": "ヘン, かたhen, kata"
   },
   {
     "id": "1808",
@@ -19885,7 +19885,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "environs",
-    "readings": "ヘン、あた-り、べhen, ata-ri, be\n"
+    "readings": "ヘン, あた-り, べhen, ata-ri, be"
   },
   {
     "id": "1809",
@@ -19896,7 +19896,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "return",
-    "readings": "ヘン、かえ-す、かえ-るhen, kae-su, kae-ru\n"
+    "readings": "ヘン, かえ-す, かえ-るhen, kae-su, kae-ru"
   },
   {
     "id": "1810",
@@ -19907,7 +19907,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "change",
-    "readings": "ヘン、か-わる、か-えるhen, ka-waru, ka-eru\n"
+    "readings": "ヘン, か-わる, か-えるhen, ka-waru, ka-eru"
   },
   {
     "id": "1811",
@@ -19918,7 +19918,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "partial",
-    "readings": "ヘン、かたよ-るhen, katayo-ru\n"
+    "readings": "ヘン, かたよ-るhen, katayo-ru"
   },
   {
     "id": "1812",
@@ -19929,7 +19929,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "everywhere",
-    "readings": "ヘンhen\n"
+    "readings": "ヘンhen"
   },
   {
     "id": "1813",
@@ -19940,7 +19940,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "compile",
-    "readings": "ヘン、あ-むhen, a-mu\n"
+    "readings": "ヘン, あ-むhen, a-mu"
   },
   {
     "id": "1814",
@@ -19951,7 +19951,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "valve",
-    "readings": "ベンben\n"
+    "readings": "ベンben"
   },
   {
     "id": "1815",
@@ -19962,18 +19962,18 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "convenience",
-    "readings": "ベン、ビン、たよ-りben, bin, tayo-ri\n"
+    "readings": "ベン, ビン, たよ-りben, bin, tayo-ri"
   },
   {
     "id": "1816",
     "new_shinjitai": "勉",
-    "old_kyujitai": "勉 [4]",
+    "old_kyujitai": "勉 [4]",
     "radical": "力",
     "strokes": "10",
     "grade": "3",
     "year_added": "",
     "english_meaning": "exertion",
-    "readings": "ベンben\n"
+    "readings": "ベンben"
   },
   {
     "id": "1817",
@@ -19984,7 +19984,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "walk",
-    "readings": "ホ、ブ、（フ）、ある-く、あゆ-むho, bu, (fu), aru-ku, ayu-mu\n"
+    "readings": "ホ, ブ, （フ）, ある-く, あゆ-むho, bu, (fu), aru-ku, ayu-mu"
   },
   {
     "id": "1818",
@@ -19995,7 +19995,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "preserve",
-    "readings": "ホ、たも-つho, tamo-tsu\n"
+    "readings": "ホ, たも-つho, tamo-tsu"
   },
   {
     "id": "1819",
@@ -20006,7 +20006,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "suckle",
-    "readings": "ホho\n"
+    "readings": "ホho"
   },
   {
     "id": "1820",
@@ -20017,7 +20017,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "catch",
-    "readings": "ホ、と-らえる、と-らわれる、と-る、つか-まえる、つか-まるho, to-raeru, to-rawareru, to-ru, tsuka-maeru, tsuka-maru\n"
+    "readings": "ホ, と-らえる, と-らわれる, と-る, つか-まえる, つか-まるho, to-raeru, to-rawareru, to-ru, tsuka-maeru, tsuka-maru"
   },
   {
     "id": "1821",
@@ -20028,7 +20028,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "supplement",
-    "readings": "ホ、おぎな-うho, ogina-u\n"
+    "readings": "ホ, おぎな-うho, ogina-u"
   },
   {
     "id": "1822",
@@ -20039,7 +20039,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pavement",
-    "readings": "ホho\n"
+    "readings": "ホho"
   },
   {
     "id": "1823",
@@ -20050,7 +20050,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "mother",
-    "readings": "ボ、ははbo, haha\n"
+    "readings": "ボ, ははbo, haha"
   },
   {
     "id": "1824",
@@ -20061,7 +20061,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "recruit",
-    "readings": "ボ、つの-るbo, tsuno-ru\n"
+    "readings": "ボ, つの-るbo, tsuno-ru"
   },
   {
     "id": "1825",
@@ -20072,7 +20072,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "grave",
-    "readings": "ボ、はかbo, haka\n"
+    "readings": "ボ, はかbo, haka"
   },
   {
     "id": "1826",
@@ -20083,7 +20083,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pining",
-    "readings": "ボ、した-うbo, shita-u\n"
+    "readings": "ボ, した-うbo, shita-u"
   },
   {
     "id": "1827",
@@ -20094,7 +20094,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "livelihood",
-    "readings": "ボ、く-れる、く-らすbo, ku-reru, ku-rasu\n"
+    "readings": "ボ, く-れる, く-らすbo, ku-reru, ku-rasu"
   },
   {
     "id": "1828",
@@ -20105,7 +20105,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "register",
-    "readings": "ボbo\n"
+    "readings": "ボbo"
   },
   {
     "id": "1829",
@@ -20116,7 +20116,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "direction",
-    "readings": "ホウ、かたhō, kata\n"
+    "readings": "ホウ, かたhō, kata"
   },
   {
     "id": "1830",
@@ -20127,7 +20127,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "wrap",
-    "readings": "ホウ、つつ-むhō, tsutsu-mu\n"
+    "readings": "ホウ, つつ-むhō, tsutsu-mu"
   },
   {
     "id": "1831",
@@ -20138,7 +20138,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "perfume",
-    "readings": "ホウ、かんば-しいhō, kanba-shii\n"
+    "readings": "ホウ, かんば-しいhō, kanba-shii"
   },
   {
     "id": "1832",
@@ -20149,7 +20149,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "home country",
-    "readings": "ホウhō\n"
+    "readings": "ホウhō"
   },
   {
     "id": "1833",
@@ -20160,7 +20160,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "observance",
-    "readings": "ホウ、（ブ）、たてまつ-るhō, (bu), tatematsu-ru\n"
+    "readings": "ホウ, （ブ）, たてまつ-るhō, (bu), tatematsu-ru"
   },
   {
     "id": "1834",
@@ -20171,7 +20171,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "treasure",
-    "readings": "ホウ、たからhō, takara\n"
+    "readings": "ホウ, たからhō, takara"
   },
   {
     "id": "1835",
@@ -20182,7 +20182,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "embrace",
-    "readings": "ホウ、だ-く、いだ-く、かか-えるhō, da-ku, ida-ku, kaka-eru\n"
+    "readings": "ホウ, だ-く, いだ-く, かか-えるhō, da-ku, ida-ku, kaka-eru"
   },
   {
     "id": "1836",
@@ -20193,7 +20193,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "release",
-    "readings": "ホウ、はな-す、はな-つ、はな-れる、ほう-るhō, hana-su, hana-tsu, hana-reru, hō-ru\n"
+    "readings": "ホウ, はな-す, はな-つ, はな-れる, ほう-るhō, hana-su, hana-tsu, hana-reru, hō-ru"
   },
   {
     "id": "1837",
@@ -20204,7 +20204,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "method",
-    "readings": "ホウ、（ハッ）、（ホッ）hō, (ha'), (ho')\n"
+    "readings": "ホウ, （ハッ）, （ホッ）hō, (ha'), (ho')"
   },
   {
     "id": "1838",
@@ -20215,7 +20215,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "bubbles",
-    "readings": "ホウ、あわhō, awa\n"
+    "readings": "ホウ, あわhō, awa"
   },
   {
     "id": "1839",
@@ -20226,7 +20226,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "placenta",
-    "readings": "ホウhō\n"
+    "readings": "ホウhō"
   },
   {
     "id": "1840",
@@ -20237,7 +20237,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "salary",
-    "readings": "ホウhō\n"
+    "readings": "ホウhō"
   },
   {
     "id": "1841",
@@ -20248,7 +20248,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "emulate",
-    "readings": "ホウ、なら-うhō, nara-u\n"
+    "readings": "ホウ, なら-うhō, nara-u"
   },
   {
     "id": "1842",
@@ -20259,7 +20259,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "summit",
-    "readings": "ホウ、みねhō, mine\n"
+    "readings": "ホウ, みねhō, mine"
   },
   {
     "id": "1843",
@@ -20270,7 +20270,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cannon",
-    "readings": "ホウhō\n"
+    "readings": "ホウhō"
   },
   {
     "id": "1844",
@@ -20281,7 +20281,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "crumble",
-    "readings": "ホウ、くず-れる、くず-すhō, kuzu-reru, kuzu-su\n"
+    "readings": "ホウ, くず-れる, くず-すhō, kuzu-reru, kuzu-su"
   },
   {
     "id": "1845",
@@ -20292,7 +20292,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "visit",
-    "readings": "ホウ、おとず-れる、たず-ねるhō, otozu-reru, tazu-neru\n"
+    "readings": "ホウ, おとず-れる, たず-ねるhō, otozu-reru, tazu-neru"
   },
   {
     "id": "1846",
@@ -20303,7 +20303,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "report",
-    "readings": "ホウ、むく-いるhō, muku-iru\n"
+    "readings": "ホウ, むく-いるhō, muku-iru"
   },
   {
     "id": "1847",
@@ -20314,7 +20314,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "bee",
-    "readings": "ホウ、はちhō, hachi\n"
+    "readings": "ホウ, はちhō, hachi"
   },
   {
     "id": "1848",
@@ -20325,7 +20325,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "bountiful",
-    "readings": "ホウ、ゆた-かhō, yuta-ka\n"
+    "readings": "ホウ, ゆた-かhō, yuta-ka"
   },
   {
     "id": "1849",
@@ -20336,7 +20336,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sated",
-    "readings": "ホウ、あ-きる、あ-かすhō, a-kiru, a-kasu\n"
+    "readings": "ホウ, あ-きる, あ-かすhō, a-kiru, a-kasu"
   },
   {
     "id": "1850",
@@ -20347,7 +20347,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "praise",
-    "readings": "ホウ、ほ-めるhō, ho-meru\n"
+    "readings": "ホウ, ほ-めるhō, ho-meru"
   },
   {
     "id": "1851",
@@ -20358,7 +20358,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sew",
-    "readings": "ホウ、ぬ-うhō, nu-u\n"
+    "readings": "ホウ, ぬ-うhō, nu-u"
   },
   {
     "id": "1852",
@@ -20369,7 +20369,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "deceased",
-    "readings": "ボウ、（モウ）、な-いbō, (mō), na-i\n"
+    "readings": "ボウ, （モウ）, な-いbō, (mō), na-i"
   },
   {
     "id": "1853",
@@ -20380,7 +20380,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "scarce",
-    "readings": "ボウ、とぼ-しいbō, tobo-shii\n"
+    "readings": "ボウ, とぼ-しいbō, tobo-shii"
   },
   {
     "id": "1854",
@@ -20391,7 +20391,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "busy",
-    "readings": "ボウ、いそが-しいbō, isoga-shii\n"
+    "readings": "ボウ, いそが-しいbō, isoga-shii"
   },
   {
     "id": "1855",
@@ -20402,7 +20402,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "boy",
-    "readings": "ボウ、（ボッ）bō, (bo')\n"
+    "readings": "ボウ, （ボッ）bō, (bo')"
   },
   {
     "id": "1856",
@@ -20413,7 +20413,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "disturb",
-    "readings": "ボウ、さまた-げるbō, samata-geru\n"
+    "readings": "ボウ, さまた-げるbō, samata-geru"
   },
   {
     "id": "1857",
@@ -20424,7 +20424,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "forget",
-    "readings": "ボウ、わす-れるbō, wasu-reru\n"
+    "readings": "ボウ, わす-れるbō, wasu-reru"
   },
   {
     "id": "1858",
@@ -20435,7 +20435,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "prevent",
-    "readings": "ボウ、ふせ-ぐbō, fuse-gu\n"
+    "readings": "ボウ, ふせ-ぐbō, fuse-gu"
   },
   {
     "id": "1859",
@@ -20446,7 +20446,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tassel",
-    "readings": "ボウ、ふさbō, fusa\n"
+    "readings": "ボウ, ふさbō, fusa"
   },
   {
     "id": "1860",
@@ -20457,7 +20457,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "obese",
-    "readings": "ボウbō\n"
+    "readings": "ボウbō"
   },
   {
     "id": "1861",
@@ -20468,7 +20468,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "so-and-so",
-    "readings": "ボウbō\n"
+    "readings": "ボウbō"
   },
   {
     "id": "1862",
@@ -20479,7 +20479,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "risk",
-    "readings": "ボウ、おか-すbō, oka-su\n"
+    "readings": "ボウ, おか-すbō, oka-su"
   },
   {
     "id": "1863",
@@ -20490,7 +20490,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "divide",
-    "readings": "ボウbō\n"
+    "readings": "ボウbō"
   },
   {
     "id": "1864",
@@ -20501,7 +20501,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "spinning",
-    "readings": "ボウ、つむ-ぐbō, tsumu-gu\n"
+    "readings": "ボウ, つむ-ぐbō, tsumu-gu"
   },
   {
     "id": "1865",
@@ -20512,7 +20512,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "hope",
-    "readings": "ボウ、モウ、のぞ-むbō, mō, nozo-mu\n"
+    "readings": "ボウ, モウ, のぞ-むbō, mō, nozo-mu"
   },
   {
     "id": "1866",
@@ -20523,7 +20523,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bystander",
-    "readings": "ボウ、かたわ-らbō, katawa-ra\n"
+    "readings": "ボウ, かたわ-らbō, katawa-ra"
   },
   {
     "id": "1867",
@@ -20534,7 +20534,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cap",
-    "readings": "ボウbō\n"
+    "readings": "ボウbō"
   },
   {
     "id": "1868",
@@ -20545,7 +20545,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "rod",
-    "readings": "ボウbō\n"
+    "readings": "ボウbō"
   },
   {
     "id": "1869",
@@ -20556,7 +20556,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "trade",
-    "readings": "ボウbō\n"
+    "readings": "ボウbō"
   },
   {
     "id": "1870",
@@ -20567,7 +20567,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "appearance",
-    "readings": "ボウbō\n"
+    "readings": "ボウbō"
   },
   {
     "id": "1871",
@@ -20578,7 +20578,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "outburst",
-    "readings": "ボウ、（バク）、あば-く、あば-れるbō, (baku), aba-ku, aba-reru\n"
+    "readings": "ボウ, （バク）, あば-く, あば-れるbō, (baku), aba-ku, aba-reru"
   },
   {
     "id": "1872",
@@ -20589,7 +20589,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "swell",
-    "readings": "ボウ、ふく-らむ、ふく-れるbō, fuku-ramu, fuku-reru\n"
+    "readings": "ボウ, ふく-らむ, ふく-れるbō, fuku-ramu, fuku-reru"
   },
   {
     "id": "1873",
@@ -20600,18 +20600,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "conspire",
-    "readings": "ボウ、（ム）、はか-るbō, (mu), haka-ru\n"
+    "readings": "ボウ, （ム）, はか-るbō, (mu), haka-ru"
   },
   {
     "id": "1874",
-    "new_shinjitai": "頰 [7]",
+    "new_shinjitai": "頰",
     "old_kyujitai": "",
     "radical": "頁",
     "strokes": "16",
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "cheek",
-    "readings": "ほおhoo\n"
+    "readings": "ほおhoo"
   },
   {
     "id": "1875",
@@ -20622,7 +20622,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "north",
-    "readings": "ホク、きたhoku, kita\n"
+    "readings": "ホク, きたhoku, kita"
   },
   {
     "id": "1876",
@@ -20633,7 +20633,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "tree",
-    "readings": "ボク、モク、き、（こ）boku, moku, ki, (ko)\n"
+    "readings": "ボク, モク, き, （こ）boku, moku, ki, (ko)"
   },
   {
     "id": "1877",
@@ -20644,7 +20644,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "crude",
-    "readings": "ボクboku\n"
+    "readings": "ボクboku"
   },
   {
     "id": "1878",
@@ -20655,7 +20655,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "breed",
-    "readings": "ボク、まきboku, maki\n"
+    "readings": "ボク, まきboku, maki"
   },
   {
     "id": "1879",
@@ -20666,7 +20666,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "harmonious",
-    "readings": "ボクboku\n"
+    "readings": "ボクboku"
   },
   {
     "id": "1880",
@@ -20677,18 +20677,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "me",
-    "readings": "ボクboku\n"
+    "readings": "ボクboku"
   },
   {
     "id": "1881",
     "new_shinjitai": "墨",
-    "old_kyujitai": "墨 [4]",
+    "old_kyujitai": "墨 [4]",
     "radical": "土",
     "strokes": "14",
     "grade": "S",
     "year_added": "",
     "english_meaning": "black ink",
-    "readings": "ボク、すみboku, sumi\n"
+    "readings": "ボク, すみboku, sumi"
   },
   {
     "id": "1882",
@@ -20699,7 +20699,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "slap",
-    "readings": "ボクboku\n"
+    "readings": "ボクboku"
   },
   {
     "id": "1883",
@@ -20710,7 +20710,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "drown",
-    "readings": "ボツbotsu\n"
+    "readings": "ボツbotsu"
   },
   {
     "id": "1884",
@@ -20721,7 +20721,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "rise",
-    "readings": "ボツbotsu\n"
+    "readings": "ボツbotsu"
   },
   {
     "id": "1885",
@@ -20732,7 +20732,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "ditch",
-    "readings": "ほりhori\n"
+    "readings": "ほりhori"
   },
   {
     "id": "1886",
@@ -20743,7 +20743,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "book",
-    "readings": "ホン、もとhon, moto\n"
+    "readings": "ホン, もとhon, moto"
   },
   {
     "id": "1887",
@@ -20754,7 +20754,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bustle",
-    "readings": "ホンhon\n"
+    "readings": "ホンhon"
   },
   {
     "id": "1888",
@@ -20765,7 +20765,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "flip",
-    "readings": "ホン、ひるがえ-る、ひるがえ-すhon, hirugae-ru, hirugae-su\n"
+    "readings": "ホン, ひるがえ-る, ひるがえ-すhon, hirugae-ru, hirugae-su"
   },
   {
     "id": "1889",
@@ -20776,7 +20776,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mediocre",
-    "readings": "ボン、（ハン）bon, (han)\n"
+    "readings": "ボン, （ハン）bon, (han)"
   },
   {
     "id": "1890",
@@ -20787,7 +20787,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "basin",
-    "readings": "ボンbon\n"
+    "readings": "ボンbon"
   },
   {
     "id": "1891",
@@ -20798,7 +20798,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hemp",
-    "readings": "マ、あさma, asa\n"
+    "readings": "マ, あさma, asa"
   },
   {
     "id": "1892",
@@ -20809,7 +20809,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "chafe",
-    "readings": "マma\n"
+    "readings": "マma"
   },
   {
     "id": "1893",
@@ -20820,7 +20820,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "grind",
-    "readings": "マ、みが-くma, miga-ku\n"
+    "readings": "マ, みが-くma, miga-ku"
   },
   {
     "id": "1894",
@@ -20831,7 +20831,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "witch",
-    "readings": "マma\n"
+    "readings": "マma"
   },
   {
     "id": "1895",
@@ -20842,7 +20842,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "every",
-    "readings": "マイmai\n"
+    "readings": "マイmai"
   },
   {
     "id": "1896",
@@ -20853,7 +20853,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "younger sister",
-    "readings": "マイ、いもうとmai, imōto\n"
+    "readings": "マイ, いもうとmai, imōto"
   },
   {
     "id": "1897",
@@ -20864,7 +20864,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "sheet of...",
-    "readings": "マイmai\n"
+    "readings": "マイmai"
   },
   {
     "id": "1898",
@@ -20875,7 +20875,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "foolish",
-    "readings": "マイmai\n"
+    "readings": "マイmai"
   },
   {
     "id": "1899",
@@ -20886,7 +20886,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bury",
-    "readings": "マイ、う-める、う-まる、う-もれるmai, u-meru, u-maru, u-moreru\n"
+    "readings": "マイ, う-める, う-まる, う-もれるmai, u-meru, u-maru, u-moreru"
   },
   {
     "id": "1900",
@@ -20897,7 +20897,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "curtain",
-    "readings": "マク、バクmaku, baku\n"
+    "readings": "マク, バクmaku, baku"
   },
   {
     "id": "1901",
@@ -20908,7 +20908,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "membrane",
-    "readings": "マクmaku\n"
+    "readings": "マクmaku"
   },
   {
     "id": "1902",
@@ -20919,7 +20919,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "pillow",
-    "readings": "まくらmakura\n"
+    "readings": "まくらmakura"
   },
   {
     "id": "1903",
@@ -20930,7 +20930,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "or again",
-    "readings": "またmata\n"
+    "readings": "またmata"
   },
   {
     "id": "1904",
@@ -20941,7 +20941,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "end",
-    "readings": "マツ、バツ、すえmatsu, batsu, sue\n"
+    "readings": "マツ, バツ, すえmatsu, batsu, sue"
   },
   {
     "id": "1905",
@@ -20952,7 +20952,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "rub",
-    "readings": "マツmatsu\n"
+    "readings": "マツmatsu"
   },
   {
     "id": "1906",
@@ -20963,7 +20963,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "ten thousand",
-    "readings": "マン、バンman, ban\n"
+    "readings": "マン, バンman, ban"
   },
   {
     "id": "1907",
@@ -20974,7 +20974,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "full",
-    "readings": "マン、み-ちる、み-たすman, mi-chiru, mi-tasu\n"
+    "readings": "マン, み-ちる, み-たすman, mi-chiru, mi-tasu"
   },
   {
     "id": "1908",
@@ -20985,7 +20985,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ridicule",
-    "readings": "マンman\n"
+    "readings": "マンman"
   },
   {
     "id": "1909",
@@ -20996,7 +20996,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "cartoon",
-    "readings": "マンman\n"
+    "readings": "マンman"
   },
   {
     "id": "1910",
@@ -21007,7 +21007,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "not yet",
-    "readings": "ミmi\n"
+    "readings": "ミmi"
   },
   {
     "id": "1911",
@@ -21018,7 +21018,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "flavor",
-    "readings": "ミ、あじ、あじ-わうmi, aji, aji-wau\n"
+    "readings": "ミ, あじ, あじ-わうmi, aji, aji-wau"
   },
   {
     "id": "1912",
@@ -21029,7 +21029,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fascination",
-    "readings": "ミmi\n"
+    "readings": "ミmi"
   },
   {
     "id": "1913",
@@ -21040,7 +21040,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "headland",
-    "readings": "みさきmisaki\n"
+    "readings": "みさきmisaki"
   },
   {
     "id": "1914",
@@ -21051,7 +21051,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "secrecy",
-    "readings": "ミツmitsu\n"
+    "readings": "ミツmitsu"
   },
   {
     "id": "1915",
@@ -21062,7 +21062,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "honey",
-    "readings": "ミツmitsu\n"
+    "readings": "ミツmitsu"
   },
   {
     "id": "1916",
@@ -21073,7 +21073,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "vein",
-    "readings": "ミャクmyaku\n"
+    "readings": "ミャクmyaku"
   },
   {
     "id": "1917",
@@ -21084,7 +21084,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "exquisite",
-    "readings": "ミョウmyō\n"
+    "readings": "ミョウmyō"
   },
   {
     "id": "1918",
@@ -21095,7 +21095,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "people",
-    "readings": "ミン、たみmin, tami\n"
+    "readings": "ミン, たみmin, tami"
   },
   {
     "id": "1919",
@@ -21106,7 +21106,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sleep",
-    "readings": "ミン、ねむ-る、ねむ-いmin, nemu-ru, nemu-i\n"
+    "readings": "ミン, ねむ-る, ねむ-いmin, nemu-ru, nemu-i"
   },
   {
     "id": "1920",
@@ -21117,7 +21117,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "halberd",
-    "readings": "ム、ほこmu, hoko\n"
+    "readings": "ム, ほこmu, hoko"
   },
   {
     "id": "1921",
@@ -21128,7 +21128,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "duty",
-    "readings": "ム、つと-める、つと-まるmu, tsuto-meru, tsuto-maru\n"
+    "readings": "ム, つと-める, つと-まるmu, tsuto-meru, tsuto-maru"
   },
   {
     "id": "1922",
@@ -21139,7 +21139,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "nothing",
-    "readings": "ム、ブ、な-いmu, bu, na-i\n"
+    "readings": "ム, ブ, な-いmu, bu, na-i"
   },
   {
     "id": "1923",
@@ -21150,7 +21150,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "dream",
-    "readings": "ム、ゆめmu, yume\n"
+    "readings": "ム, ゆめmu, yume"
   },
   {
     "id": "1924",
@@ -21161,7 +21161,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fog",
-    "readings": "ム、きりmu, kiri\n"
+    "readings": "ム, きりmu, kiri"
   },
   {
     "id": "1925",
@@ -21172,7 +21172,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "daughter",
-    "readings": "むすめmusume\n"
+    "readings": "むすめmusume"
   },
   {
     "id": "1926",
@@ -21183,7 +21183,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "name",
-    "readings": "メイ、ミョウ、なmei, myō, na\n"
+    "readings": "メイ, ミョウ, なmei, myō, na"
   },
   {
     "id": "1927",
@@ -21194,7 +21194,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "fate",
-    "readings": "メイ、ミョウ、いのちmei, myō, inochi\n"
+    "readings": "メイ, ミョウ, いのちmei, myō, inochi"
   },
   {
     "id": "1928",
@@ -21205,7 +21205,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "bright",
-    "readings": "メイ、ミョウ、あ-かり、あか-るい、あか-るむ、あか-らむ、あき-らか、あ-ける、あ-く、あ-くる、あ-かすmei, myō, a-kari, aka-rui, aka-rumu, aka-ramu, aki-raka, a-keru, a-ku, a-kuru, a-kasu\n"
+    "readings": "メイ, ミョウ, あ-かり, あか-るい, あか-るむ, あか-らむ, あき-らか, あ-ける, あ-く, あ-くる, あ-かすmei, myō, a-kari, aka-rui, aka-rumu, aka-ramu, aki-raka, a-keru, a-ku, a-kuru, a-kasu"
   },
   {
     "id": "1929",
@@ -21216,7 +21216,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "astray",
-    "readings": "メイ、まよ-うmei, mayo-u\n"
+    "readings": "メイ, まよ-うmei, mayo-u"
   },
   {
     "id": "1930",
@@ -21227,7 +21227,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "dark",
-    "readings": "メイ、ミョウmei, myō\n"
+    "readings": "メイ, ミョウmei, myō"
   },
   {
     "id": "1931",
@@ -21238,7 +21238,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "alliance",
-    "readings": "メイmei\n"
+    "readings": "メイmei"
   },
   {
     "id": "1932",
@@ -21249,7 +21249,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "inscription",
-    "readings": "メイmei\n"
+    "readings": "メイmei"
   },
   {
     "id": "1933",
@@ -21260,7 +21260,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "chirp",
-    "readings": "メイ、な-く、な-る、な-らすmei, na-ku, na-ru, na-rasu\n"
+    "readings": "メイ, な-く, な-る, な-らすmei, na-ku, na-ru, na-rasu"
   },
   {
     "id": "1934",
@@ -21271,18 +21271,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "destroy",
-    "readings": "メツ、ほろ-びる、ほろ-ぼすmetsu, horo-biru, horo-bosu\n"
+    "readings": "メツ, ほろ-びる, ほろ-ぼすmetsu, horo-biru, horo-bosu"
   },
   {
     "id": "1935",
     "new_shinjitai": "免",
-    "old_kyujitai": "免 [4]",
+    "old_kyujitai": "免 [4]",
     "radical": "儿",
     "strokes": "8",
     "grade": "S",
     "year_added": "",
     "english_meaning": "excuse",
-    "readings": "メン、まぬか-れるmen, manuka-reru\n"
+    "readings": "メン, まぬか-れるmen, manuka-reru"
   },
   {
     "id": "1936",
@@ -21293,7 +21293,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "face",
-    "readings": "メン、おも、おもて、つらmen, omo, omote, tsura\n"
+    "readings": "メン, おも, おもて, つらmen, omo, omote, tsura"
   },
   {
     "id": "1937",
@@ -21304,7 +21304,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "cotton",
-    "readings": "メン、わたmen, wata\n"
+    "readings": "メン, わたmen, wata"
   },
   {
     "id": "1938",
@@ -21315,7 +21315,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "noodles",
-    "readings": "メンmen\n"
+    "readings": "メンmen"
   },
   {
     "id": "1939",
@@ -21326,7 +21326,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "overgrown",
-    "readings": "モ、しげ-るmo, shige-ru\n"
+    "readings": "モ, しげ-るmo, shige-ru"
   },
   {
     "id": "1940",
@@ -21337,7 +21337,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "imitation",
-    "readings": "モ、ボmo, bo\n"
+    "readings": "モ, ボmo, bo"
   },
   {
     "id": "1941",
@@ -21348,7 +21348,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "hair",
-    "readings": "モウ、けmō, ke\n"
+    "readings": "モウ, けmō, ke"
   },
   {
     "id": "1942",
@@ -21359,7 +21359,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "delusion",
-    "readings": "モウ、ボウmō, bō\n"
+    "readings": "モウ, ボウmō, bō"
   },
   {
     "id": "1943",
@@ -21370,7 +21370,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "blind",
-    "readings": "モウmō\n"
+    "readings": "モウmō"
   },
   {
     "id": "1944",
@@ -21381,7 +21381,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "decrease",
-    "readings": "モウ、（コウ）mō, (kō)\n"
+    "readings": "モウ, （コウ）mō, (kō)"
   },
   {
     "id": "1945",
@@ -21392,7 +21392,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "fierce",
-    "readings": "モウmō\n"
+    "readings": "モウmō"
   },
   {
     "id": "1946",
@@ -21403,7 +21403,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "netting",
-    "readings": "モウ、あみmō, ami\n"
+    "readings": "モウ, あみmō, ami"
   },
   {
     "id": "1947",
@@ -21414,7 +21414,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "eye",
-    "readings": "モク、（ボク）、め、（ま）moku, (boku), me, (ma)\n"
+    "readings": "モク, （ボク）, め, （ま）moku, (boku), me, (ma)"
   },
   {
     "id": "1948",
@@ -21425,7 +21425,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "silence",
-    "readings": "モク、だま-るmoku, dama-ru\n"
+    "readings": "モク, だま-るmoku, dama-ru"
   },
   {
     "id": "1949",
@@ -21436,7 +21436,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "gates",
-    "readings": "モン、かどmon, kado\n"
+    "readings": "モン, かどmon, kado"
   },
   {
     "id": "1950",
@@ -21447,7 +21447,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "family crest",
-    "readings": "モンmon\n"
+    "readings": "モンmon"
   },
   {
     "id": "1951",
@@ -21458,7 +21458,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "question",
-    "readings": "モン、と-う、と-い、（とん）mon, to-u, to-i, (ton)\n"
+    "readings": "モン, と-う, と-い, （とん）mon, to-u, to-i, (ton)"
   },
   {
     "id": "1952",
@@ -21469,7 +21469,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "melting",
-    "readings": "ヤya\n"
+    "readings": "ヤya"
   },
   {
     "id": "1953",
@@ -21480,7 +21480,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "night",
-    "readings": "ヤ、よ、よるya, yo, yoru\n"
+    "readings": "ヤ, よ, よるya, yo, yoru"
   },
   {
     "id": "1954",
@@ -21491,7 +21491,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "field",
-    "readings": "ヤ、のya, no\n"
+    "readings": "ヤ, のya, no"
   },
   {
     "id": "1955",
@@ -21502,7 +21502,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "all the more",
-    "readings": "やya\n"
+    "readings": "やya"
   },
   {
     "id": "1956",
@@ -21513,7 +21513,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "unlucky",
-    "readings": "ヤクyaku\n"
+    "readings": "ヤクyaku"
   },
   {
     "id": "1957",
@@ -21524,7 +21524,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "service",
-    "readings": "ヤク、エキyaku, eki\n"
+    "readings": "ヤク, エキyaku, eki"
   },
   {
     "id": "1958",
@@ -21535,7 +21535,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "promise",
-    "readings": "ヤクyaku\n"
+    "readings": "ヤクyaku"
   },
   {
     "id": "1959",
@@ -21546,7 +21546,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "translate",
-    "readings": "ヤク、わけyaku, wake\n"
+    "readings": "ヤク, わけyaku, wake"
   },
   {
     "id": "1960",
@@ -21557,7 +21557,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "medicine",
-    "readings": "ヤク、くすりyaku, kusuri\n"
+    "readings": "ヤク, くすりyaku, kusuri"
   },
   {
     "id": "1961",
@@ -21568,7 +21568,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "leap",
-    "readings": "ヤク、おど-るyaku, odo-ru\n"
+    "readings": "ヤク, おど-るyaku, odo-ru"
   },
   {
     "id": "1962",
@@ -21579,7 +21579,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "darkness",
-    "readings": "やみyami\n"
+    "readings": "やみyami"
   },
   {
     "id": "1963",
@@ -21590,7 +21590,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "reason",
-    "readings": "ユ、ユウ、（ユイ）、よしyu, yū, (yui), yoshi\n"
+    "readings": "ユ, ユウ, （ユイ）, よしyu, yū, (yui), yoshi"
   },
   {
     "id": "1964",
@@ -21601,7 +21601,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "oil",
-    "readings": "ユ、あぶらyu, abura\n"
+    "readings": "ユ, あぶらyu, abura"
   },
   {
     "id": "1965",
@@ -21612,7 +21612,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "metaphor",
-    "readings": "ユyu\n"
+    "readings": "ユyu"
   },
   {
     "id": "1966",
@@ -21623,7 +21623,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "pleasure",
-    "readings": "ユyu\n"
+    "readings": "ユyu"
   },
   {
     "id": "1967",
@@ -21634,7 +21634,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "rebuke",
-    "readings": "ユ、さと-すyu, sato-su\n"
+    "readings": "ユ, さと-すyu, sato-su"
   },
   {
     "id": "1968",
@@ -21645,7 +21645,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "transport",
-    "readings": "ユyu\n"
+    "readings": "ユyu"
   },
   {
     "id": "1969",
@@ -21656,7 +21656,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "healing",
-    "readings": "ユ、い-える、い-やすyu, i-eru, i-yasu\n"
+    "readings": "ユ, い-える, い-やすyu, i-eru, i-yasu"
   },
   {
     "id": "1970",
@@ -21667,7 +21667,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "solely",
-    "readings": "ユイ、（イ）yui, (i)\n"
+    "readings": "ユイ, （イ）yui, (i)"
   },
   {
     "id": "1971",
@@ -21678,7 +21678,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "friend",
-    "readings": "ユウ、ともyū, tomo\n"
+    "readings": "ユウ, ともyū, tomo"
   },
   {
     "id": "1972",
@@ -21689,7 +21689,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "have",
-    "readings": "ユウ、ウ、あ-るyū, u, a-ru\n"
+    "readings": "ユウ, ウ, あ-るyū, u, a-ru"
   },
   {
     "id": "1973",
@@ -21700,7 +21700,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "courage",
-    "readings": "ユウ、いさ-むyū, isa-mu\n"
+    "readings": "ユウ, いさ-むyū, isa-mu"
   },
   {
     "id": "1974",
@@ -21711,7 +21711,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "seclude",
-    "readings": "ユウyū\n"
+    "readings": "ユウyū"
   },
   {
     "id": "1975",
@@ -21722,7 +21722,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "permanence",
-    "readings": "ユウyū\n"
+    "readings": "ユウyū"
   },
   {
     "id": "1976",
@@ -21733,7 +21733,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "mail",
-    "readings": "ユウyū\n"
+    "readings": "ユウyū"
   },
   {
     "id": "1977",
@@ -21744,7 +21744,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "boil",
-    "readings": "ユウ、わ-くyū, wa-ku\n"
+    "readings": "ユウ, わ-くyū, wa-ku"
   },
   {
     "id": "1978",
@@ -21755,7 +21755,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "furthermore",
-    "readings": "ユウyū\n"
+    "readings": "ユウyū"
   },
   {
     "id": "1979",
@@ -21766,7 +21766,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "abundant",
-    "readings": "ユウyū\n"
+    "readings": "ユウyū"
   },
   {
     "id": "1980",
@@ -21777,7 +21777,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "play",
-    "readings": "ユウ、（ユ）、あそ-ぶyū, (yu), aso-bu\n"
+    "readings": "ユウ, （ユ）, あそ-ぶyū, (yu), aso-bu"
   },
   {
     "id": "1981",
@@ -21788,7 +21788,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "male",
-    "readings": "ユウ、お、おすyū, o, osu\n"
+    "readings": "ユウ, お, おすyū, o, osu"
   },
   {
     "id": "1982",
@@ -21799,7 +21799,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "entice",
-    "readings": "ユウ、さそ-うyū, saso-u\n"
+    "readings": "ユウ, さそ-うyū, saso-u"
   },
   {
     "id": "1983",
@@ -21810,7 +21810,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "melancholy",
-    "readings": "ユウ、うれ-える、うれ-い、う-いyū, ure-eru, ure-i, u-i\n"
+    "readings": "ユウ, うれ-える, うれ-い, う-いyū, ure-eru, ure-i, u-i"
   },
   {
     "id": "1984",
@@ -21821,7 +21821,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dissolve",
-    "readings": "ユウyū\n"
+    "readings": "ユウyū"
   },
   {
     "id": "1985",
@@ -21832,7 +21832,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "superior",
-    "readings": "ユウ、やさ-しい、すぐ-れるyū, yasa-shii, sugu-reru\n"
+    "readings": "ユウ, やさ-しい, すぐ-れるyū, yasa-shii, sugu-reru"
   },
   {
     "id": "1986",
@@ -21843,7 +21843,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "give",
-    "readings": "ヨ、あた-えるyo, ata-eru\n"
+    "readings": "ヨ, あた-えるyo, ata-eru"
   },
   {
     "id": "1987",
@@ -21854,7 +21854,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "in advance",
-    "readings": "ヨyo\n"
+    "readings": "ヨyo"
   },
   {
     "id": "1988",
@@ -21865,7 +21865,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "leave over",
-    "readings": "ヨ、あま-る、あま-すyo, ama-ru, ama-su\n"
+    "readings": "ヨ, あま-る, あま-すyo, ama-ru, ama-su"
   },
   {
     "id": "1989",
@@ -21876,7 +21876,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "reputation",
-    "readings": "ヨ、ほま-れyo, homa-re\n"
+    "readings": "ヨ, ほま-れyo, homa-re"
   },
   {
     "id": "1990",
@@ -21887,7 +21887,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "deposit",
-    "readings": "ヨ、あず-ける、あず-かるyo, azu-keru, azu-karu\n"
+    "readings": "ヨ, あず-ける, あず-かるyo, azu-keru, azu-karu"
   },
   {
     "id": "1991",
@@ -21898,7 +21898,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "infancy",
-    "readings": "ヨウ、おさな-いyō, osana-i\n"
+    "readings": "ヨウ, おさな-いyō, osana-i"
   },
   {
     "id": "1992",
@@ -21909,7 +21909,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "use",
-    "readings": "ヨウ、もち-いるyō, mochi-iru\n"
+    "readings": "ヨウ, もち-いるyō, mochi-iru"
   },
   {
     "id": "1993",
@@ -21920,7 +21920,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "sheep",
-    "readings": "ヨウ、ひつじyō, hitsuji\n"
+    "readings": "ヨウ, ひつじyō, hitsuji"
   },
   {
     "id": "1994",
@@ -21931,7 +21931,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "bewitching",
-    "readings": "ヨウ、あや-しいyō, aya-shii\n"
+    "readings": "ヨウ, あや-しいyō, aya-shii"
   },
   {
     "id": "1995",
@@ -21942,7 +21942,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "ocean",
-    "readings": "ヨウyō\n"
+    "readings": "ヨウyō"
   },
   {
     "id": "1996",
@@ -21953,7 +21953,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "need",
-    "readings": "ヨウ、かなめ、い-るyō, kaname, i-ru\n"
+    "readings": "ヨウ, かなめ, い-るyō, kaname, i-ru"
   },
   {
     "id": "1997",
@@ -21964,7 +21964,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "contain",
-    "readings": "ヨウyō\n"
+    "readings": "ヨウyō"
   },
   {
     "id": "1998",
@@ -21975,7 +21975,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "commonplace",
-    "readings": "ヨウyō\n"
+    "readings": "ヨウyō"
   },
   {
     "id": "1999",
@@ -21986,7 +21986,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hoist",
-    "readings": "ヨウ、あ-げる、あ-がるyō, a-geru, a-garu\n"
+    "readings": "ヨウ, あ-げる, あ-がるyō, a-geru, a-garu"
   },
   {
     "id": "2000",
@@ -21997,7 +21997,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "swing",
-    "readings": "ヨウ、ゆ-れる、ゆ-る、ゆ-らぐ、ゆ-るぐ、ゆ-する、ゆ-さぶる、ゆ-すぶるyō, yu-reru, yu-ru, yu-ragu, yu-rugu, yu-suru, yu-saburu, yu-suburu\n"
+    "readings": "ヨウ, ゆ-れる, ゆ-る, ゆ-らぐ, ゆ-るぐ, ゆ-する, ゆ-さぶる, ゆ-すぶるyō, yu-reru, yu-ru, yu-ragu, yu-rugu, yu-suru, yu-saburu, yu-suburu"
   },
   {
     "id": "2001",
@@ -22008,7 +22008,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "leaf",
-    "readings": "ヨウ、はyō, ha\n"
+    "readings": "ヨウ, はyō, ha"
   },
   {
     "id": "2002",
@@ -22019,7 +22019,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "sunshine",
-    "readings": "ヨウyō\n"
+    "readings": "ヨウyō"
   },
   {
     "id": "2003",
@@ -22030,7 +22030,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "melt",
-    "readings": "ヨウ、と-ける、と-かす、と-くyō, to-keru, to-kasu, to-ku\n"
+    "readings": "ヨウ, と-ける, と-かす, と-くyō, to-keru, to-kasu, to-ku"
   },
   {
     "id": "2004",
@@ -22041,7 +22041,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "loins",
-    "readings": "ヨウ、こしyō, koshi\n"
+    "readings": "ヨウ, こしyō, koshi"
   },
   {
     "id": "2005",
@@ -22052,7 +22052,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "formal title",
-    "readings": "ヨウ、さまyō, sama\n"
+    "readings": "ヨウ, さまyō, sama"
   },
   {
     "id": "2006",
@@ -22063,7 +22063,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "boil (medical)",
-    "readings": "ヨウyō\n"
+    "readings": "ヨウyō"
   },
   {
     "id": "2007",
@@ -22074,7 +22074,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "jump",
-    "readings": "ヨウ、おど-る、おど-りyō, odo-ru, odo-ri\n"
+    "readings": "ヨウ, おど-る, おど-りyō, odo-ru, odo-ri"
   },
   {
     "id": "2008",
@@ -22085,7 +22085,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "kiln",
-    "readings": "ヨウ、かまyō, kama\n"
+    "readings": "ヨウ, かまyō, kama"
   },
   {
     "id": "2009",
@@ -22096,7 +22096,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "foster",
-    "readings": "ヨウ、やしな-うyō, yashina-u\n"
+    "readings": "ヨウ, やしな-うyō, yashina-u"
   },
   {
     "id": "2010",
@@ -22107,7 +22107,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "embrace",
-    "readings": "ヨウyō\n"
+    "readings": "ヨウyō"
   },
   {
     "id": "2011",
@@ -22118,7 +22118,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "noh chanting",
-    "readings": "ヨウ、うたい、うた-うyō, utai, uta-u\n"
+    "readings": "ヨウ, うたい, うた-うyō, utai, uta-u"
   },
   {
     "id": "2012",
@@ -22129,7 +22129,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "day of the week",
-    "readings": "ヨウyō\n"
+    "readings": "ヨウyō"
   },
   {
     "id": "2013",
@@ -22140,7 +22140,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "repress",
-    "readings": "ヨク、おさ-えるyoku, osa-eru\n"
+    "readings": "ヨク, おさ-えるyoku, osa-eru"
   },
   {
     "id": "2014",
@@ -22151,7 +22151,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "fertility",
-    "readings": "ヨクyoku\n"
+    "readings": "ヨクyoku"
   },
   {
     "id": "2015",
@@ -22162,7 +22162,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "bathe",
-    "readings": "ヨク、あ-びる、あ-びせるyoku, a-biru, a-biseru\n"
+    "readings": "ヨク, あ-びる, あ-びせるyoku, a-biru, a-biseru"
   },
   {
     "id": "2016",
@@ -22173,7 +22173,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "longing",
-    "readings": "ヨク、ほっ-する、ほ-しいyoku, ho'-suru, ho-shii\n"
+    "readings": "ヨク, ほっ-する, ほ-しいyoku, ho'-suru, ho-shii"
   },
   {
     "id": "2017",
@@ -22184,7 +22184,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "the following",
-    "readings": "ヨクyoku\n"
+    "readings": "ヨクyoku"
   },
   {
     "id": "2018",
@@ -22195,7 +22195,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wing",
-    "readings": "ヨク、つばさyoku, tsubasa\n"
+    "readings": "ヨク, つばさyoku, tsubasa"
   },
   {
     "id": "2019",
@@ -22206,7 +22206,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "crush",
-    "readings": "ラra\n"
+    "readings": "ラra"
   },
   {
     "id": "2020",
@@ -22217,7 +22217,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "naked",
-    "readings": "ラ、はだかra, hadaka\n"
+    "readings": "ラ, はだかra, hadaka"
   },
   {
     "id": "2021",
@@ -22228,7 +22228,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "gauze",
-    "readings": "ラra\n"
+    "readings": "ラra"
   },
   {
     "id": "2022",
@@ -22239,7 +22239,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "come",
-    "readings": "ライ、く-る、きた-る、きた-すrai, ku-ru, kita-ru, kita-su\n"
+    "readings": "ライ, く-る, きた-る, きた-すrai, ku-ru, kita-ru, kita-su"
   },
   {
     "id": "2023",
@@ -22250,7 +22250,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "thunder",
-    "readings": "ライ、かみなりrai, kaminari\n"
+    "readings": "ライ, かみなりrai, kaminari"
   },
   {
     "id": "2024",
@@ -22261,7 +22261,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "trust",
-    "readings": "ライ、たの-む、たの-もしい、たよ-るrai, tano-mu, tano-moshii, tayo-ru\n"
+    "readings": "ライ, たの-む, たの-もしい, たよ-るrai, tano-mu, tano-moshii, tayo-ru"
   },
   {
     "id": "2025",
@@ -22272,7 +22272,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "entwine",
-    "readings": "ラク、から-む、から-まる、から-めるraku, kara-mu, kara-maru, kara-meru\n"
+    "readings": "ラク, から-む, から-まる, から-めるraku, kara-mu, kara-maru, kara-meru"
   },
   {
     "id": "2026",
@@ -22283,7 +22283,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "fall",
-    "readings": "ラク、お-ちる、お-とすraku, o-chiru, o-tosu\n"
+    "readings": "ラク, お-ちる, お-とすraku, o-chiru, o-tosu"
   },
   {
     "id": "2027",
@@ -22294,7 +22294,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dairy products",
-    "readings": "ラクraku\n"
+    "readings": "ラクraku"
   },
   {
     "id": "2028",
@@ -22305,7 +22305,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "bitter",
-    "readings": "ラツratsu\n"
+    "readings": "ラツratsu"
   },
   {
     "id": "2029",
@@ -22316,7 +22316,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "riot",
-    "readings": "ラン、みだ-れる、みだ-すran, mida-reru, mida-su\n"
+    "readings": "ラン, みだ-れる, みだ-すran, mida-reru, mida-su"
   },
   {
     "id": "2030",
@@ -22327,7 +22327,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "egg",
-    "readings": "ラン、たまごran, tamago\n"
+    "readings": "ラン, たまごran, tamago"
   },
   {
     "id": "2031",
@@ -22338,7 +22338,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "perusal",
-    "readings": "ランran\n"
+    "readings": "ランran"
   },
   {
     "id": "2032",
@@ -22349,7 +22349,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "excessive",
-    "readings": "ランran\n"
+    "readings": "ランran"
   },
   {
     "id": "2033",
@@ -22360,18 +22360,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "indigo",
-    "readings": "ラン、あいran, ai\n"
+    "readings": "ラン, あいran, ai"
   },
   {
     "id": "2034",
     "new_shinjitai": "欄",
-    "old_kyujitai": "欄 [4]",
+    "old_kyujitai": "欄 [4]",
     "radical": "木",
     "strokes": "20",
     "grade": "S",
     "year_added": "",
     "english_meaning": "column",
-    "readings": "ランran\n"
+    "readings": "ランran"
   },
   {
     "id": "2035",
@@ -22382,7 +22382,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "officer",
-    "readings": "リri\n"
+    "readings": "リri"
   },
   {
     "id": "2036",
@@ -22393,7 +22393,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "profit",
-    "readings": "リ、き-くri, ki-ku\n"
+    "readings": "リ, き-くri, ki-ku"
   },
   {
     "id": "2037",
@@ -22404,7 +22404,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "village",
-    "readings": "リ、さとri, sato\n"
+    "readings": "リ, さとri, sato"
   },
   {
     "id": "2038",
@@ -22415,7 +22415,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "reason",
-    "readings": "リri\n"
+    "readings": "リri"
   },
   {
     "id": "2039",
@@ -22426,7 +22426,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "diarrhea",
-    "readings": "リri\n"
+    "readings": "リri"
   },
   {
     "id": "2040",
@@ -22437,7 +22437,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "back",
-    "readings": "リ、うらri, ura\n"
+    "readings": "リ, うらri, ura"
   },
   {
     "id": "2041",
@@ -22448,7 +22448,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "footgear",
-    "readings": "リ、は-くri, ha-ku\n"
+    "readings": "リ, は-くri, ha-ku"
   },
   {
     "id": "2042",
@@ -22459,7 +22459,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "glassy",
-    "readings": "リri\n"
+    "readings": "リri"
   },
   {
     "id": "2043",
@@ -22470,7 +22470,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "detach",
-    "readings": "リ、はな-れる、はな-すri, hana-reru, hana-su\n"
+    "readings": "リ, はな-れる, はな-すri, hana-reru, hana-su"
   },
   {
     "id": "2044",
@@ -22481,7 +22481,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "land",
-    "readings": "リクriku\n"
+    "readings": "リクriku"
   },
   {
     "id": "2045",
@@ -22492,7 +22492,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "stand up",
-    "readings": "リツ、（リュウ）、た-つ、た-てるritsu, (ryū), ta-tsu, ta-teru\n"
+    "readings": "リツ, （リュウ）, た-つ, た-てるritsu, (ryū), ta-tsu, ta-teru"
   },
   {
     "id": "2046",
@@ -22503,7 +22503,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "law",
-    "readings": "リツ、（リチ）ritsu, (richi)\n"
+    "readings": "リツ, （リチ）ritsu, (richi)"
   },
   {
     "id": "2047",
@@ -22514,7 +22514,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "fear",
-    "readings": "リツritsu\n"
+    "readings": "リツritsu"
   },
   {
     "id": "2048",
@@ -22525,7 +22525,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "abbreviation",
-    "readings": "リャクryaku\n"
+    "readings": "リャクryaku"
   },
   {
     "id": "2049",
@@ -22536,7 +22536,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "willow",
-    "readings": "リュウ、やなぎryū, yanagi\n"
+    "readings": "リュウ, やなぎryū, yanagi"
   },
   {
     "id": "2050",
@@ -22547,7 +22547,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "stream",
-    "readings": "リュウ、（ル）、なが-れる、なが-すryū, (ru), naga-reru, naga-su\n"
+    "readings": "リュウ, （ル）, なが-れる, なが-すryū, (ru), naga-reru, naga-su"
   },
   {
     "id": "2051",
@@ -22558,7 +22558,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "detain",
-    "readings": "リュウ、（ル）、と-める、と-まるryū, (ru), to-meru, to-maru\n"
+    "readings": "リュウ, （ル）, と-める, と-まるryū, (ru), to-meru, to-maru"
   },
   {
     "id": "2052",
@@ -22569,7 +22569,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "dragon",
-    "readings": "リュウ、たつryū, tatsu\n"
+    "readings": "リュウ, たつryū, tatsu"
   },
   {
     "id": "2053",
@@ -22580,18 +22580,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "grains",
-    "readings": "リュウ、つぶryū, tsubu\n"
+    "readings": "リュウ, つぶryū, tsubu"
   },
   {
     "id": "2054",
     "new_shinjitai": "隆",
-    "old_kyujitai": "隆 [4]",
+    "old_kyujitai": "隆 [4]",
     "radical": "阜",
     "strokes": "11",
     "grade": "S",
     "year_added": "",
     "english_meaning": "hump",
-    "readings": "リュウryū\n"
+    "readings": "リュウryū"
   },
   {
     "id": "2055",
@@ -22602,7 +22602,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "sulphur",
-    "readings": "リュウryū\n"
+    "readings": "リュウryū"
   },
   {
     "id": "2056",
@@ -22613,7 +22613,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "companion",
-    "readings": "リョryo\n"
+    "readings": "リョryo"
   },
   {
     "id": "2057",
@@ -22624,18 +22624,18 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "trip",
-    "readings": "リョ、たびryo, tabi\n"
+    "readings": "リョ, たびryo, tabi"
   },
   {
     "id": "2058",
     "new_shinjitai": "虜",
-    "old_kyujitai": "虜 [4]",
+    "old_kyujitai": "虜 [4]",
     "radical": "虍",
     "strokes": "13",
     "grade": "S",
     "year_added": "",
     "english_meaning": "captive",
-    "readings": "リョryo\n"
+    "readings": "リョryo"
   },
   {
     "id": "2059",
@@ -22646,7 +22646,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "prudence",
-    "readings": "リョryo\n"
+    "readings": "リョryo"
   },
   {
     "id": "2060",
@@ -22657,7 +22657,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "finish",
-    "readings": "リョウryō\n"
+    "readings": "リョウryō"
   },
   {
     "id": "2061",
@@ -22668,7 +22668,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "both",
-    "readings": "リョウryō\n"
+    "readings": "リョウryō"
   },
   {
     "id": "2062",
@@ -22679,7 +22679,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "good",
-    "readings": "リョウ、よ-いryō, yo-i\n"
+    "readings": "リョウ, よ-いryō, yo-i"
   },
   {
     "id": "2063",
@@ -22690,7 +22690,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "fee",
-    "readings": "リョウryō\n"
+    "readings": "リョウryō"
   },
   {
     "id": "2064",
@@ -22701,7 +22701,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "refreshing",
-    "readings": "リョウ、すず-しい、すず-むryō, suzu-shii, suzu-mu\n"
+    "readings": "リョウ, すず-しい, すず-むryō, suzu-shii, suzu-mu"
   },
   {
     "id": "2065",
@@ -22712,7 +22712,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "game-hunting",
-    "readings": "リョウryō\n"
+    "readings": "リョウryō"
   },
   {
     "id": "2066",
@@ -22723,7 +22723,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "mausoleum",
-    "readings": "リョウ、みささぎryō, misasagi\n"
+    "readings": "リョウ, みささぎryō, misasagi"
   },
   {
     "id": "2067",
@@ -22734,7 +22734,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "quantity",
-    "readings": "リョウ、はか-るryō, haka-ru\n"
+    "readings": "リョウ, はか-るryō, haka-ru"
   },
   {
     "id": "2068",
@@ -22745,7 +22745,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "colleague",
-    "readings": "リョウryō\n"
+    "readings": "リョウryō"
   },
   {
     "id": "2069",
@@ -22756,7 +22756,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "territory",
-    "readings": "リョウryō\n"
+    "readings": "リョウryō"
   },
   {
     "id": "2070",
@@ -22767,7 +22767,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dormitory",
-    "readings": "リョウryō\n"
+    "readings": "リョウryō"
   },
   {
     "id": "2071",
@@ -22778,7 +22778,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "heal",
-    "readings": "リョウryō\n"
+    "readings": "リョウryō"
   },
   {
     "id": "2072",
@@ -22789,7 +22789,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "clear",
-    "readings": "リョウryō\n"
+    "readings": "リョウryō"
   },
   {
     "id": "2073",
@@ -22800,7 +22800,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "provisions",
-    "readings": "リョウ、（ロウ）、かてryō, (rō), kate\n"
+    "readings": "リョウ, （ロウ）, かてryō, (rō), kate"
   },
   {
     "id": "2074",
@@ -22811,7 +22811,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "power",
-    "readings": "リョク、リキ、ちからryoku, riki, chikara\n"
+    "readings": "リョク, リキ, ちからryoku, riki, chikara"
   },
   {
     "id": "2075",
@@ -22822,7 +22822,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "green",
-    "readings": "リョク、（ロク）、みどりryoku, (roku), midori\n"
+    "readings": "リョク, （ロク）, みどりryoku, (roku), midori"
   },
   {
     "id": "2076",
@@ -22833,7 +22833,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "woods",
-    "readings": "リン、はやしrin, hayashi\n"
+    "readings": "リン, はやしrin, hayashi"
   },
   {
     "id": "2077",
@@ -22844,7 +22844,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "thousandth",
-    "readings": "リンrin\n"
+    "readings": "リンrin"
   },
   {
     "id": "2078",
@@ -22855,7 +22855,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ethics",
-    "readings": "リンrin\n"
+    "readings": "リンrin"
   },
   {
     "id": "2079",
@@ -22866,7 +22866,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "wheel",
-    "readings": "リン、わrin, wa\n"
+    "readings": "リン, わrin, wa"
   },
   {
     "id": "2080",
@@ -22877,7 +22877,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "neighboring",
-    "readings": "リン、とな-る、となりrin, tona-ru, tonari\n"
+    "readings": "リン, とな-る, となりrin, tona-ru, tonari"
   },
   {
     "id": "2081",
@@ -22888,7 +22888,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "look to",
-    "readings": "リン、のぞ-むrin, nozo-mu\n"
+    "readings": "リン, のぞ-むrin, nozo-mu"
   },
   {
     "id": "2082",
@@ -22899,7 +22899,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "lapis lazuli",
-    "readings": "ルru\n"
+    "readings": "ルru"
   },
   {
     "id": "2083",
@@ -22910,7 +22910,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tears",
-    "readings": "ルイ、なみだrui, namida\n"
+    "readings": "ルイ, なみだrui, namida"
   },
   {
     "id": "2084",
@@ -22921,7 +22921,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "accumulate",
-    "readings": "ルイrui\n"
+    "readings": "ルイrui"
   },
   {
     "id": "2085",
@@ -22932,18 +22932,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bases",
-    "readings": "ルイrui\n"
+    "readings": "ルイrui"
   },
   {
     "id": "2086",
     "new_shinjitai": "類",
-    "old_kyujitai": "類 [4]",
+    "old_kyujitai": "類 [4]",
     "radical": "頁",
     "strokes": "18",
     "grade": "4",
     "year_added": "",
     "english_meaning": "sort",
-    "readings": "ルイ、たぐ-いrui, tagu-i\n"
+    "readings": "ルイ, たぐ-いrui, tagu-i"
   },
   {
     "id": "2087",
@@ -22954,7 +22954,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "orders",
-    "readings": "レイrei\n"
+    "readings": "レイrei"
   },
   {
     "id": "2088",
@@ -22965,7 +22965,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "thanks",
-    "readings": "レイ、ライrei, rai\n"
+    "readings": "レイ, ライrei, rai"
   },
   {
     "id": "2089",
@@ -22976,7 +22976,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "cool",
-    "readings": "レイ、つめ-たい、ひ-える、ひ-や、ひ-やす、ひ-やかす、さ-める、さ-ますrei, tsume-tai, hi-eru, hi-ya, hi-yasu, hi-yakasu, sa-meru, sa-masu\n"
+    "readings": "レイ, つめ-たい, ひ-える, ひ-や, ひ-やす, ひ-やかす, さ-める, さ-ますrei, tsume-tai, hi-eru, hi-ya, hi-yasu, hi-yakasu, sa-meru, sa-masu"
   },
   {
     "id": "2090",
@@ -22987,7 +22987,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "encourage",
-    "readings": "レイ、はげ-む、はげ-ますrei, hage-mu, hage-masu\n"
+    "readings": "レイ, はげ-む, はげ-ますrei, hage-mu, hage-masu"
   },
   {
     "id": "2091",
@@ -22998,7 +22998,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "re-",
-    "readings": "レイ、もど-す、もど-るrei, modo-su, modo-ru\n"
+    "readings": "レイ, もど-す, もど-るrei, modo-su, modo-ru"
   },
   {
     "id": "2092",
@@ -23009,7 +23009,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "example",
-    "readings": "レイ、たと-えるrei, tato-eru\n"
+    "readings": "レイ, たと-えるrei, tato-eru"
   },
   {
     "id": "2093",
@@ -23020,7 +23020,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "small bell",
-    "readings": "レイ、リン、すずrei, rin, suzu\n"
+    "readings": "レイ, リン, すずrei, rin, suzu"
   },
   {
     "id": "2094",
@@ -23031,7 +23031,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "zero",
-    "readings": "レイrei\n"
+    "readings": "レイrei"
   },
   {
     "id": "2095",
@@ -23042,7 +23042,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "spirits",
-    "readings": "レイ、リョウ、たまrei, ryō, tama\n"
+    "readings": "レイ, リョウ, たまrei, ryō, tama"
   },
   {
     "id": "2096",
@@ -23053,7 +23053,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "slave",
-    "readings": "レイrei\n"
+    "readings": "レイrei"
   },
   {
     "id": "2097",
@@ -23064,7 +23064,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "age",
-    "readings": "レイrei\n"
+    "readings": "レイrei"
   },
   {
     "id": "2098",
@@ -23075,7 +23075,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "lovely",
-    "readings": "レイ、うるわ-しいrei, uruwa-shii\n"
+    "readings": "レイ, うるわ-しいrei, uruwa-shii"
   },
   {
     "id": "2099",
@@ -23086,7 +23086,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "calendar",
-    "readings": "レキ、こよみreki, koyomi\n"
+    "readings": "レキ, こよみreki, koyomi"
   },
   {
     "id": "2100",
@@ -23097,7 +23097,7 @@ const kanjis = [
     "grade": "5",
     "year_added": "",
     "english_meaning": "curriculum",
-    "readings": "レキreki\n"
+    "readings": "レキreki"
   },
   {
     "id": "2101",
@@ -23108,7 +23108,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "row",
-    "readings": "レツretsu\n"
+    "readings": "レツretsu"
   },
   {
     "id": "2102",
@@ -23119,7 +23119,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "inferiority",
-    "readings": "レツ、おと-るretsu, oto-ru\n"
+    "readings": "レツ, おと-るretsu, oto-ru"
   },
   {
     "id": "2103",
@@ -23130,7 +23130,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "ardent",
-    "readings": "レツretsu\n"
+    "readings": "レツretsu"
   },
   {
     "id": "2104",
@@ -23141,7 +23141,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "split",
-    "readings": "レツ、さ-く、さ-けるretsu, sa-ku, sa-keru\n"
+    "readings": "レツ, さ-く, さ-けるretsu, sa-ku, sa-keru"
   },
   {
     "id": "2105",
@@ -23152,7 +23152,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "romance",
-    "readings": "レン、こ-う、こい、こい-しいren, ko-u, koi, koi-shii\n"
+    "readings": "レン, こ-う, こい, こい-しいren, ko-u, koi, koi-shii"
   },
   {
     "id": "2106",
@@ -23163,7 +23163,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "take along",
-    "readings": "レン、つら-なる、つら-ねる、つ-れるren, tsura-naru, tsura-neru, tsu-reru\n"
+    "readings": "レン, つら-なる, つら-ねる, つ-れるren, tsura-naru, tsura-neru, tsu-reru"
   },
   {
     "id": "2107",
@@ -23174,18 +23174,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bargain",
-    "readings": "レンren\n"
+    "readings": "レンren"
   },
   {
     "id": "2108",
     "new_shinjitai": "練",
-    "old_kyujitai": "練 [4]",
+    "old_kyujitai": "練 [4]",
     "radical": "糸",
     "strokes": "14",
     "grade": "3",
     "year_added": "",
     "english_meaning": "practice",
-    "readings": "レン、ね-るren, ne-ru\n"
+    "readings": "レン, ね-るren, ne-ru"
   },
   {
     "id": "2109",
@@ -23196,7 +23196,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "tempering",
-    "readings": "レンren\n"
+    "readings": "レンren"
   },
   {
     "id": "2110",
@@ -23207,7 +23207,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "spine",
-    "readings": "ロro\n"
+    "readings": "ロro"
   },
   {
     "id": "2111",
@@ -23218,7 +23218,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "hearth",
-    "readings": "ロro\n"
+    "readings": "ロro"
   },
   {
     "id": "2112",
@@ -23229,7 +23229,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "bribe",
-    "readings": "ロro\n"
+    "readings": "ロro"
   },
   {
     "id": "2113",
@@ -23240,7 +23240,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "road",
-    "readings": "ロ、じro, ji\n"
+    "readings": "ロ, じro, ji"
   },
   {
     "id": "2114",
@@ -23251,7 +23251,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "dew",
-    "readings": "ロ、（ロウ）、つゆro, (rō), tsuyu\n"
+    "readings": "ロ, （ロウ）, つゆro, (rō), tsuyu"
   },
   {
     "id": "2115",
@@ -23262,7 +23262,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "old man",
-    "readings": "ロウ、お-いる、ふ-けるrō, o-iru, fu-keru\n"
+    "readings": "ロウ, お-いる, ふ-けるrō, o-iru, fu-keru"
   },
   {
     "id": "2116",
@@ -23273,7 +23273,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "labour",
-    "readings": "ロウrō\n"
+    "readings": "ロウrō"
   },
   {
     "id": "2117",
@@ -23284,7 +23284,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "tamper with",
-    "readings": "ロウ、もてあそ-ぶrō, moteaso-bu\n"
+    "readings": "ロウ, もてあそ-ぶrō, moteaso-bu"
   },
   {
     "id": "2118",
@@ -23295,18 +23295,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "son",
-    "readings": "ロウrō\n"
+    "readings": "ロウrō"
   },
   {
     "id": "2119",
     "new_shinjitai": "朗",
-    "old_kyujitai": "朗 [4]",
+    "old_kyujitai": "朗 [4]",
     "radical": "月",
     "strokes": "10",
     "grade": "6",
     "year_added": "",
     "english_meaning": "melodious",
-    "readings": "ロウ、ほが-らかrō, hoga-raka\n"
+    "readings": "ロウ, ほが-らかrō, hoga-raka"
   },
   {
     "id": "2120",
@@ -23317,18 +23317,18 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "wandering",
-    "readings": "ロウrō\n"
+    "readings": "ロウrō"
   },
   {
     "id": "2121",
     "new_shinjitai": "廊",
-    "old_kyujitai": "廊 [4]",
+    "old_kyujitai": "廊 [4]",
     "radical": "广",
     "strokes": "12",
     "grade": "S",
     "year_added": "",
     "english_meaning": "corridor",
-    "readings": "ロウrō\n"
+    "readings": "ロウrō"
   },
   {
     "id": "2122",
@@ -23339,7 +23339,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "watchtower",
-    "readings": "ロウrō\n"
+    "readings": "ロウrō"
   },
   {
     "id": "2123",
@@ -23350,7 +23350,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "leak",
-    "readings": "ロウ、も-る、も-れる、も-らすrō, mo-ru, mo-reru, mo-rasu\n"
+    "readings": "ロウ, も-る, も-れる, も-らすrō, mo-ru, mo-reru, mo-rasu"
   },
   {
     "id": "2124",
@@ -23361,7 +23361,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "basket",
-    "readings": "ロウ、かご、こ-もるrō, kago, ko-moru\n"
+    "readings": "ロウ, かご, こ-もるrō, kago, ko-moru"
   },
   {
     "id": "2125",
@@ -23372,7 +23372,7 @@ const kanjis = [
     "grade": "1",
     "year_added": "",
     "english_meaning": "six",
-    "readings": "ロク、む、む-つ、むっ-つ、（むい）roku, mu, mu-tsu, mu'-tsu, (mui)\n"
+    "readings": "ロク, む, む-つ, むっ-つ, （むい）roku, mu, mu-tsu, mu'-tsu, (mui)"
   },
   {
     "id": "2126",
@@ -23383,7 +23383,7 @@ const kanjis = [
     "grade": "4",
     "year_added": "",
     "english_meaning": "record",
-    "readings": "ロクroku\n"
+    "readings": "ロクroku"
   },
   {
     "id": "2127",
@@ -23394,7 +23394,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "foot of a mountain",
-    "readings": "ロク、ふもとroku, fumoto\n"
+    "readings": "ロク, ふもとroku, fumoto"
   },
   {
     "id": "2128",
@@ -23405,7 +23405,7 @@ const kanjis = [
     "grade": "6",
     "year_added": "",
     "english_meaning": "theory",
-    "readings": "ロンron\n"
+    "readings": "ロンron"
   },
   {
     "id": "2129",
@@ -23416,7 +23416,7 @@ const kanjis = [
     "grade": "3",
     "year_added": "",
     "english_meaning": "peace",
-    "readings": "ワ、（オ）、やわ-らぐ、やわ-らげる、なご-む、なご-やかwa, (o), yawa-ragu, yawa-rageru, nago-mu, nago-yaka\n"
+    "readings": "ワ, （オ）, やわ-らぐ, やわ-らげる, なご-む, なご-やかwa, (o), yawa-ragu, yawa-rageru, nago-mu, nago-yaka"
   },
   {
     "id": "2130",
@@ -23427,7 +23427,7 @@ const kanjis = [
     "grade": "2",
     "year_added": "",
     "english_meaning": "talk",
-    "readings": "ワ、はな-す、はなしwa, hana-su, hanashi\n"
+    "readings": "ワ, はな-す, はなしwa, hana-su, hanashi"
   },
   {
     "id": "2131",
@@ -23438,7 +23438,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "bribe, board",
-    "readings": "ワイ、まかな-うwai, makana-u\n"
+    "readings": "ワイ, まかな-うwai, makana-u"
   },
   {
     "id": "2132",
@@ -23449,7 +23449,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "2010",
     "english_meaning": "aside",
-    "readings": "わきwaki\n"
+    "readings": "わきwaki"
   },
   {
     "id": "2133",
@@ -23460,7 +23460,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "beguile",
-    "readings": "ワク、まど-うwaku, mado-u\n"
+    "readings": "ワク, まど-うwaku, mado-u"
   },
   {
     "id": "2134",
@@ -23471,7 +23471,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "1981",
     "english_meaning": "frame",
-    "readings": "わくwaku\n"
+    "readings": "わくwaku"
   },
   {
     "id": "2135",
@@ -23482,7 +23482,7 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "gulf",
-    "readings": "ワンwan\n"
+    "readings": "ワンwan"
   },
   {
     "id": "2136",
@@ -23493,6 +23493,6 @@ const kanjis = [
     "grade": "S",
     "year_added": "",
     "english_meaning": "arm",
-    "readings": "ワン、うでwan, ude\n"
+    "readings": "ワン, うでwan, ude"
   }
 ]
